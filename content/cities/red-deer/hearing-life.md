@@ -1,0 +1,4 @@
+---
+title: "Hearing Life"
+url: /red-deer/hearing-life/
+---

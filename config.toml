@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/alberta"
+languageCode = "en-US"
+title = "Alberta"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "alberta"

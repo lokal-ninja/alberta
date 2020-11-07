@@ -1,0 +1,4 @@
+---
+title: "Days with Gray"
+url: /leduc/days-with-gray/
+---
