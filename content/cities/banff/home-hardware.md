@@ -1,4 +1,4 @@
 ---
-title: "Home hardware"
+title: "Home Hardware"
 url: /banff/home-hardware/
 ---
