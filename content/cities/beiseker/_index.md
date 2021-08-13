@@ -1,6 +1,6 @@
 ---
 title: Beiseker
 url: /beiseker/
-latitude: 51.3849968
-longitude: -113.54001520000001
+latitude: 51.3852192
+longitude: -113.53830760000001
 ---
