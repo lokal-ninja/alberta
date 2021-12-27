@@ -1,5 +1,5 @@
 ---
 title: "Ulmer Chevrolet Cadillac"
 url: /lloydminster/ulmer-chevrolet-cadillac/
-shop: car
+shop: Autohaus
 ---

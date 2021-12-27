@@ -1,5 +1,5 @@
 ---
 title: "Evan J. Strong Funeral Services"
 url: /calgary/evan-j-strong-funeral-services/
-shop: funeral directors
+shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tower Cleaners"
 url: /airdrie/tower-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

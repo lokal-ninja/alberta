@@ -1,6 +1,6 @@
 ---
 title: Bonnyville
 url: /bonnyville/
-latitude: 
-longitude: 
+latitude: 54.268
+longitude: -110.755
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kananaskis
 url: /kananaskis/
-latitude: 50.7010061
-longitude: -114.85374530000001
+latitude: 50.784
+longitude: -115.16
 ---

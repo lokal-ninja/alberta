@@ -1,6 +1,6 @@
 ---
 title: Sweet Grass
 url: /sweet-grass/
-latitude: 53.4642447
-longitude: -113.528255
+latitude: 48.995
+longitude: -111.962
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MEDIchair"
 url: /lloydminster/medichair/
-shop: medical supply
+shop: Sanitätshaus
 ---

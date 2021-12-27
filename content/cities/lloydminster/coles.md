@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /lloydminster/coles/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MEC"
 url: /edmonton/mec/
-shop: outdoor
+shop: Outdoor
 ---

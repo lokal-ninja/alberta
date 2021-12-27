@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /rocky-view/costco/
-shop: wholesale
+shop: Großhandel
 ---

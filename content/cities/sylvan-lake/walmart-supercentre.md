@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /sylvan-lake/walmart-supercentre/
-shop: supermarket
+shop: Supermarkt
 ---

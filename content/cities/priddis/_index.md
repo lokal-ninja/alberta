@@ -1,6 +1,6 @@
 ---
 title: Priddis
 url: /priddis/
-latitude: 50.884787800000005
-longitude: -114.3257373
+latitude: 50.885
+longitude: -114.327
 ---

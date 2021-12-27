@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /spruce-grove/benjamin-moore/
-shop: paint
+shop: Farben
 ---

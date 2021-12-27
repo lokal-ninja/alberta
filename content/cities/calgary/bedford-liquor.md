@@ -1,5 +1,5 @@
 ---
 title: "Bedford Liquor"
 url: /calgary/bedford-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

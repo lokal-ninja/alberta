@@ -1,6 +1,6 @@
 ---
 title: Vulcan
 url: /vulcan/
-latitude: 50.455260200000005
-longitude: -112.9526477
+latitude: 50.407
+longitude: -113.257
 ---

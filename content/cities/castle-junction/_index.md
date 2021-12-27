@@ -1,6 +1,6 @@
 ---
 title: Castle Junction
 url: /castle-junction/
-latitude: 51.2687625
-longitude: -115.9183328
+latitude: 51.269
+longitude: -115.919
 ---

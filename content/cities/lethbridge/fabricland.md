@@ -1,5 +1,5 @@
 ---
 title: "Fabricland"
 url: /lethbridge/fabricland/
-shop: fabric
+shop: Textil
 ---

@@ -1,6 +1,6 @@
 ---
 title: Devon
 url: /devon/
-latitude: 53.364727900000005
-longitude: -113.7292024
+latitude: 53.366
+longitude: -113.731
 ---

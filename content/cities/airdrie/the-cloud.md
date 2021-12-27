@@ -1,5 +1,5 @@
 ---
 title: "The Cloud"
 url: /airdrie/the-cloud/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

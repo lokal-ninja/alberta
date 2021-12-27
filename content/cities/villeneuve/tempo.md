@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /villeneuve/tempo/
-shop: convenience
+shop: Lebensmittel
 ---

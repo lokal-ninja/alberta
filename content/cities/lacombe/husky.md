@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /lacombe/husky/
-shop: convenience
+shop: Lebensmittel
 ---

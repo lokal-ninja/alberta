@@ -1,6 +1,6 @@
 ---
 title: Falun
 url: /falun/
-latitude: 52.9596558
-longitude: -113.8370249
+latitude: 52.959
+longitude: -113.837
 ---

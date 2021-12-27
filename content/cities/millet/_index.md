@@ -1,6 +1,6 @@
 ---
 title: Millet
 url: /millet/
-latitude: 53.094103100000005
-longitude: -113.47192960000001
+latitude: 53.092
+longitude: -113.471
 ---

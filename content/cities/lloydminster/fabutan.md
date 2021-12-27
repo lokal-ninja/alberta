@@ -1,5 +1,5 @@
 ---
 title: "Fabutan"
 url: /lloydminster/fabutan/
-shop: beauty
+shop: Kosmetik
 ---

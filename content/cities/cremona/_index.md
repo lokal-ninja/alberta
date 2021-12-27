@@ -1,6 +1,6 @@
 ---
 title: Cremona
 url: /cremona/
-latitude: 51.546691700000004
-longitude: -114.4908728
+latitude: 51.545
+longitude: -114.493
 ---

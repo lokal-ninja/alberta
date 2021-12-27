@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
 url: /spruce-grove/fountain-tire/
-shop: tyres
+shop: Reifen
 ---

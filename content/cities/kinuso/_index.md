@@ -1,6 +1,6 @@
 ---
 title: Kinuso
 url: /kinuso/
-latitude: 
-longitude: 
+latitude: 55.317
+longitude: -115.512
 ---

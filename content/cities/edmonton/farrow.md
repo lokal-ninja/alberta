@@ -1,5 +1,5 @@
 ---
 title: "Farrow"
 url: /edmonton/farrow/
-shop: coffee
+shop: Kaffee
 ---

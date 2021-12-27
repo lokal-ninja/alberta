@@ -1,6 +1,6 @@
 ---
 title: Wabasca-Desmarais
 url: /wabasca-desmarais/
-latitude: 55.968724400000006
-longitude: -113.83558670000001
+latitude: 55.949
+longitude: -113.822
 ---

@@ -1,6 +1,6 @@
 ---
 title: Warburg
 url: /warburg/
-latitude: 53.1846146
-longitude: -114.3181098
+latitude: 53.192
+longitude: -114.318
 ---

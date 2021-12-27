@@ -1,5 +1,5 @@
 ---
 title: "Renue"
 url: /calgary/renue/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MLT Nails"
 url: /spruce-grove/mlt-nails/
-shop: beauty
+shop: Kosmetik
 ---

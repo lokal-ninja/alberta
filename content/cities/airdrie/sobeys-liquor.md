@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Liquor"
 url: /airdrie/sobeys-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

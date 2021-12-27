@@ -1,6 +1,6 @@
 ---
 title: St. Albert
 url: /st-albert/
-latitude: 53.633239
-longitude: -113.62884500000001
+latitude: 53.635
+longitude: -113.575
 ---

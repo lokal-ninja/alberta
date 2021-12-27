@@ -1,6 +1,6 @@
 ---
 title: Calgary
 url: /calgary/
-latitude: 
-longitude: 
+latitude: 51.147
+longitude: -114.256
 ---

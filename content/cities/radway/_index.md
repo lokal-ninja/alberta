@@ -1,6 +1,6 @@
 ---
 title: Radway
 url: /radway/
-latitude: 54.0603788
-longitude: -112.94655990000001
+latitude: 54.035
+longitude: -113.033
 ---

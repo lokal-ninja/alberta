@@ -1,5 +1,5 @@
 ---
 title: "Cannabis House"
 url: /edmonton/cannabis-house/
-shop: cannabis
+shop: Hanf
 ---

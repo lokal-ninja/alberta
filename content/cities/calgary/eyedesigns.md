@@ -1,5 +1,5 @@
 ---
 title: "eyedesigns"
 url: /calgary/eyedesigns/
-shop: optician
+shop: Optiker
 ---

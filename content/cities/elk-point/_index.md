@@ -1,6 +1,6 @@
 ---
 title: Elk Point
 url: /elk-point/
-latitude: 53.899936800000006
-longitude: -110.8999785
+latitude: 53.896
+longitude: -110.897
 ---

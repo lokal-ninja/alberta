@@ -1,6 +1,6 @@
 ---
 title: Forestburg
 url: /forestburg/
-latitude: 52.583333
-longitude: -112.0664866
+latitude: 52.581
+longitude: -112.069
 ---

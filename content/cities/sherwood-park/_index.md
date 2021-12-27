@@ -1,6 +1,6 @@
 ---
 title: Sherwood Park
 url: /sherwood-park/
-latitude: 53.5256963
-longitude: -113.2966313
+latitude: 53.513
+longitude: -113.275
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MySecondHandStore"
 url: /airdrie/mysecondhandstore/
-shop: furniture
+shop: Möbel
 ---

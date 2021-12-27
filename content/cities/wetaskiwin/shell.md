@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wetaskiwin/shell/
-shop: convenience
+shop: Lebensmittel
 ---

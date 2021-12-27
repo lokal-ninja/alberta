@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /gunn/esso/
-shop: convenience
+shop: Lebensmittel
 ---

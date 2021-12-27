@@ -1,5 +1,5 @@
 ---
 title: "Sleep Boutique"
 url: /calgary/sleep-boutique/
-shop: bed
+shop: Betten
 ---

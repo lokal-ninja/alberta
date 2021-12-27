@@ -1,6 +1,6 @@
 ---
 title: Tofield
 url: /tofield/
-latitude: 53.3699134
-longitude: -112.66865370000001
+latitude: 53.394
+longitude: -112.805
 ---

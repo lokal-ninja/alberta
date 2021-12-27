@@ -1,6 +1,6 @@
 ---
 title: Maskwacis
 url: /maskwacis/
-latitude: 
-longitude: 
+latitude: 52.827
+longitude: -113.452
 ---

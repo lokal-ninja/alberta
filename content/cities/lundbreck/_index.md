@@ -1,6 +1,6 @@
 ---
 title: Lundbreck
 url: /lundbreck/
-latitude: 49.5855729
-longitude: -114.16333200000001
+latitude: 49.587
+longitude: -114.163
 ---

@@ -1,6 +1,6 @@
 ---
 title: Langdon
 url: /langdon/
-latitude: 50.973569700000006
-longitude: -113.67692500000001
+latitude: 50.979
+longitude: -113.676
 ---

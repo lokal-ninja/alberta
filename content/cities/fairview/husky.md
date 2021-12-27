@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /fairview/husky/
-shop: convenience
+shop: Lebensmittel
 ---

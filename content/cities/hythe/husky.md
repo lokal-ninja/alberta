@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /hythe/husky/
-shop: convenience
+shop: Lebensmittel
 ---

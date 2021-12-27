@@ -1,6 +1,6 @@
 ---
 title: Clearwater
 url: /clearwater/
-latitude: 
-longitude: 
+latitude: 52.095
+longitude: -114.858
 ---

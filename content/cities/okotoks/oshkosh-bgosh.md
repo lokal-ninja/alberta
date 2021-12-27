@@ -1,5 +1,5 @@
 ---
 title: "OshKosh B'Gosh"
 url: /okotoks/oshkosh-bgosh/
-shop: clothes
+shop: Kleidung
 ---

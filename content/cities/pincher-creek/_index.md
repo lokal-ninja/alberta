@@ -1,6 +1,6 @@
 ---
 title: Pincher Creek
 url: /pincher-creek/
-latitude: 49.476199300000005
-longitude: -114.03748730000001
+latitude: 49.495
+longitude: -113.949
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Community Natural Foods"
 url: /calgary/community-natural-foods/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

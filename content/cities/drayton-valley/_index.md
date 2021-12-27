@@ -1,6 +1,6 @@
 ---
 title: Drayton Valley
 url: /drayton-valley/
-latitude: 53.2205548
-longitude: -114.98321270000001
+latitude: 53.232
+longitude: -114.986
 ---

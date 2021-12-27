@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /medicine-hat/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

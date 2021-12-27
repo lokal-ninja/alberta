@@ -1,6 +1,6 @@
 ---
 title: New Norway
 url: /new-norway/
-latitude: 52.8690148
-longitude: -112.95211880000001
+latitude: 52.868
+longitude: -112.955
 ---

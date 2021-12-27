@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /beiseker/centex/
-shop: convenience
+shop: Lebensmittel
 ---

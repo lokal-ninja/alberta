@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /taber/husky/
-shop: convenience
+shop: Lebensmittel
 ---

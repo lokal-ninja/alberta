@@ -1,5 +1,5 @@
 ---
 title: "Massage"
 url: /calgary/massage/
-shop: massage
+shop: Massage
 ---

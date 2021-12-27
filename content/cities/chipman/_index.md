@@ -1,6 +1,6 @@
 ---
 title: Chipman
 url: /chipman/
-latitude: 53.69815800000001
-longitude: -112.6368628
+latitude: 53.699
+longitude: -112.636
 ---

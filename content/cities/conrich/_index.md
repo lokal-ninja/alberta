@@ -1,6 +1,6 @@
 ---
 title: Conrich
 url: /conrich/
-latitude: 51.0947693
-longitude: -113.86315950000001
+latitude: 51.096
+longitude: -113.866
 ---

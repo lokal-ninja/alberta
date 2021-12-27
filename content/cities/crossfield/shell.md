@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /crossfield/shell/
-shop: convenience
+shop: Lebensmittel
 ---

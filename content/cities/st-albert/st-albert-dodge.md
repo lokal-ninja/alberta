@@ -1,5 +1,5 @@
 ---
 title: "St. Albert Dodge"
 url: /st-albert/st-albert-dodge/
-shop: car
+shop: Autohaus
 ---

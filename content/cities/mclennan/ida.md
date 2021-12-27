@@ -1,5 +1,5 @@
 ---
 title: "IDA"
 url: /mclennan/ida/
-shop: chemist
+shop: Drogerie
 ---

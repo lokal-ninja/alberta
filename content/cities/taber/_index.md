@@ -1,6 +1,6 @@
 ---
 title: Taber
 url: /taber/
-latitude: 49.7932232
-longitude: -112.14365690000001
+latitude: 49.784
+longitude: -112.13
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desk'n File"
 url: /medicine-hat/deskn-file/
-shop: furniture
+shop: Möbel
 ---

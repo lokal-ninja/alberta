@@ -1,5 +1,5 @@
 ---
 title: "Barkadia"
 url: /airdrie/barkadia/
-shop: pet grooming
+shop: Tiersalon
 ---

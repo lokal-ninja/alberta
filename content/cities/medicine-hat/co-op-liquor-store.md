@@ -1,5 +1,5 @@
 ---
 title: "Co-op Liquor Store"
 url: /medicine-hat/co-op-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

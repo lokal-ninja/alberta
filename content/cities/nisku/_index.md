@@ -1,6 +1,6 @@
 ---
 title: Nisku
 url: /nisku/
-latitude: 53.333333
-longitude: -113.53333300000001
+latitude: 53.342
+longitude: -113.544
 ---

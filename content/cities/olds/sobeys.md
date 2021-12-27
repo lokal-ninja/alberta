@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /olds/sobeys/
-shop: supermarket
+shop: Supermarkt
 ---

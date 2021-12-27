@@ -1,5 +1,5 @@
 ---
 title: "Blondie Boutique"
 url: /calgary/blondie-boutique/
-shop: clothes
+shop: Kleidung
 ---

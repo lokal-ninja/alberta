@@ -1,6 +1,6 @@
 ---
 title: Indian Cabins
 url: /indian-cabins/
-latitude: 
-longitude: 
+latitude: 59.868
+longitude: -117.036
 ---

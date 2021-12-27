@@ -1,6 +1,6 @@
 ---
 title: Leduc
 url: /leduc/
-latitude: 53.260782500000005
-longitude: -113.55116810000001
+latitude: 53.266
+longitude: -113.552
 ---

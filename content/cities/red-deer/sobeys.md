@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /red-deer/sobeys/
-shop: supermarket
+shop: Supermarkt
 ---

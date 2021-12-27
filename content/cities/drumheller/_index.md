@@ -1,6 +1,6 @@
 ---
 title: Drumheller
 url: /drumheller/
-latitude: 51.466279500000006
-longitude: -112.70466420000001
+latitude: 51.453
+longitude: -112.7
 ---

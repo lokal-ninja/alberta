@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /penhold/centex/
-shop: convenience
+shop: Lebensmittel
 ---

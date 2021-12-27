@@ -1,6 +1,6 @@
 ---
 title: Fort McMurray
 url: /fort-mcmurray/
-latitude: 56.7291997
-longitude: -111.3885221
+latitude: 56.757
+longitude: -111.461
 ---

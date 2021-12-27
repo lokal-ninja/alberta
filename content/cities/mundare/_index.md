@@ -1,6 +1,6 @@
 ---
 title: Mundare
 url: /mundare/
-latitude: 53.5940426
-longitude: -112.3399002
+latitude: 53.595
+longitude: -112.339
 ---

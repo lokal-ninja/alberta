@@ -1,6 +1,6 @@
 ---
 title: Viking
 url: /viking/
-latitude: 53.097288400000004
-longitude: -111.77714660000001
+latitude: 53.096
+longitude: -111.786
 ---

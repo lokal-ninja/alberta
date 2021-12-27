@@ -1,5 +1,5 @@
 ---
 title: "Free Bird"
 url: /spruce-grove/free-bird/
-shop: beauty
+shop: Kosmetik
 ---

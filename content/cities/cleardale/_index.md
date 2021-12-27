@@ -1,6 +1,6 @@
 ---
 title: Cleardale
 url: /cleardale/
-latitude: 
-longitude: 
+latitude: 56.357
+longitude: -119.494
 ---

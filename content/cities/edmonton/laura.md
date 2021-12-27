@@ -1,5 +1,5 @@
 ---
 title: "Laura"
 url: /edmonton/laura/
-shop: clothes
+shop: Kleidung
 ---

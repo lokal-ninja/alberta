@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /high-level/the-source/
-shop: electronics
+shop: Elektronik
 ---

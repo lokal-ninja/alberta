@@ -1,5 +1,5 @@
 ---
 title: "Lil' Devil Boutique"
 url: /lloydminster/lil-devil-boutique/
-shop: erotic
+shop: Erotik
 ---

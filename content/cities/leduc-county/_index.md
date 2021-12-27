@@ -1,6 +1,6 @@
 ---
 title: Leduc County
 url: /leduc-county/
-latitude: 
-longitude: 
+latitude: 53.181
+longitude: -113.518
 ---

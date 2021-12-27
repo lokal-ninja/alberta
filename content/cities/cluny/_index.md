@@ -1,6 +1,6 @@
 ---
 title: Cluny
 url: /cluny/
-latitude: 50.8402894
-longitude: -112.8703797
+latitude: 50.863
+longitude: -112.869
 ---

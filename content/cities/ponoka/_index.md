@@ -1,6 +1,6 @@
 ---
 title: Ponoka
 url: /ponoka/
-latitude: 52.7179975
-longitude: -113.9112662
+latitude: 52.681
+longitude: -113.583
 ---

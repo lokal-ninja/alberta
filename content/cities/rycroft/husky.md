@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /rycroft/husky/
-shop: convenience
+shop: Lebensmittel
 ---

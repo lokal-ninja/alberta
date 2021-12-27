@@ -1,6 +1,6 @@
 ---
 title: Banff
 url: /banff/
-latitude: 51.177778100000005
-longitude: -115.56825040000001
+latitude: 51.178
+longitude: -115.573
 ---

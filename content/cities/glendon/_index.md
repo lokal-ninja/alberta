@@ -1,6 +1,6 @@
 ---
 title: Glendon
 url: /glendon/
-latitude: 54.251111
-longitude: -111.15138900000001
+latitude: 54.252
+longitude: -111.156
 ---

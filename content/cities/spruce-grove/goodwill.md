@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /spruce-grove/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

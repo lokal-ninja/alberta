@@ -1,6 +1,6 @@
 ---
 title: Innisfree
 url: /innisfree/
-latitude: 53.38039680000001
-longitude: -111.530185
+latitude: 53.371
+longitude: -111.529
 ---

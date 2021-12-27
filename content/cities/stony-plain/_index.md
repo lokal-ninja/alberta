@@ -1,6 +1,6 @@
 ---
 title: Stony Plain
 url: /stony-plain/
-latitude: 53.528986200000006
-longitude: -114.00487310000001
+latitude: 53.539
+longitude: -113.979
 ---

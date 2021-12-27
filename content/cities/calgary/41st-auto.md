@@ -1,5 +1,5 @@
 ---
 title: "41st Auto"
 url: /calgary/41st-auto/
-shop: car repair
+shop: Autowerkstatt
 ---

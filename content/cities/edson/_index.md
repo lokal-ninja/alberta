@@ -1,6 +1,6 @@
 ---
 title: Edson
 url: /edson/
-latitude: 
-longitude: 
+latitude: 53.583
+longitude: -116.429
 ---

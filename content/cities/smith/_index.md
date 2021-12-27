@@ -1,6 +1,6 @@
 ---
 title: Smith
 url: /smith/
-latitude: 
-longitude: 
+latitude: 55.163
+longitude: -114.038
 ---

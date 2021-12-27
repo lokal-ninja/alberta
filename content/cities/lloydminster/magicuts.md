@@ -1,5 +1,5 @@
 ---
 title: "Magicuts"
 url: /lloydminster/magicuts/
-shop: hairdresser
+shop: Friseur
 ---

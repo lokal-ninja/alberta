@@ -1,6 +1,6 @@
 ---
 title: Olds
 url: /olds/
-latitude: 51.792373500000004
-longitude: -114.11303670000001
+latitude: 51.794
+longitude: -114.12
 ---

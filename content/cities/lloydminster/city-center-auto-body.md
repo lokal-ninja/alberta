@@ -1,5 +1,5 @@
 ---
 title: "City Center Auto Body"
 url: /lloydminster/city-center-auto-body/
-shop: car repair
+shop: Autowerkstatt
 ---

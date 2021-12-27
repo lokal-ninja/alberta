@@ -1,6 +1,6 @@
 ---
 title: Slave Lake
 url: /slave-lake/
-latitude: 55.281074100000005
-longitude: -114.77178760000001
+latitude: 55.288
+longitude: -114.753
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabutan"
 url: /calgary/fabutan/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Real Canadian Liquor Store"
 url: /lloydminster/real-canadian-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---
