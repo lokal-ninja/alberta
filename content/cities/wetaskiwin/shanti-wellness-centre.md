@@ -1,5 +1,5 @@
 ---
 title: "Shanti Wellness Centre"
 url: /wetaskiwin/shanti-wellness-centre/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama Heritage Towne"
 url: /calgary/dollarama-heritage-towne/
-shop: Kramladen
+shop: variety store
 ---

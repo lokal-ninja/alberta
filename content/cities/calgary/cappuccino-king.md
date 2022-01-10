@@ -1,5 +1,5 @@
 ---
 title: "Cappuccino King"
 url: /calgary/cappuccino-king/
-shop: Allgemein
+shop: shop
 ---

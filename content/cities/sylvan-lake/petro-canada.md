@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /sylvan-lake/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

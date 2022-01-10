@@ -1,5 +1,5 @@
 ---
 title: "Mega-Mart"
 url: /calgary/mega-mart/
-shop: Lebensmittel
+shop: convenience
 ---

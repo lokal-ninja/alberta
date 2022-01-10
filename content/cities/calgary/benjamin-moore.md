@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /calgary/benjamin-moore/
-shop: Eisenwaren
+shop: hardware
 ---

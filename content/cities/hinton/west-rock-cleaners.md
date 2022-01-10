@@ -1,5 +1,5 @@
 ---
 title: "West Rock Cleaners"
 url: /hinton/west-rock-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

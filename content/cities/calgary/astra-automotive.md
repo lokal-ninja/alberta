@@ -1,5 +1,5 @@
 ---
 title: "Astra Automotive"
 url: /calgary/astra-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

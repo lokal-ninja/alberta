@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /calgary/sherwin-williams-3/
-shop: Farben
+shop: paint
 ---

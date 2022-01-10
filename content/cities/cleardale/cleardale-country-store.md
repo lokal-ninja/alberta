@@ -1,5 +1,5 @@
 ---
 title: "Cleardale Country Store"
 url: /cleardale/cleardale-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beer Shak"
 url: /spruce-grove/beer-shak/
-shop: Spirituosen
+shop: alcohol
 ---

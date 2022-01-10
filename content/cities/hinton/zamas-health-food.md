@@ -1,5 +1,5 @@
 ---
 title: "Zama’s Health Food"
 url: /hinton/zamas-health-food/
-shop: Bioladen
+shop: health food
 ---

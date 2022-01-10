@@ -1,5 +1,5 @@
 ---
 title: "Chapters"
 url: /calgary/chapters-2/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lloydminster/shell/
-shop: Lebensmittel
+shop: convenience
 ---

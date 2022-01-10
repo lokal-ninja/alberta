@@ -1,5 +1,5 @@
 ---
 title: "Ricki's"
 url: /lloydminster/rickis/
-shop: Kleidung
+shop: clothes
 ---

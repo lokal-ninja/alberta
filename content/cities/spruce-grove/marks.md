@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /spruce-grove/marks/
-shop: Kleidung
+shop: clothes
 ---

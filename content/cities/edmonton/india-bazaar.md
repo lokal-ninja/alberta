@@ -1,5 +1,5 @@
 ---
 title: "India Bazaar"
 url: /edmonton/india-bazaar/
-shop: Supermarkt
+shop: supermarket
 ---

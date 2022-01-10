@@ -1,5 +1,5 @@
 ---
 title: "Minhas Liquor"
 url: /calgary/minhas-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Infinity Massage"
 url: /airdrie/infinity-massage/
-shop: Massage
+shop: massage
 ---

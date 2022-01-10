@@ -1,5 +1,5 @@
 ---
 title: "CSN Star Autobody"
 url: /valleyview/csn-star-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

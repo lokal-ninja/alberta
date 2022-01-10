@@ -1,5 +1,5 @@
 ---
 title: "Superior Hearing Solutions"
 url: /airdrie/superior-hearing-solutions/
-shop: Hörgeräte
+shop: hearing aids
 ---

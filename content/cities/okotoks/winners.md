@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /okotoks/winners/
-shop: Kleidung
+shop: clothes
 ---

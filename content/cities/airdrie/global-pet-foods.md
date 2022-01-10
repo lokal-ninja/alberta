@@ -1,5 +1,5 @@
 ---
 title: "Global Pet Foods"
 url: /airdrie/global-pet-foods/
-shop: Tiere
+shop: pet
 ---

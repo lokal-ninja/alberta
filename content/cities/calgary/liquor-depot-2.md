@@ -1,5 +1,5 @@
 ---
 title: "Liquor Depot"
 url: /calgary/liquor-depot-2/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Korean Bakery"
 url: /calgary/korean-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dynamic Vaccums"
 url: /calgary/dynamic-vaccums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

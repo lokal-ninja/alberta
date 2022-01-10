@@ -1,5 +1,5 @@
 ---
 title: "Cross Fit"
 url: /calgary/cross-fit/
-shop: Allgemein
+shop: shop
 ---

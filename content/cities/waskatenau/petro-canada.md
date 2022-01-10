@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /waskatenau/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

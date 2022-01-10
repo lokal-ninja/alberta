@@ -1,5 +1,5 @@
 ---
 title: "Visions"
 url: /airdrie/visions/
-shop: Elektronik
+shop: electronics
 ---

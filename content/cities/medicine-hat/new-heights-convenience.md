@@ -1,5 +1,5 @@
 ---
 title: "New Heights Convenience"
 url: /medicine-hat/new-heights-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

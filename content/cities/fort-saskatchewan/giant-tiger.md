@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /fort-saskatchewan/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

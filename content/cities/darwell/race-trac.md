@@ -1,5 +1,5 @@
 ---
 title: "Race Trac"
 url: /darwell/race-trac/
-shop: Lebensmittel
+shop: convenience
 ---

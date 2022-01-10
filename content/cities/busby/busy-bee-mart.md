@@ -1,5 +1,5 @@
 ---
 title: "Busy Bee Mart"
 url: /busby/busy-bee-mart/
-shop: Lebensmittel
+shop: convenience
 ---

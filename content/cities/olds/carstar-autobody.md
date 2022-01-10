@@ -1,5 +1,5 @@
 ---
 title: "Carstar Autobody"
 url: /olds/carstar-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

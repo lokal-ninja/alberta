@@ -1,5 +1,5 @@
 ---
 title: "Reddi Mart"
 url: /calgary/reddi-mart/
-shop: Supermarkt
+shop: supermarket
 ---

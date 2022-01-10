@@ -1,5 +1,5 @@
 ---
 title: "Mid-Town Service"
 url: /calgary/mid-town-service/
-shop: Autowerkstatt
+shop: car repair
 ---

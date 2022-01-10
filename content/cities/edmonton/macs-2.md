@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /edmonton/macs-2/
-shop: Lebensmittel
+shop: convenience
 ---

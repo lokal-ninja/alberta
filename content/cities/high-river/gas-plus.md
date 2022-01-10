@@ -1,5 +1,5 @@
 ---
 title: "Gas Plus"
 url: /high-river/gas-plus/
-shop: Lebensmittel
+shop: convenience
 ---

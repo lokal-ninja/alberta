@@ -1,5 +1,5 @@
 ---
 title: "Airdrie Automotive"
 url: /airdrie/airdrie-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

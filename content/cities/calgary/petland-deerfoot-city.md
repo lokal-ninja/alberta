@@ -1,5 +1,5 @@
 ---
 title: "Petland Deerfoot City"
 url: /calgary/petland-deerfoot-city/
-shop: Tiere
+shop: pet
 ---

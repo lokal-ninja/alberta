@@ -1,5 +1,5 @@
 ---
 title: "Crowfoot Image Autobody Ltd."
 url: /calgary/crowfoot-image-autobody-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

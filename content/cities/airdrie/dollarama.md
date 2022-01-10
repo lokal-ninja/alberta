@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /airdrie/dollarama/
-shop: Kramladen
+shop: variety store
 ---

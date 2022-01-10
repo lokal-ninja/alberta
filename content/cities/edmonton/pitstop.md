@@ -1,5 +1,5 @@
 ---
 title: "PitStop"
 url: /edmonton/pitstop/
-shop: Autowerkstatt
+shop: car repair
 ---

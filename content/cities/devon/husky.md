@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /devon/husky/
-shop: Lebensmittel
+shop: convenience
 ---

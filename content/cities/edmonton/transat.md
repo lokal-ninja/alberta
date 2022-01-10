@@ -1,5 +1,5 @@
 ---
 title: "Transat"
 url: /edmonton/transat/
-shop: Reisebüro
+shop: travel agency
 ---

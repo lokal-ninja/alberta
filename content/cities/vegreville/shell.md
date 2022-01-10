@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /vegreville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

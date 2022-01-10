@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /sylvan-lake/canadian-tire/
-shop: Autoteile
+shop: car parts
 ---

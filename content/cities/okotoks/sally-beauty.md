@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /okotoks/sally-beauty/
-shop: Kosmetik
+shop: beauty
 ---

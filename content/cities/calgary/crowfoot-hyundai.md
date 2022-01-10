@@ -1,5 +1,5 @@
 ---
 title: "Crowfoot Hyundai"
 url: /calgary/crowfoot-hyundai/
-shop: Autohaus
+shop: car
 ---

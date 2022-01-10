@@ -1,5 +1,5 @@
 ---
 title: "Winks"
 url: /fort-vermilion/winks/
-shop: Lebensmittel
+shop: convenience
 ---

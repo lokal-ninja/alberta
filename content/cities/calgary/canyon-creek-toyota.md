@@ -1,5 +1,5 @@
 ---
 title: "Canyon Creek Toyota"
 url: /calgary/canyon-creek-toyota/
-shop: Autohaus
+shop: car
 ---

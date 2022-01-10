@@ -1,5 +1,5 @@
 ---
 title: "Grove City Meats"
 url: /spruce-grove/grove-city-meats/
-shop: Metzgerei
+shop: butcher
 ---

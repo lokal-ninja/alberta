@@ -1,5 +1,5 @@
 ---
 title: "Extra Storage"
 url: /medicine-hat/extra-storage/
-shop: Mieten
+shop: storage rental
 ---

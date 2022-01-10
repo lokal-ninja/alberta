@@ -1,5 +1,5 @@
 ---
 title: "Liquor Depot"
 url: /edmonton/liquor-depot-4/
-shop: Spirituosen
+shop: alcohol
 ---

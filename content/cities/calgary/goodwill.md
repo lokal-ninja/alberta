@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /calgary/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

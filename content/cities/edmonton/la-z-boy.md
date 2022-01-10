@@ -1,5 +1,5 @@
 ---
 title: "La-Z-Boy"
 url: /edmonton/la-z-boy/
-shop: Möbel
+shop: furniture
 ---

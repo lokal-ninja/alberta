@@ -1,5 +1,5 @@
 ---
 title: "Dowland Automotive"
 url: /olds/dowland-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

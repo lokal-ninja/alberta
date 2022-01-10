@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /spruce-grove/u-haul/
-shop: Mieten
+shop: storage rental
 ---

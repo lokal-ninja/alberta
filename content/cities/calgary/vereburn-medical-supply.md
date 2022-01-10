@@ -1,5 +1,5 @@
 ---
 title: "Vereburn Medical Supply"
 url: /calgary/vereburn-medical-supply/
-shop: Sanitätshaus
+shop: medical supply
 ---

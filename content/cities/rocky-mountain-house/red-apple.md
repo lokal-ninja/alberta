@@ -1,5 +1,5 @@
 ---
 title: "Red Apple"
 url: /rocky-mountain-house/red-apple/
-shop: Dorfladen
+shop: general
 ---

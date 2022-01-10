@@ -1,5 +1,5 @@
 ---
 title: "Wolseley HVAC"
 url: /calgary/wolseley-hvac/
-shop: Großhandel
+shop: wholesale
 ---

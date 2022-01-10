@@ -1,5 +1,5 @@
 ---
 title: "Tirecraft"
 url: /edmonton/tirecraft/
-shop: Autowerkstatt
+shop: car repair
 ---

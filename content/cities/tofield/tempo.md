@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /tofield/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

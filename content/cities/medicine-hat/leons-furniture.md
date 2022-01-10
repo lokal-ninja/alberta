@@ -1,5 +1,5 @@
 ---
 title: "Leon's Furniture"
 url: /medicine-hat/leons-furniture/
-shop: Möbel
+shop: furniture
 ---

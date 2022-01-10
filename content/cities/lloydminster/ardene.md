@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /lloydminster/ardene/
-shop: Kleidung
+shop: clothes
 ---

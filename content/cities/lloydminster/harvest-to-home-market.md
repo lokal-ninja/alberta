@@ -1,5 +1,5 @@
 ---
 title: "Harvest to Home Market"
 url: /lloydminster/harvest-to-home-market/
-shop: Kramladen
+shop: variety store
 ---

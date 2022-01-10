@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /morley/centex/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kitchen-ka-boodle"
 url: /medicine-hat/kitchen-ka-boodle/
-shop: Haushaltsartikel
+shop: houseware
 ---

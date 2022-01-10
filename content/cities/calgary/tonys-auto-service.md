@@ -1,5 +1,5 @@
 ---
 title: "Tony's Auto Service"
 url: /calgary/tonys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

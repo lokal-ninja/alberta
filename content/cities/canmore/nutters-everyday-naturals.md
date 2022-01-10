@@ -1,5 +1,5 @@
 ---
 title: "Nutters Everyday Naturals"
 url: /canmore/nutters-everyday-naturals/
-shop: Bioladen
+shop: health food
 ---

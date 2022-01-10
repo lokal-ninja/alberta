@@ -1,5 +1,5 @@
 ---
 title: "Splash Custom Auto Refinishing"
 url: /calgary/splash-custom-auto-refinishing/
-shop: Autowerkstatt
+shop: car repair
 ---

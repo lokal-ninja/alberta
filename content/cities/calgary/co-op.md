@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /calgary/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

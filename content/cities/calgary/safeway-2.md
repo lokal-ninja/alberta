@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /calgary/safeway-2/
-shop: Supermarkt
+shop: supermarket
 ---

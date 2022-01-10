@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /okotoks/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

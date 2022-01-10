@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /red-deer/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

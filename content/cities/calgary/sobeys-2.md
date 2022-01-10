@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /calgary/sobeys-2/
-shop: Supermarkt
+shop: supermarket
 ---

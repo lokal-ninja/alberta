@@ -1,5 +1,5 @@
 ---
 title: "The Phone Experts"
 url: /airdrie/the-phone-experts/
-shop: Handy
+shop: mobile phone
 ---

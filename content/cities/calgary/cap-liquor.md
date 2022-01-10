@@ -1,5 +1,5 @@
 ---
 title: "Cap Liquor"
 url: /calgary/cap-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

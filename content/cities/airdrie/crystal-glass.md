@@ -1,5 +1,5 @@
 ---
 title: "Crystal Glass"
 url: /airdrie/crystal-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

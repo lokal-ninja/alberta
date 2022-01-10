@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /sherwood-park/the-source/
-shop: Elektronik
+shop: electronics
 ---

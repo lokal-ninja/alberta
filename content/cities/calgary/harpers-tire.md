@@ -1,5 +1,5 @@
 ---
 title: "Harper's Tire"
 url: /calgary/harpers-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

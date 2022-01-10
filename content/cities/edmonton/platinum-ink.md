@@ -1,5 +1,5 @@
 ---
 title: "Platinum Ink"
 url: /edmonton/platinum-ink/
-shop: Tattoo
+shop: tattoo
 ---

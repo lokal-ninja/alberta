@@ -1,5 +1,5 @@
 ---
 title: "Hunterhorn Coin Laundry"
 url: /calgary/hunterhorn-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

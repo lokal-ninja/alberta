@@ -1,5 +1,5 @@
 ---
 title: "Parkdale Auto Service"
 url: /calgary/parkdale-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

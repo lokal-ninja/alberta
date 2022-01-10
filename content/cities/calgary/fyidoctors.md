@@ -1,5 +1,5 @@
 ---
 title: "FYidoctors"
 url: /calgary/fyidoctors/
-shop: Optiker
+shop: optician
 ---

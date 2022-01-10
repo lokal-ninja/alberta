@@ -1,5 +1,5 @@
 ---
 title: "Sally"
 url: /airdrie/sally/
-shop: Kosmetik
+shop: beauty
 ---

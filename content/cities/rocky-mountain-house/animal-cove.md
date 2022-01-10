@@ -1,5 +1,5 @@
 ---
 title: "Animal Cove"
 url: /rocky-mountain-house/animal-cove/
-shop: Tiere
+shop: pet
 ---

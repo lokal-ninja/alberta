@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sherwood-park/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

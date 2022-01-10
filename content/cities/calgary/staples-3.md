@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /calgary/staples-3/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /okotoks/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

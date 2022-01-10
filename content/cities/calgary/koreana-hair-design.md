@@ -1,5 +1,5 @@
 ---
 title: "Koreana Hair Design"
 url: /calgary/koreana-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

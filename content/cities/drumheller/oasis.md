@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /drumheller/oasis/
-shop: Lebensmittel
+shop: convenience
 ---

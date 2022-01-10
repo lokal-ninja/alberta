@@ -1,5 +1,5 @@
 ---
 title: "Baseline Wines"
 url: /sherwood-park/baseline-wines/
-shop: Spirituosen
+shop: alcohol
 ---

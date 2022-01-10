@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /lloydminster/hyundai/
-shop: Autohaus
+shop: car
 ---

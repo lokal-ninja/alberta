@@ -1,5 +1,5 @@
 ---
 title: "Calgary North Decorating"
 url: /calgary/calgary-north-decorating/
-shop: Raumausstattung
+shop: interior decoration
 ---

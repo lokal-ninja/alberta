@@ -1,5 +1,5 @@
 ---
 title: "Euphoria"
 url: /airdrie/euphoria/
-shop: Friseur
+shop: hairdresser
 ---

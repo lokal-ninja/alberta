@@ -1,5 +1,5 @@
 ---
 title: "Shaw"
 url: /edmonton/shaw/
-shop: Handy
+shop: mobile phone
 ---

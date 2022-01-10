@@ -1,5 +1,5 @@
 ---
 title: "Crowsnest Trail Outpost"
 url: /brocket/crowsnest-trail-outpost/
-shop: Lebensmittel
+shop: convenience
 ---

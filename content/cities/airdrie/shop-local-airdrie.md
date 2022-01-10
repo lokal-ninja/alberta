@@ -1,5 +1,5 @@
 ---
 title: "Shop Local Airdrie"
 url: /airdrie/shop-local-airdrie/
-shop: Allgemein
+shop: shop
 ---

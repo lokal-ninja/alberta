@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lethbridge/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /olds/telus/
-shop: Handy
+shop: mobile phone
 ---

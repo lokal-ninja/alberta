@@ -1,5 +1,5 @@
 ---
 title: "Guardian Pharmacy"
 url: /edmonton/guardian-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Domo"
 url: /chipman/domo/
-shop: Lebensmittel
+shop: convenience
 ---

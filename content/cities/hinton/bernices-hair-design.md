@@ -1,5 +1,5 @@
 ---
 title: "Bernice’s Hair Design"
 url: /hinton/bernices-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

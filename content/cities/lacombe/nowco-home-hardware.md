@@ -1,5 +1,5 @@
 ---
 title: "Nowco Home Hardware"
 url: /lacombe/nowco-home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

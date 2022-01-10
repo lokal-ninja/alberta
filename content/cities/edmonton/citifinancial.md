@@ -1,5 +1,5 @@
 ---
 title: "CitiFinancial"
 url: /edmonton/citifinancial/
-shop: Leiher
+shop: pawnbroker
 ---

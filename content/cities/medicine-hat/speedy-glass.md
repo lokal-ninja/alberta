@@ -1,5 +1,5 @@
 ---
 title: "Speedy Glass"
 url: /medicine-hat/speedy-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

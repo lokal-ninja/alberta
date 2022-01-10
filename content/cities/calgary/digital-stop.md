@@ -1,5 +1,5 @@
 ---
 title: "Digital Stop"
 url: /calgary/digital-stop/
-shop: Kopieren
+shop: copyshop
 ---

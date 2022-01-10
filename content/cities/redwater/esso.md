@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /redwater/esso/
-shop: Lebensmittel
+shop: convenience
 ---

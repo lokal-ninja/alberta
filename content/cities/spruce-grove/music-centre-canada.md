@@ -1,5 +1,5 @@
 ---
 title: "Music Centre Canada"
 url: /spruce-grove/music-centre-canada/
-shop: Instrumente
+shop: musical instrument
 ---

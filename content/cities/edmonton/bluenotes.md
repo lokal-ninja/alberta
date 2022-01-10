@@ -1,5 +1,5 @@
 ---
 title: "Bluenotes"
 url: /edmonton/bluenotes/
-shop: Kleidung
+shop: clothes
 ---

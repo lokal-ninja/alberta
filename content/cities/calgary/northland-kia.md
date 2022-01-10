@@ -1,5 +1,5 @@
 ---
 title: "Northland Kia"
 url: /calgary/northland-kia/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /edmonton/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

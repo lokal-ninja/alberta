@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /bentley/esso/
-shop: Lebensmittel
+shop: convenience
 ---

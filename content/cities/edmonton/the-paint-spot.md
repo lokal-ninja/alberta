@@ -1,5 +1,5 @@
 ---
 title: "The Paint Spot"
 url: /edmonton/the-paint-spot/
-shop: Farben
+shop: paint
 ---

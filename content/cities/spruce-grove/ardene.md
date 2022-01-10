@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /spruce-grove/ardene/
-shop: Kleidung
+shop: clothes
 ---

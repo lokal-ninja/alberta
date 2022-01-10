@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /stony-plain/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

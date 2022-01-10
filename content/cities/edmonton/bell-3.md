@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /edmonton/bell-3/
-shop: Handy
+shop: mobile phone
 ---

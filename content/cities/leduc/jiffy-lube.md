@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /leduc/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

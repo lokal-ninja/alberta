@@ -1,5 +1,5 @@
 ---
 title: "McBain Camera"
 url: /edmonton/mcbain-camera/
-shop: Foto
+shop: photo
 ---

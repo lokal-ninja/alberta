@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /edson/esso/
-shop: Lebensmittel
+shop: convenience
 ---

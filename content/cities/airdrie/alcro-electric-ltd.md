@@ -1,5 +1,5 @@
 ---
 title: "Alcro Electric Ltd."
 url: /airdrie/alcro-electric-ltd/
-shop: Elektrisch
+shop: electrical
 ---

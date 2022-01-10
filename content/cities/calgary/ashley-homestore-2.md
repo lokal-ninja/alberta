@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /calgary/ashley-homestore-2/
-shop: Möbel
+shop: furniture
 ---

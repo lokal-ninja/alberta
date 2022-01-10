@@ -1,5 +1,5 @@
 ---
 title: "Jamie Davis Towing"
 url: /edmonton/jamie-davis-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

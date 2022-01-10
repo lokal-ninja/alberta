@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /calgary/dollarama-4/
-shop: Kramladen
+shop: variety store
 ---

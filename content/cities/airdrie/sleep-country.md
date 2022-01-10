@@ -1,5 +1,5 @@
 ---
 title: "Sleep Country"
 url: /airdrie/sleep-country/
-shop: Betten
+shop: bed
 ---

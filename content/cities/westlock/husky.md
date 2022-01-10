@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /westlock/husky/
-shop: Lebensmittel
+shop: convenience
 ---

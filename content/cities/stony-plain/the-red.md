@@ -1,5 +1,5 @@
 ---
 title: "The Red"
 url: /stony-plain/the-red/
-shop: Lebensmittel
+shop: convenience
 ---

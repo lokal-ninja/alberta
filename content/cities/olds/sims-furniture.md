@@ -1,5 +1,5 @@
 ---
 title: "Sims Furniture"
 url: /olds/sims-furniture/
-shop: Möbel
+shop: furniture
 ---

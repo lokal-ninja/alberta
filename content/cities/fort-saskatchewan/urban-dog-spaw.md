@@ -1,5 +1,5 @@
 ---
 title: "Urban Dog SPAW"
 url: /fort-saskatchewan/urban-dog-spaw/
-shop: Tiersalon
+shop: pet grooming
 ---

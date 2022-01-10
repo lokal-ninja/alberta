@@ -1,5 +1,5 @@
 ---
 title: "Boft Fine Rugs Gallery"
 url: /calgary/boft-fine-rugs-gallery/
-shop: Textil
+shop: fabric
 ---

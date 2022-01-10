@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wabamun/shell/
-shop: Lebensmittel
+shop: convenience
 ---

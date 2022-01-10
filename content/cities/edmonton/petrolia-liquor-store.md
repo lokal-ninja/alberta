@@ -1,5 +1,5 @@
 ---
 title: "Petrolia Liquor Store"
 url: /edmonton/petrolia-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

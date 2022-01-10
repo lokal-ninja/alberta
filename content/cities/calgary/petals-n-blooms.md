@@ -1,5 +1,5 @@
 ---
 title: "Petals 'n Blooms"
 url: /calgary/petals-n-blooms/
-shop: Blumen
+shop: florist
 ---

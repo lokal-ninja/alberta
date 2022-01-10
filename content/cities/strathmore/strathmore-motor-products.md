@@ -1,5 +1,5 @@
 ---
 title: "Strathmore Motor Products"
 url: /strathmore/strathmore-motor-products/
-shop: Autohaus
+shop: car
 ---

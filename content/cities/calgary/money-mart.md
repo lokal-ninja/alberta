@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
 url: /calgary/money-mart/
-shop: Leiher
+shop: pawnbroker
 ---

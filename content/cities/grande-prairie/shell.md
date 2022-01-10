@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /grande-prairie/shell/
-shop: Lebensmittel
+shop: convenience
 ---

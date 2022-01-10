@@ -1,5 +1,5 @@
 ---
 title: "GTI"
 url: /eckville/gti/
-shop: Lebensmittel
+shop: convenience
 ---

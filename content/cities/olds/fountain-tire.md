@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
 url: /olds/fountain-tire/
-shop: Reifen
+shop: tyres
 ---

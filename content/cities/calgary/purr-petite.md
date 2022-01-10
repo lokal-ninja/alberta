@@ -1,5 +1,5 @@
 ---
 title: "Purr Petite"
 url: /calgary/purr-petite/
-shop: Kleidung
+shop: clothes
 ---

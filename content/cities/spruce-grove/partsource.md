@@ -1,5 +1,5 @@
 ---
 title: "PartSource"
 url: /spruce-grove/partsource/
-shop: Autoteile
+shop: car parts
 ---

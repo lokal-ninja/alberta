@@ -1,5 +1,5 @@
 ---
 title: "Race Trac"
 url: /bowden/race-trac/
-shop: Lebensmittel
+shop: convenience
 ---

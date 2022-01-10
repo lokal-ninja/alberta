@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /alberta-beach/esso/
-shop: Lebensmittel
+shop: convenience
 ---

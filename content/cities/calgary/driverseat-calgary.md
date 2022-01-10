@@ -1,5 +1,5 @@
 ---
 title: "Driverseat Calgary"
 url: /calgary/driverseat-calgary/
-shop: Reisebüro
+shop: travel agency
 ---

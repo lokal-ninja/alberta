@@ -1,5 +1,5 @@
 ---
 title: "Wild Mile Auto"
 url: /olds/wild-mile-auto/
-shop: Autohaus
+shop: car
 ---
