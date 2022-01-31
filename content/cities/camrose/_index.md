@@ -1,6 +1,6 @@
 ---
 title: Camrose
 url: /camrose/
-latitude: 53.023
-longitude: -112.824
+latitude: 53.021
+longitude: -112.825
 ---
