@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /calgary/homesense/
-shop: department store
+shop: interior decoration
 ---
