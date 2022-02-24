@@ -1,6 +1,6 @@
 ---
 title: Picture Butte
 url: /picture-butte/
-latitude: 49.875
-longitude: -112.788
+latitude: 49.81
+longitude: -112.866
 ---
