@@ -1,6 +1,6 @@
 ---
 title: High Level
 url: /high-level/
-latitude: 58.517
-longitude: -117.134
+latitude: 58.51
+longitude: -117.143
 ---
