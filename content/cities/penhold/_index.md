@@ -1,6 +1,6 @@
 ---
 title: Penhold
 url: /penhold/
-latitude: 52.143
-longitude: -113.873
+latitude: 52.136
+longitude: -113.872
 ---
