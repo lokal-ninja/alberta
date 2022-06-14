@@ -1,5 +1,5 @@
 ---
-title: "Frilly Lilly"
+title: "frilly lilly"
 url: /calgary/frilly-lilly/
 shop: beauty
 ---
