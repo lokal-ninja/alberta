@@ -1,6 +1,6 @@
 ---
 title: Strathcona County
 url: /strathcona-county/
-latitude: 53.559
-longitude: -113.088
+latitude: 53.513
+longitude: -113.258
 ---
