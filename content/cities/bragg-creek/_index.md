@@ -1,6 +1,6 @@
 ---
 title: Bragg Creek
 url: /bragg-creek/
-latitude: 50.946
-longitude: -114.576
+latitude: 50.948
+longitude: -114.567
 ---
