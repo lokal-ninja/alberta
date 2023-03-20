@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /spruce-grove/goodwill/
+url: /grande-prairie/goodwill/
 shop: charity
 ---
