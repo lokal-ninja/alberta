@@ -1,6 +1,6 @@
 ---
 title: Okotoks
 url: /okotoks/
-latitude: 50.726
-longitude: -113.978
+latitude: 50.725
+longitude: -113.983
 ---
