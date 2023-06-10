@@ -1,6 +1,6 @@
 ---
 title: Empress
 url: /empress/
-latitude: 50.951
-longitude: -110.011
+latitude: 50.957
+longitude: -110.008
 ---
