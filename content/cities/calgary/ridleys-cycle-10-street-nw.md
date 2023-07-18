@@ -1,5 +1,5 @@
 ---
-title: "Ridley's Cycle"
+title: "Ridleys Cycle"
 url: /calgary/ridleys-cycle/
 shop: bicycle
 ---
