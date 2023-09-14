@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /okotoks/dollarama/
+url: /okotoks/dollarama-village-avenue/
 shop: variety store
 ---

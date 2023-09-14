@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /airdrie/circle-k/
+url: /airdrie/circle-k-summerfield-boulevard-se/
 shop: convenience
 ---

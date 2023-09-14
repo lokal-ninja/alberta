@@ -1,5 +1,5 @@
 ---
 title: "Gilligans"
-url: /airdrie/gilligans/
+url: /airdrie/gilligans-east-lake-crescent-ne/
 shop: boat
 ---

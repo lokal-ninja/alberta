@@ -1,5 +1,5 @@
 ---
 title: "Select"
-url: /fort-mcmurray/select/
+url: /fort-mcmurray/select-franklin-avenue/
 shop: convenience
 ---

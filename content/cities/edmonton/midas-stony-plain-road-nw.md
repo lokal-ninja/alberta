@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /edmonton/midas/
+url: /edmonton/midas-stony-plain-road-nw/
 shop: car repair
 ---

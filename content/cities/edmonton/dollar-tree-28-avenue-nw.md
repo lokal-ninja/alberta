@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /edmonton/dollar-tree/
+url: /edmonton/dollar-tree-28-avenue-nw/
 shop: variety store
 ---

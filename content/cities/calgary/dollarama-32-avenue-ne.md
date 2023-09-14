@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /calgary/dollarama/
+url: /calgary/dollarama-32-avenue-ne/
 shop: variety store
 ---

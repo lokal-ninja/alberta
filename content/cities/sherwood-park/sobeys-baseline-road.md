@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /sherwood-park/sobeys/
+url: /sherwood-park/sobeys-baseline-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /calgary/petsmart/
+url: /calgary/petsmart-east-hills-boulevard-se/
 shop: pet
 ---

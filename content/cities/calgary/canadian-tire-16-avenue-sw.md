@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /calgary/canadian-tire/
+url: /calgary/canadian-tire-16-avenue-sw/
 shop: department store
 ---

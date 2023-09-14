@@ -1,5 +1,5 @@
 ---
 title: "Fabutan"
-url: /calgary/fabutan/
+url: /calgary/fabutan-33-avenue-sw/
 shop: beauty
 ---

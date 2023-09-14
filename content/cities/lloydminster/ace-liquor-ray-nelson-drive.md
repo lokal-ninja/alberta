@@ -1,5 +1,5 @@
 ---
 title: "Ace Liquor"
-url: /lloydminster/ace-liquor/
+url: /lloydminster/ace-liquor-ray-nelson-drive/
 shop: alcohol
 ---

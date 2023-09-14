@@ -1,5 +1,5 @@
 ---
 title: "Petland"
-url: /edmonton/petland/
+url: /edmonton/petland-calgary-trail-nw/
 shop: pet
 ---

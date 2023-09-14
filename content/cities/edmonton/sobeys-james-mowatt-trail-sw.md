@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /edmonton/sobeys/
+url: /edmonton/sobeys-james-mowatt-trail-sw/
 shop: supermarket
 ---

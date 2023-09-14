@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /edmonton/bell/
+url: /edmonton/bell-17-street-nw/
 shop: mobile phone
 ---

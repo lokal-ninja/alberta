@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /calgary/michaels/
+url: /calgary/michaels-east-hills-blvd-se/
 shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winners"
-url: /calgary/winners/
+url: /calgary/winners-64-avenue-ne/
 shop: clothes
 ---

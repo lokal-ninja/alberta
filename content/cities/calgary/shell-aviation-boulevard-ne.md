@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /calgary/shell/
+url: /calgary/shell-aviation-boulevard-ne/
 shop: convenience
 ---

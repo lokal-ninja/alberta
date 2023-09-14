@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sundre/speedway/
+url: /sundre/speedway-main-avenue-east/
 shop: convenience
 ---

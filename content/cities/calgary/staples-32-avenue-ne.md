@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /calgary/staples/
+url: /calgary/staples-32-avenue-ne/
 shop: office supplies
 ---

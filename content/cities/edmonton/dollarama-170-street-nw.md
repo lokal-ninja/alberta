@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /edmonton/dollarama/
+url: /edmonton/dollarama-170-street-nw/
 shop: variety store
 ---

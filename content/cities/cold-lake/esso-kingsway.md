@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /cold-lake/esso/
+url: /cold-lake/esso-kingsway/
 shop: convenience
 ---

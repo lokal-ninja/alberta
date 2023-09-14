@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /calgary/bell/
+url: /calgary/bell-anderson-rd-se/
 shop: mobile phone
 ---

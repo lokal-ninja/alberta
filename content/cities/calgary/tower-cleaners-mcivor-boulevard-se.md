@@ -1,5 +1,5 @@
 ---
 title: "Tower Cleaners"
-url: /calgary/tower-cleaners/
+url: /calgary/tower-cleaners-mcivor-boulevard-se/
 shop: laundry
 ---

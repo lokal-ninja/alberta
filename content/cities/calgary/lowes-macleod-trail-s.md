@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /calgary/lowes/
+url: /calgary/lowes-macleod-trail-s/
 shop: doityourself
 ---

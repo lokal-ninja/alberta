@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /edmonton/staples/
+url: /edmonton/staples-calgary-trail-nw/
 shop: office supplies
 ---

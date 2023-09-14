@@ -1,5 +1,5 @@
 ---
 title: "Simons"
-url: /edmonton/simons/
+url: /edmonton/simons-londonderry-mall-northwest/
 shop: clothes
 ---

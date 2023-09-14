@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /calgary/sobeys/
+url: /calgary/sobeys-symons-valley-parkway-nw/
 shop: supermarket
 ---
