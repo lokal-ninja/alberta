@@ -1,6 +1,6 @@
 ---
 title: Jasper
 url: /jasper/
-latitude: 52.874
-longitude: -118.081
+latitude: 52.875
+longitude: -118.082
 ---
