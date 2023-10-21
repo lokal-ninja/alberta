@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /spruce-grove/circle-k-mcleod-avenue/
+url: /spruce-grove/circle-k-king-street/
 shop: convenience
 ---
