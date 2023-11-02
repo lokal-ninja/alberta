@@ -1,6 +1,6 @@
 ---
 title: Redwater
 url: /redwater/
-latitude: 53.949
-longitude: -113.124
+latitude: 53.95
+longitude: -113.136
 ---
