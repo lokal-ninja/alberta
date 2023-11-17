@@ -1,6 +1,6 @@
 ---
 title: Grimshaw
 url: /grimshaw/
-latitude: 56.19
-longitude: -117.61
+latitude: 56.184
+longitude: -117.612
 ---
