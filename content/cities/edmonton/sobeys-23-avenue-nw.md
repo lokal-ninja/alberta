@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /edmonton/sobeys-34-street-nw/
+url: /edmonton/sobeys-23-avenue-nw/
 shop: supermarket
 ---
