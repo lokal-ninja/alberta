@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /airdrie/circle-k-1-avenue-sw/
+url: /carstairs/circle-k/
 shop: convenience
 ---
