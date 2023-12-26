@@ -1,6 +1,6 @@
 ---
 title: Innisfail
 url: /innisfail/
-latitude: 52.015
-longitude: -113.946
+latitude: 52.026
+longitude: -113.936
 ---
