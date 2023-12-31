@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /edmonton/dollarama-currents-drive-nw/
+url: /edmonton/dollarama-137-avenue-nw/
 shop: variety store
 ---
