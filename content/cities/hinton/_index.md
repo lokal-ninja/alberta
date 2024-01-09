@@ -1,6 +1,6 @@
 ---
 title: Hinton
 url: /hinton/
-latitude: 53.398
-longitude: -117.592
+latitude: 53.416
+longitude: -117.561
 ---
