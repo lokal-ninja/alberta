@@ -1,5 +1,5 @@
 ---
-title: "On The Run"
+title: "On the Run"
 url: /westlock/on-the-run/
 shop: convenience
 ---
