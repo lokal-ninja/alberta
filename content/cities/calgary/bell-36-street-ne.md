@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /calgary/bell-shaganappi-trail-nw/
+url: /calgary/bell-36-street-ne/
 shop: mobile phone
 ---
