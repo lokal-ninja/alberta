@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
-url: /calgary/fountain-tire/
+url: /rocky-mountain-house/fountain-tire/
 shop: tyres
 ---
