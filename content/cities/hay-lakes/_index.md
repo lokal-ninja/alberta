@@ -1,6 +1,6 @@
 ---
 title: Hay Lakes
 url: /hay-lakes/
-latitude: 53.196
-longitude: -113.059
+latitude: 53.197
+longitude: -113.058
 ---

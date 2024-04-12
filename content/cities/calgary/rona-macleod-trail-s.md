@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /calgary/rona-29-avenue-nw/
+url: /calgary/rona-macleod-trail-s/
 shop: doityourself
 ---

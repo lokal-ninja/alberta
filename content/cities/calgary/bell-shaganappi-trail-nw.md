@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /calgary/bell-anderson-rd-se/
+url: /calgary/bell-shaganappi-trail-nw/
 shop: mobile phone
 ---
