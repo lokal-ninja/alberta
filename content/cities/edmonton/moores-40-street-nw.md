@@ -1,5 +1,5 @@
 ---
 title: "Moores"
-url: /edmonton/moores-100-avenue-nw/
+url: /edmonton/moores-40-street-nw/
 shop: clothes
 ---

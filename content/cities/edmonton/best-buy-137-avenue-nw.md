@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /edmonton/best-buy-4250-137-ave-nw/
+url: /edmonton/best-buy-137-avenue-nw/
 shop: electronics
 ---
