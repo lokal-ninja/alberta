@@ -1,5 +1,5 @@
 ---
 title: "Save-On-Foods"
-url: /edmonton/save-on-foods-199-street-nw/
+url: /edmonton/save-on-foods-109-street-nw/
 shop: supermarket
 ---
