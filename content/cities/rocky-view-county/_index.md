@@ -2,5 +2,5 @@
 title: Rocky View County
 url: /rocky-view-county/
 latitude: 51.191
-longitude: -113.999
+longitude: -114
 ---
