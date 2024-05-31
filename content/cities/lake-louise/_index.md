@@ -2,5 +2,5 @@
 title: Lake Louise
 url: /lake-louise/
 latitude: 51.425
-longitude: -116.176
+longitude: -116.18
 ---
