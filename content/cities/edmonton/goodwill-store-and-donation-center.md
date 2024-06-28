@@ -1,5 +1,5 @@
 ---
-title: "Goodwill Store &  Donation center"
+title: "Goodwill Store & Donation center"
 url: /edmonton/goodwill-store-and-donation-center/
 shop: charity
 ---
