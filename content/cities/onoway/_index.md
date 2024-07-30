@@ -1,6 +1,6 @@
 ---
 title: Onoway
 url: /onoway/
-latitude: 53.598
-longitude: -114.222
+latitude: 53.704
+longitude: -114.19
 ---
