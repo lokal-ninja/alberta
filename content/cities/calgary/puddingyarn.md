@@ -1,5 +1,5 @@
 ---
 title: "PUDDINGyarn"
 url: /calgary/puddingyarn/
-shop: sewing
+shop: Nähzubehör
 ---

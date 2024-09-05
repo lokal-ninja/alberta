@@ -1,5 +1,5 @@
 ---
 title: "Brown Style Shop"
 url: /manning/brown-style-shop/
-shop: shop
+shop: Allgemein
 ---

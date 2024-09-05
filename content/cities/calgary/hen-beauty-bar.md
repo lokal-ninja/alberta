@@ -1,5 +1,5 @@
 ---
 title: "Hen Beauty Bar"
 url: /calgary/hen-beauty-bar/
-shop: beauty
+shop: Kosmetik
 ---

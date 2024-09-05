@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Liquor"
 url: /stony-plain/sobeys-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

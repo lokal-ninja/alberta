@@ -1,5 +1,5 @@
 ---
 title: "Silver Shears Salon"
 url: /leduc/silver-shears-salon/
-shop: hairdresser
+shop: Friseur
 ---

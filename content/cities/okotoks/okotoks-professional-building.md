@@ -1,5 +1,5 @@
 ---
 title: "Okotoks Professional Building"
 url: /okotoks/okotoks-professional-building/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WillScot"
 url: /acheson/willscot/
-shop: storage rental
+shop: Mieten
 ---

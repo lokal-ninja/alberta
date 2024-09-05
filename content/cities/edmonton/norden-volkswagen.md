@@ -1,5 +1,5 @@
 ---
 title: "Norden Volkswagen"
 url: /edmonton/norden-volkswagen/
-shop: car
+shop: Autohaus
 ---

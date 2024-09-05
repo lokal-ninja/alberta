@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /airdrie/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

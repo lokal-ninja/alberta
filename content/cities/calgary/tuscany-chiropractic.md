@@ -1,5 +1,5 @@
 ---
 title: "Tuscany Chiropractic"
 url: /calgary/tuscany-chiropractic/
-shop: shop
+shop: Allgemein
 ---

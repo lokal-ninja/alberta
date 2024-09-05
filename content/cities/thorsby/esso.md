@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /thorsby/esso/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FasGas"
 url: /crowsnest-pass/fasgas/
-shop: convenience
+shop: Lebensmittel
 ---

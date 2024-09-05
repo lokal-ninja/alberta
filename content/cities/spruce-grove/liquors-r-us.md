@@ -1,5 +1,5 @@
 ---
 title: "Liquors R’ Us"
 url: /spruce-grove/liquors-r-us/
-shop: alcohol
+shop: Spirituosen
 ---

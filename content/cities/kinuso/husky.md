@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /kinuso/husky/
-shop: convenience
+shop: Lebensmittel
 ---

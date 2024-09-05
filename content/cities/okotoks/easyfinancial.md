@@ -1,5 +1,5 @@
 ---
 title: "easyfinancial"
 url: /okotoks/easyfinancial/
-shop: pawnbroker
+shop: Leiher
 ---

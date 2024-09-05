@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /edmonton/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

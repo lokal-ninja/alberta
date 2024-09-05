@@ -1,5 +1,5 @@
 ---
 title: "Southtown Hyundai"
 url: /edmonton/southtown-hyundai/
-shop: car
+shop: Autohaus
 ---

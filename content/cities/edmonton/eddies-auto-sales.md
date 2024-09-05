@@ -1,5 +1,5 @@
 ---
 title: "Eddie's Auto Sales"
 url: /edmonton/eddies-auto-sales/
-shop: car
+shop: Autohaus
 ---

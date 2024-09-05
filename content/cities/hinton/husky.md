@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /hinton/husky/
-shop: convenience
+shop: Lebensmittel
 ---

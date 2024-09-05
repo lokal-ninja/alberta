@@ -1,5 +1,5 @@
 ---
 title: "Kevin's Computing"
 url: /lloydminster/kevins-computing/
-shop: computer
+shop: Computer
 ---

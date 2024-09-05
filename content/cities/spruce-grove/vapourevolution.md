@@ -1,5 +1,5 @@
 ---
 title: "VapouRevolution"
 url: /spruce-grove/vapourevolution/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

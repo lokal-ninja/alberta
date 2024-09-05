@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /ardrossan/esso/
-shop: convenience
+shop: Lebensmittel
 ---

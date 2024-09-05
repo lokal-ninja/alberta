@@ -1,5 +1,5 @@
 ---
 title: "Chocolaterie Bernard Callebaut"
 url: /calgary/chocolaterie-bernard-callebaut/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /calgary/safeway-crowfoot-crescent-nw/
-shop: supermarket
+shop: Supermarkt
 ---

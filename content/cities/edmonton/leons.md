@@ -1,5 +1,5 @@
 ---
 title: "Leon's"
 url: /edmonton/leons/
-shop: furniture
+shop: Möbel
 ---

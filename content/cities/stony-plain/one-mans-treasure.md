@@ -1,5 +1,5 @@
 ---
 title: "One Man's Treasure"
 url: /stony-plain/one-mans-treasure/
-shop: antiques
+shop: Antiquitäten
 ---

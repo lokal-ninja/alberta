@@ -1,5 +1,5 @@
 ---
 title: "Choklat"
 url: /calgary/choklat/
-shop: chocolate
+shop: Schokolade
 ---

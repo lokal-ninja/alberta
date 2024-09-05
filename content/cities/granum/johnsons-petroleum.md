@@ -1,5 +1,5 @@
 ---
 title: "Johnson's Petroleum"
 url: /granum/johnsons-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

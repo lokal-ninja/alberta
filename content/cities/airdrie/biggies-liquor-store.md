@@ -1,5 +1,5 @@
 ---
 title: "Biggie's Liquor Store"
 url: /airdrie/biggies-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

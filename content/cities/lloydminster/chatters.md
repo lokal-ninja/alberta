@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /lloydminster/chatters/
-shop: hairdresser
+shop: Friseur
 ---

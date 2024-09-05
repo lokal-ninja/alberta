@@ -1,5 +1,5 @@
 ---
 title: "Garden Retreat"
 url: /calgary/garden-retreat/
-shop: garden centre
+shop: Garten-Center
 ---

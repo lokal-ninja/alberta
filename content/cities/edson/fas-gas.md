@@ -1,5 +1,5 @@
 ---
 title: "Fas Gas"
 url: /edson/fas-gas/
-shop: convenience
+shop: Lebensmittel
 ---

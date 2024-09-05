@@ -1,5 +1,5 @@
 ---
 title: "Visions Electronics"
 url: /calgary/visions-electronics/
-shop: electronics
+shop: Elektronik
 ---

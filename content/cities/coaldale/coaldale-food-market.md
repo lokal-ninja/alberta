@@ -1,5 +1,5 @@
 ---
 title: "Coaldale Food Market"
 url: /coaldale/coaldale-food-market/
-shop: supermarket
+shop: Supermarkt
 ---

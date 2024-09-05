@@ -1,5 +1,5 @@
 ---
 title: "Okotoks Honda"
 url: /okotoks/okotoks-honda/
-shop: car
+shop: Autohaus
 ---

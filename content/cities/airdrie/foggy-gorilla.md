@@ -1,5 +1,5 @@
 ---
 title: "Foggy Gorilla"
 url: /airdrie/foggy-gorilla/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

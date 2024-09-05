@@ -1,5 +1,5 @@
 ---
 title: "Hot Peppers Clothing"
 url: /lloydminster/hot-peppers-clothing/
-shop: clothes
+shop: Kleidung
 ---

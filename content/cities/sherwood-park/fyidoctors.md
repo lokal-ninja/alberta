@@ -1,5 +1,5 @@
 ---
 title: "FYidoctors"
 url: /sherwood-park/fyidoctors/
-shop: optician
+shop: Optiker
 ---

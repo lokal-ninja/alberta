@@ -1,5 +1,5 @@
 ---
 title: "Asia's Finest"
 url: /lloydminster/asias-finest/
-shop: convenience
+shop: Lebensmittel
 ---

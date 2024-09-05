@@ -1,5 +1,5 @@
 ---
 title: "Sucre"
 url: /calgary/sucre/
-shop: pastry
+shop: Konditorei
 ---

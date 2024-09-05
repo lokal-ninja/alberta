@@ -1,5 +1,5 @@
 ---
 title: "Community Natural Foods"
 url: /calgary/community-natural-foods-crowfoot-crescent-nw/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

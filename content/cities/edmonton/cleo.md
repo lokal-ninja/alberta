@@ -1,5 +1,5 @@
 ---
 title: "Cleo"
 url: /edmonton/cleo/
-shop: clothes
+shop: Kleidung
 ---

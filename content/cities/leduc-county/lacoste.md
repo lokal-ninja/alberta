@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /leduc-county/lacoste/
-shop: clothes
+shop: Kleidung
 ---

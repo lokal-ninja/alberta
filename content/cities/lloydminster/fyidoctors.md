@@ -1,5 +1,5 @@
 ---
 title: "FYidoctors"
 url: /lloydminster/fyidoctors/
-shop: optician
+shop: Optiker
 ---

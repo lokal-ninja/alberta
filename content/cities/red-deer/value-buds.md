@@ -1,5 +1,5 @@
 ---
 title: "Value Buds"
 url: /red-deer/value-buds/
-shop: cannabis
+shop: Hanf
 ---

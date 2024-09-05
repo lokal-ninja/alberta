@@ -1,5 +1,5 @@
 ---
 title: "kolor twist Hair Salon"
 url: /calgary/kolor-twist-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

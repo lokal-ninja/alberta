@@ -1,5 +1,5 @@
 ---
 title: "Quarks"
 url: /lloydminster/quarks/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Empress Coin Laundry"
 url: /empress/empress-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

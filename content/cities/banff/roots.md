@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /banff/roots/
-shop: clothes
+shop: Kleidung
 ---

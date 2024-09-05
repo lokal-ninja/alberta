@@ -1,5 +1,5 @@
 ---
 title: "Shell Shop"
 url: /deadmans-flats/shell-shop/
-shop: convenience
+shop: Lebensmittel
 ---

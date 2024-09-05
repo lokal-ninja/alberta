@@ -1,5 +1,5 @@
 ---
 title: "Perfect Surfaces"
 url: /airdrie/perfect-surfaces/
-shop: flooring
+shop: Fußböden
 ---

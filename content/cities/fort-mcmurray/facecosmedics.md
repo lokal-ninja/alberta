@@ -1,5 +1,5 @@
 ---
 title: "FaceCosmedics"
 url: /fort-mcmurray/facecosmedics/
-shop: beauty
+shop: Kosmetik
 ---

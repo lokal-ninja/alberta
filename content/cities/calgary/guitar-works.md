@@ -1,5 +1,5 @@
 ---
 title: "Guitar Works"
 url: /calgary/guitar-works/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /calgary/moores/
-shop: clothes
+shop: Kleidung
 ---

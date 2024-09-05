@@ -1,5 +1,5 @@
 ---
 title: "Sports Garage"
 url: /canmore/sports-garage/
-shop: sports
+shop: Sport
 ---

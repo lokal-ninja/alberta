@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /manning/tempo/
-shop: convenience
+shop: Lebensmittel
 ---

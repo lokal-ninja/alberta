@@ -1,5 +1,5 @@
 ---
 title: "Glover International Trucks"
 url: /airdrie/glover-international-trucks/
-shop: shop
+shop: Allgemein
 ---

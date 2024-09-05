@@ -1,5 +1,5 @@
 ---
 title: "Three Penguins Signs"
 url: /edson/three-penguins-signs/
-shop: lettering
+shop: Beschriftungen
 ---

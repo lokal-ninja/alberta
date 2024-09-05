@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /edmonton/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OOH LA LA"
 url: /calgary/ooh-la-la/
-shop: clothes
+shop: Kleidung
 ---

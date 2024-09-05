@@ -1,5 +1,5 @@
 ---
 title: "Cleanitizing Dry Cleaners"
 url: /lloydminster/cleanitizing-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

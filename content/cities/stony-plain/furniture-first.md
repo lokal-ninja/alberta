@@ -1,5 +1,5 @@
 ---
 title: "Furniture First"
 url: /stony-plain/furniture-first/
-shop: furniture
+shop: Möbel
 ---

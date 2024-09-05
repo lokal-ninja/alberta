@@ -1,5 +1,5 @@
 ---
 title: "Vivo Liquor"
 url: /sherwood-park/vivo-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

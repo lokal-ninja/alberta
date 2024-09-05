@@ -1,5 +1,5 @@
 ---
 title: "Crossfield Liquor Store"
 url: /crossfield/crossfield-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /stony-plain/co-op/
-shop: supermarket
+shop: Supermarkt
 ---

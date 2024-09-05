@@ -1,5 +1,5 @@
 ---
 title: "Rum Runners"
 url: /grimshaw/rum-runners/
-shop: alcohol
+shop: Spirituosen
 ---

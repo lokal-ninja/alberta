@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Company"
 url: /calgary/the-shoe-company/
-shop: shoes
+shop: Schuhe
 ---

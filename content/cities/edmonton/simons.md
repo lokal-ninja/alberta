@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /edmonton/simons/
-shop: clothes
+shop: Kleidung
 ---

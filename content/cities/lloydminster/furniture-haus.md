@@ -1,5 +1,5 @@
 ---
 title: "Furniture Haus"
 url: /lloydminster/furniture-haus/
-shop: furniture
+shop: Möbel
 ---

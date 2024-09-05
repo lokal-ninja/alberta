@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /leduc-county/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---

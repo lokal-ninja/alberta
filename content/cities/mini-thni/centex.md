@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /mini-thni/centex/
-shop: convenience
+shop: Lebensmittel
 ---

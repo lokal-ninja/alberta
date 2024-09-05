@@ -1,5 +1,5 @@
 ---
 title: "V Nails"
 url: /red-deer/v-nails/
-shop: beauty
+shop: Kosmetik
 ---

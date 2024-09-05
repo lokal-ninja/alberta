@@ -1,5 +1,5 @@
 ---
 title: "East Airdrie Liquor"
 url: /airdrie/east-airdrie-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

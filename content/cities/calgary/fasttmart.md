@@ -1,5 +1,5 @@
 ---
 title: "FasttMart"
 url: /calgary/fasttmart/
-shop: convenience
+shop: Lebensmittel
 ---

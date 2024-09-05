@@ -1,5 +1,5 @@
 ---
 title: "Agland"
 url: /vermilion/agland/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paris Jewellers"
 url: /lloydminster/paris-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

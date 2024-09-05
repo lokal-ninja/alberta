@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /edmonton/fossil/
-shop: watches
+shop: Uhren
 ---

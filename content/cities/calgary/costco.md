@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /calgary/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scallywags"
 url: /banff/scallywags/
-shop: clothes
+shop: Kleidung
 ---

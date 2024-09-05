@@ -1,5 +1,5 @@
 ---
 title: "Ace Liquor Discounter"
 url: /calgary/ace-liquor-discounter/
-shop: alcohol
+shop: Spirituosen
 ---

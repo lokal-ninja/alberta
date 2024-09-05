@@ -1,5 +1,5 @@
 ---
 title: "The Italian Supermarket"
 url: /calgary/the-italian-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

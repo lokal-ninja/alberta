@@ -1,5 +1,5 @@
 ---
 title: "Bootlegger"
 url: /lloydminster/bootlegger/
-shop: clothes
+shop: Kleidung
 ---

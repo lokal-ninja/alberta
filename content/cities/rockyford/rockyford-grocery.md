@@ -1,5 +1,5 @@
 ---
 title: "Rockyford Grocery"
 url: /rockyford/rockyford-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

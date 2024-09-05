@@ -1,5 +1,5 @@
 ---
 title: "Rebound Cycle"
 url: /canmore/rebound-cycle/
-shop: bicycle
+shop: Fahrrad
 ---

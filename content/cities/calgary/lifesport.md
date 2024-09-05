@@ -1,5 +1,5 @@
 ---
 title: "Lifesport"
 url: /calgary/lifesport/
-shop: sports
+shop: Sport
 ---

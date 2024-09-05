@@ -1,5 +1,5 @@
 ---
 title: "DriveNation Calgary"
 url: /calgary/drivenation-calgary/
-shop: car
+shop: Autohaus
 ---

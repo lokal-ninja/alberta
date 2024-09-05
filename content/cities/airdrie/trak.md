@@ -1,5 +1,5 @@
 ---
 title: "Trak"
 url: /airdrie/trak/
-shop: boat
+shop: Boot
 ---

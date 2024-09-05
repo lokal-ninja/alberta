@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /airdrie/walmart-supercentre/
-shop: supermarket
+shop: Supermarkt
 ---

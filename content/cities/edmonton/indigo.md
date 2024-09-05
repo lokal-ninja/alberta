@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /edmonton/indigo/
-shop: books
+shop: Bücher
 ---

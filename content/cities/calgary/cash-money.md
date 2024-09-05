@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /calgary/cash-money/
-shop: pawnbroker
+shop: Leiher
 ---

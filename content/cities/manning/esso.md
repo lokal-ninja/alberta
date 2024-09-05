@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /manning/esso/
-shop: convenience
+shop: Lebensmittel
 ---

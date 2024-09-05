@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /sherwood-park/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

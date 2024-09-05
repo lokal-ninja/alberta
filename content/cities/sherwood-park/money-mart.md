@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
 url: /sherwood-park/money-mart/
-shop: pawnbroker
+shop: Leiher
 ---

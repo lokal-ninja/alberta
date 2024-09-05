@@ -1,5 +1,5 @@
 ---
 title: "Kikit"
 url: /drayton-valley/kikit/
-shop: convenience
+shop: Lebensmittel
 ---

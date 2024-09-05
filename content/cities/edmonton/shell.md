@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /edmonton/shell/
-shop: convenience
+shop: Lebensmittel
 ---

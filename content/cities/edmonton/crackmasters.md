@@ -1,5 +1,5 @@
 ---
 title: "Crackmasters"
 url: /edmonton/crackmasters/
-shop: car repair
+shop: Autowerkstatt
 ---

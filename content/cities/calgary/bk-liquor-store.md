@@ -1,5 +1,5 @@
 ---
 title: "BK Liquor Store"
 url: /calgary/bk-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

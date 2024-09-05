@@ -1,5 +1,5 @@
 ---
 title: "Regal Nails"
 url: /lloydminster/regal-nails/
-shop: beauty
+shop: Kosmetik
 ---

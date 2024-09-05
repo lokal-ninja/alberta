@@ -1,5 +1,5 @@
 ---
 title: "Pasha Barber Shop"
 url: /sherwood-park/pasha-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---
