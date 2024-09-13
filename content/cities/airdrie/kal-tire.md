@@ -1,5 +1,5 @@
 ---
 title: "Kal Tire"
 url: /airdrie/kal-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /edmonton/marshalls/
-shop: Warenhaus
+shop: department store
 ---

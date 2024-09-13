@@ -1,5 +1,5 @@
 ---
 title: "Power Recycling"
 url: /calgary/power-recycling/
-shop: Autoteile
+shop: car parts
 ---

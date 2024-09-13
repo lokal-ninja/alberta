@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /spruce-grove/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

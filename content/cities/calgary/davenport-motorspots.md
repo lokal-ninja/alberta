@@ -1,5 +1,5 @@
 ---
 title: "Davenport Motorspots"
 url: /calgary/davenport-motorspots/
-shop: Autowerkstatt
+shop: car repair
 ---

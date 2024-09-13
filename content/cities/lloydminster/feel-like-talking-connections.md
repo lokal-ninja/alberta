@@ -1,5 +1,5 @@
 ---
 title: "Feel Like Talking Connections"
 url: /lloydminster/feel-like-talking-connections/
-shop: Handy
+shop: mobile phone
 ---

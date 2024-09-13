@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lac-la-biche/shell/
-shop: Lebensmittel
+shop: convenience
 ---

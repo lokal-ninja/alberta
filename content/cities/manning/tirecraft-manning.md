@@ -1,5 +1,5 @@
 ---
 title: "Tirecraft Manning"
 url: /manning/tirecraft-manning/
-shop: Reifen
+shop: tyres
 ---

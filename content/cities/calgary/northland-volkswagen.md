@@ -1,5 +1,5 @@
 ---
 title: "Northland Volkswagen"
 url: /calgary/northland-volkswagen/
-shop: Autohaus
+shop: car
 ---

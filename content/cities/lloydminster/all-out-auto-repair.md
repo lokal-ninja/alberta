@@ -1,5 +1,5 @@
 ---
 title: "All Out Auto Repair"
 url: /lloydminster/all-out-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

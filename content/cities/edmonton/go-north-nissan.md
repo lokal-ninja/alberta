@@ -1,5 +1,5 @@
 ---
 title: "Go North Nissan"
 url: /edmonton/go-north-nissan/
-shop: Autohaus
+shop: car
 ---

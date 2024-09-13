@@ -1,5 +1,5 @@
 ---
 title: "Meatco Sales"
 url: /wainwright/meatco-sales/
-shop: Metzgerei
+shop: butcher
 ---

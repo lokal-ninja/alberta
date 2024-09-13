@@ -1,5 +1,5 @@
 ---
 title: "Arbour Lake Liquor"
 url: /calgary/arbour-lake-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

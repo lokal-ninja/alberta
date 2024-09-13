@@ -1,5 +1,5 @@
 ---
 title: "Mayumi Beauty Lab"
 url: /lloydminster/mayumi-beauty-lab/
-shop: Kosmetik
+shop: beauty
 ---

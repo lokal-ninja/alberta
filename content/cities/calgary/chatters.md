@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /calgary/chatters/
-shop: Friseur
+shop: hairdresser
 ---

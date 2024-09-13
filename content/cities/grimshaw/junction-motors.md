@@ -1,5 +1,5 @@
 ---
 title: "Junction Motors"
 url: /grimshaw/junction-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

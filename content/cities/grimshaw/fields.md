@@ -1,5 +1,5 @@
 ---
 title: "FIELDS"
 url: /grimshaw/fields/
-shop: Warenhaus
+shop: department store
 ---

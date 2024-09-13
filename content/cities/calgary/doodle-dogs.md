@@ -1,5 +1,5 @@
 ---
 title: "Doodle Dogs"
 url: /calgary/doodle-dogs/
-shop: Tiere
+shop: pet
 ---

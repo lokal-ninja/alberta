@@ -1,5 +1,5 @@
 ---
 title: "UFA"
 url: /grimshaw/ufa/
-shop: Lebensmittel
+shop: convenience
 ---

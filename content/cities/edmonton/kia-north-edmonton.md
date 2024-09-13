@@ -1,5 +1,5 @@
 ---
 title: "Kia North Edmonton"
 url: /edmonton/kia-north-edmonton/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dr. Phone Fix"
 url: /lloydminster/dr-phone-fix/
-shop: Handy
+shop: mobile phone
 ---

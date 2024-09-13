@@ -1,5 +1,5 @@
 ---
 title: "Eckville Super Service"
 url: /eckville/eckville-super-service/
-shop: Lebensmittel
+shop: convenience
 ---

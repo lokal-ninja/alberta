@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Liquor"
 url: /calgary/sobeys-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

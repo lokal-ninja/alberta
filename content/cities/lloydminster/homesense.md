@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /lloydminster/homesense/
-shop: Kramladen
+shop: variety store
 ---

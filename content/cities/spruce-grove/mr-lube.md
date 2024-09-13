@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /spruce-grove/mr-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

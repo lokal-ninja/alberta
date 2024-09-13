@@ -1,5 +1,5 @@
 ---
 title: "Nutters"
 url: /airdrie/nutters/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COBS Bread"
 url: /calgary/cobs-bread-17-avenue-sw/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angel Automobile"
 url: /edmonton/angel-automobile/
-shop: Autoteile
+shop: car parts
 ---

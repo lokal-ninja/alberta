@@ -1,5 +1,5 @@
 ---
 title: "Whistle Stop"
 url: /mirror/whistle-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairstone Financial"
 url: /airdrie/fairstone-financial/
-shop: Leiher
+shop: pawnbroker
 ---

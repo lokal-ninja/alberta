@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Liquor"
 url: /lloydminster/sobeys-liquor-51-avenue/
-shop: Spirituosen
+shop: alcohol
 ---

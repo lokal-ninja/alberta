@@ -1,5 +1,5 @@
 ---
 title: "Oceana Hair Design"
 url: /lloydminster/oceana-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "For The Interval Store"
 url: /lloydminster/for-the-interval-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

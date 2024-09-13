@@ -1,5 +1,5 @@
 ---
 title: "Zinger Rentals"
 url: /drayton-valley/zinger-rentals/
-shop: Mieten
+shop: storage rental
 ---

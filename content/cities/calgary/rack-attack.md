@@ -1,5 +1,5 @@
 ---
 title: "Rack Attack"
 url: /calgary/rack-attack/
-shop: Autoteile
+shop: car parts
 ---

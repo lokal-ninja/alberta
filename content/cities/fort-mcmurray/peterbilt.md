@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /fort-mcmurray/peterbilt/
-shop: Autohaus
+shop: car
 ---

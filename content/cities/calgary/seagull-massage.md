@@ -1,5 +1,5 @@
 ---
 title: "Seagull Massage"
 url: /calgary/seagull-massage/
-shop: Massage
+shop: massage
 ---

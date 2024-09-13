@@ -1,5 +1,5 @@
 ---
 title: "X-Treme Auto"
 url: /lloydminster/x-treme-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

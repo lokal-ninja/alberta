@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /vermilion/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

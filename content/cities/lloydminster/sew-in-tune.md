@@ -1,5 +1,5 @@
 ---
 title: "Sew in Tune"
 url: /lloydminster/sew-in-tune/
-shop: Kramladen
+shop: variety store
 ---

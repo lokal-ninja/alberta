@@ -1,5 +1,5 @@
 ---
 title: "Value Buds"
 url: /calgary/value-buds/
-shop: Hanf
+shop: cannabis
 ---

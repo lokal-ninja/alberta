@@ -1,5 +1,5 @@
 ---
 title: "CoCo"
 url: /edmonton/coco/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GoOil"
 url: /okotoks/gooil/
-shop: Autowerkstatt
+shop: car repair
 ---

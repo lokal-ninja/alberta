@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /airdrie/michaels/
-shop: Basteln
+shop: craft
 ---

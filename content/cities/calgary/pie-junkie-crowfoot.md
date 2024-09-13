@@ -1,5 +1,5 @@
 ---
 title: "Pie Junkie Crowfoot"
 url: /calgary/pie-junkie-crowfoot/
-shop: Bäckerei
+shop: bakery
 ---

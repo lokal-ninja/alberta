@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /airdrie/storagemart/
-shop: Mieten
+shop: storage rental
 ---

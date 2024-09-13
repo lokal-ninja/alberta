@@ -1,5 +1,5 @@
 ---
 title: "La Beer Stop"
 url: /calgary/la-beer-stop/
-shop: Spirituosen
+shop: alcohol
 ---

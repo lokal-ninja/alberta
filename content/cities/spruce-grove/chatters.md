@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /spruce-grove/chatters/
-shop: Kosmetik
+shop: beauty
 ---

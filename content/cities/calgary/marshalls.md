@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /calgary/marshalls/
-shop: Warenhaus
+shop: department store
 ---

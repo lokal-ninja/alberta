@@ -1,5 +1,5 @@
 ---
 title: "Experience Newfoundland"
 url: /calgary/experience-newfoundland/
-shop: Reisebüro
+shop: travel agency
 ---

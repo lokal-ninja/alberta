@@ -1,5 +1,5 @@
 ---
 title: "The Jasmine Room"
 url: /lethbridge/the-jasmine-room/
-shop: Andenken
+shop: gift
 ---

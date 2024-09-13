@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /millarville/esso/
-shop: Lebensmittel
+shop: convenience
 ---

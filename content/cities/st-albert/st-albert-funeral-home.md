@@ -1,5 +1,5 @@
 ---
 title: "St. Albert Funeral Home"
 url: /st-albert/st-albert-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

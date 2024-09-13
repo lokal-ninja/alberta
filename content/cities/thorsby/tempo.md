@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /thorsby/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

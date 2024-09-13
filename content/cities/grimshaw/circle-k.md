@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /grimshaw/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

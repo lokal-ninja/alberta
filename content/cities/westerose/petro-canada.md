@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /westerose/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

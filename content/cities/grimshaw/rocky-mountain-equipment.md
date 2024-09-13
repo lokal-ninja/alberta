@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Equipment"
 url: /grimshaw/rocky-mountain-equipment/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OMZ Barbershop"
 url: /calgary/omz-barbershop/
-shop: Kosmetik
+shop: beauty
 ---

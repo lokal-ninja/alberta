@@ -1,5 +1,5 @@
 ---
 title: "Indian Cabins Trading Post"
 url: /indian-cabins/indian-cabins-trading-post/
-shop: Lebensmittel
+shop: convenience
 ---

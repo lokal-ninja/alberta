@@ -1,5 +1,5 @@
 ---
 title: "Stephanie’s Kids"
 url: /calgary/stephanies-kids/
-shop: Kleidung
+shop: clothes
 ---

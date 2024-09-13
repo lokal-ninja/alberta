@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /calgary/hyundai/
-shop: Autohaus
+shop: car
 ---

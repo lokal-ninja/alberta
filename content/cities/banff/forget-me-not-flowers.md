@@ -1,5 +1,5 @@
 ---
 title: "Forget-Me-Not Flowers"
 url: /banff/forget-me-not-flowers/
-shop: Blumen
+shop: florist
 ---

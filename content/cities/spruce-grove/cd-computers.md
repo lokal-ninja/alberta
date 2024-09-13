@@ -1,5 +1,5 @@
 ---
 title: "CD Computers"
 url: /spruce-grove/cd-computers/
-shop: Computer
+shop: computer
 ---

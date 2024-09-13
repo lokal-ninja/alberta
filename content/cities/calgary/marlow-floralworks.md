@@ -1,5 +1,5 @@
 ---
 title: "Marlow Floralworks"
 url: /calgary/marlow-floralworks/
-shop: Blumen
+shop: florist
 ---

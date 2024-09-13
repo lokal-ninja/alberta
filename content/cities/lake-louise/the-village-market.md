@@ -1,5 +1,5 @@
 ---
 title: "The Village Market"
 url: /lake-louise/the-village-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Davidson Jewels"
 url: /calgary/davidson-jewels/
-shop: Schmuck
+shop: jewelry
 ---

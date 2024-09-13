@@ -1,5 +1,5 @@
 ---
 title: "Vivo Liquor"
 url: /spruce-grove/vivo-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

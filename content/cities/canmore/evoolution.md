@@ -1,5 +1,5 @@
 ---
 title: "Evoolution"
 url: /canmore/evoolution/
-shop: Supermarkt
+shop: supermarket
 ---

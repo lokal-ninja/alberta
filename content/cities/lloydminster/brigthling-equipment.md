@@ -1,5 +1,5 @@
 ---
 title: "Brigthling Equipment"
 url: /lloydminster/brigthling-equipment/
-shop: Allgemein
+shop: shop
 ---

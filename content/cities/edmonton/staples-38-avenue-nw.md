@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /edmonton/staples-38-avenue-nw/
-shop: Schreibwaren
+shop: office supplies
 ---

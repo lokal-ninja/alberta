@@ -1,5 +1,5 @@
 ---
 title: "Kavia Fine Jewellers"
 url: /canmore/kavia-fine-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

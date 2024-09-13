@@ -1,5 +1,5 @@
 ---
 title: "Kove Moto Canada"
 url: /carstairs/kove-moto-canada/
-shop: Motorrad
+shop: motorcycle
 ---

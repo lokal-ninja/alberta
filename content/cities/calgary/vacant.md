@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /calgary/vacant/
-shop: Allgemein
+shop: shop
 ---

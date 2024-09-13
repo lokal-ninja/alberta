@@ -1,5 +1,5 @@
 ---
 title: "The Lighthouse Bookstore"
 url: /high-level/the-lighthouse-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Race Trac"
 url: /czar/race-trac/
-shop: Lebensmittel
+shop: convenience
 ---

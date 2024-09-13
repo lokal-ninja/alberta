@@ -1,5 +1,5 @@
 ---
 title: "Calgary Cycle"
 url: /calgary/calgary-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

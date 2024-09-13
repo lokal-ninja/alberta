@@ -1,5 +1,5 @@
 ---
 title: "Atmosphere"
 url: /edmonton/atmosphere/
-shop: Kleidung
+shop: clothes
 ---

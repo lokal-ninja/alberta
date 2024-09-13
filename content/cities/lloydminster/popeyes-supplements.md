@@ -1,5 +1,5 @@
 ---
 title: "Popeye's Supplements"
 url: /lloydminster/popeyes-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

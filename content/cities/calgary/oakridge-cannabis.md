@@ -1,5 +1,5 @@
 ---
 title: "Oakridge Cannabis"
 url: /calgary/oakridge-cannabis/
-shop: Hanf
+shop: cannabis
 ---

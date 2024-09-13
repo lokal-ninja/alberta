@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /spruce-grove/rogers/
-shop: Handy
+shop: mobile phone
 ---

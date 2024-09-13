@@ -1,5 +1,5 @@
 ---
 title: "Real Canadian Superstore"
 url: /calgary/real-canadian-superstore-westwinds-drive-northeast/
-shop: Supermarkt
+shop: supermarket
 ---

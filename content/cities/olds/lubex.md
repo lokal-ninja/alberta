@@ -1,5 +1,5 @@
 ---
 title: "Lubex"
 url: /olds/lubex/
-shop: Autowerkstatt
+shop: car repair
 ---

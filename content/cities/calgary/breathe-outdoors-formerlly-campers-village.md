@@ -1,5 +1,5 @@
 ---
 title: "Breathe Outdoors (Formerlly Camper's Village)"
 url: /calgary/breathe-outdoors-formerlly-campers-village/
-shop: Outdoor
+shop: outdoor
 ---

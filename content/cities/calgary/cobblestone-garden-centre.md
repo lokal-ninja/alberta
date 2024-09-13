@@ -1,5 +1,5 @@
 ---
 title: "Cobblestone Garden Centre"
 url: /calgary/cobblestone-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viro-Tek"
 url: /sherwood-park/viro-tek/
-shop: Computer
+shop: computer
 ---

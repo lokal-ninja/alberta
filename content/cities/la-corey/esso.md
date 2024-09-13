@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /la-corey/esso/
-shop: Lebensmittel
+shop: convenience
 ---

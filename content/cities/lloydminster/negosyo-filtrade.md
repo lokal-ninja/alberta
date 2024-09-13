@@ -1,5 +1,5 @@
 ---
 title: "Negosyo Filtrade"
 url: /lloydminster/negosyo-filtrade/
-shop: Kramladen
+shop: variety store
 ---

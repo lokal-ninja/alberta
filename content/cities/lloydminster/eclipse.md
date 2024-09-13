@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /lloydminster/eclipse/
-shop: Kleidung
+shop: clothes
 ---

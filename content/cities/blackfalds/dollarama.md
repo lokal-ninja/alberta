@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /blackfalds/dollarama/
-shop: Kramladen
+shop: variety store
 ---

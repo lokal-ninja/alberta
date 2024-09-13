@@ -1,5 +1,5 @@
 ---
 title: "Stetson GM"
 url: /drayton-valley/stetson-gm/
-shop: Autohaus
+shop: car
 ---

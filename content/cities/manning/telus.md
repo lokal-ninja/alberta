@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /manning/telus/
-shop: Handy
+shop: mobile phone
 ---

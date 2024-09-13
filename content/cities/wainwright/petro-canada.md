@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /wainwright/petro-canada/
-shop: Allgemein
+shop: shop
 ---

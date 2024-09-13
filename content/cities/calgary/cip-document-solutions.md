@@ -1,5 +1,5 @@
 ---
 title: "CIP Document Solutions"
 url: /calgary/cip-document-solutions/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor Depot"
 url: /sherwood-park/liquor-depot/
-shop: Spirituosen
+shop: alcohol
 ---

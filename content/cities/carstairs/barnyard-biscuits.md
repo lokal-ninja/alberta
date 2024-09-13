@@ -1,5 +1,5 @@
 ---
 title: "Barnyard Biscuits"
 url: /carstairs/barnyard-biscuits/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Westmount Centre"
 url: /edmonton/westmount-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

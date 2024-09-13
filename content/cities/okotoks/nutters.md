@@ -1,5 +1,5 @@
 ---
 title: "Nutters"
 url: /okotoks/nutters/
-shop: Bioladen
+shop: health food
 ---

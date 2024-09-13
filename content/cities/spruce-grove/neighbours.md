@@ -1,5 +1,5 @@
 ---
 title: "Neighbours"
 url: /spruce-grove/neighbours/
-shop: Lebensmittel
+shop: convenience
 ---

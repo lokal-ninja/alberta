@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /calgary/dollarama-country-hills-boulevard-nw/
-shop: Kramladen
+shop: variety store
 ---

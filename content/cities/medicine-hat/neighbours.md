@@ -1,5 +1,5 @@
 ---
 title: "Neighbours"
 url: /medicine-hat/neighbours/
-shop: Lebensmittel
+shop: convenience
 ---

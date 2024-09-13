@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /calgary/rona-edmonton-trail-ne/
-shop: Baumarkt
+shop: doityourself
 ---

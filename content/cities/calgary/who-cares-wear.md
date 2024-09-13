@@ -1,5 +1,5 @@
 ---
 title: "Who Cares? Wear"
 url: /calgary/who-cares-wear/
-shop: Kleidung
+shop: clothes
 ---

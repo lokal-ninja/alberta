@@ -1,5 +1,5 @@
 ---
 title: "Superstore"
 url: /camrose/superstore/
-shop: Lebensmittel
+shop: convenience
 ---

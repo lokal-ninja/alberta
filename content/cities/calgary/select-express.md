@@ -1,5 +1,5 @@
 ---
 title: "Select Express"
 url: /calgary/select-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Body Concepts"
 url: /banff/body-concepts/
-shop: Kosmetik
+shop: beauty
 ---

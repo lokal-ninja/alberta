@@ -1,5 +1,5 @@
 ---
 title: "Plantlife"
 url: /airdrie/plantlife/
-shop: Hanf
+shop: cannabis
 ---

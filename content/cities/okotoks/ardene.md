@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /okotoks/ardene/
-shop: Kleidung
+shop: clothes
 ---

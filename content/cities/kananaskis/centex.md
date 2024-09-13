@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /kananaskis/centex/
-shop: Lebensmittel
+shop: convenience
 ---

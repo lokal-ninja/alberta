@@ -1,5 +1,5 @@
 ---
 title: "Power Equipment Centre"
 url: /spruce-grove/power-equipment-centre/
-shop: Baustoffe
+shop: trade
 ---

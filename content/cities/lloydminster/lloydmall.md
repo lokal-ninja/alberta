@@ -1,5 +1,5 @@
 ---
 title: "LloydMall"
 url: /lloydminster/lloydmall/
-shop: Einkaufszentrum
+shop: mall
 ---

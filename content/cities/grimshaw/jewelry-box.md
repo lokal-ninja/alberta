@@ -1,5 +1,5 @@
 ---
 title: "Jewelry Box"
 url: /grimshaw/jewelry-box/
-shop: Schmuck
+shop: jewelry
 ---

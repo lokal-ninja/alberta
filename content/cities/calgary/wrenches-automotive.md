@@ -1,5 +1,5 @@
 ---
 title: "Wrenches Automotive"
 url: /calgary/wrenches-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

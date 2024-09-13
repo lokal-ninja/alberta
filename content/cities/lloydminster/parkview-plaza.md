@@ -1,5 +1,5 @@
 ---
 title: "Parkview Plaza"
 url: /lloydminster/parkview-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

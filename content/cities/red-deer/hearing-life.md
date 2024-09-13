@@ -1,5 +1,5 @@
 ---
 title: "Hearing Life"
 url: /red-deer/hearing-life/
-shop: Hörgeräte
+shop: hearing aids
 ---

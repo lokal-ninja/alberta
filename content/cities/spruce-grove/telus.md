@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /spruce-grove/telus/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StyleEnvy"
 url: /calgary/styleenvy/
-shop: Kleidung
+shop: clothes
 ---

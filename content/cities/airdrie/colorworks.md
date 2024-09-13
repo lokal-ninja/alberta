@@ -1,5 +1,5 @@
 ---
 title: "Colorworks"
 url: /airdrie/colorworks/
-shop: Autowerkstatt
+shop: car repair
 ---

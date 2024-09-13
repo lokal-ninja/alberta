@@ -1,5 +1,5 @@
 ---
 title: "Electronic Recycling Association"
 url: /calgary/electronic-recycling-association/
-shop: Computer
+shop: computer
 ---

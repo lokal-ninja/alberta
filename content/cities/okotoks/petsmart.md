@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /okotoks/petsmart/
-shop: Tiere
+shop: pet
 ---

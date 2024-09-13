@@ -1,5 +1,5 @@
 ---
 title: "Soft Moc"
 url: /edmonton/soft-moc/
-shop: Schuhe
+shop: shoes
 ---

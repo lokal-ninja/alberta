@@ -1,5 +1,5 @@
 ---
 title: "Bike and Brew"
 url: /calgary/bike-and-brew/
-shop: Fahrrad
+shop: bicycle
 ---

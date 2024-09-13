@@ -1,5 +1,5 @@
 ---
 title: "Good Stuff"
 url: /edmonton/good-stuff/
-shop: Kleidung
+shop: clothes
 ---

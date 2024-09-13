@@ -1,5 +1,5 @@
 ---
 title: "Oasis Flower Shop"
 url: /calgary/oasis-flower-shop/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tire Kings"
 url: /calgary/tire-kings/
-shop: Autowerkstatt
+shop: car repair
 ---

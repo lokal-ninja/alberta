@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /spruce-grove/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

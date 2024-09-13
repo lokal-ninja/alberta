@@ -1,5 +1,5 @@
 ---
 title: "Blossom Boutique"
 url: /grimshaw/blossom-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MCC Thrift Shop"
 url: /calgary/mcc-thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

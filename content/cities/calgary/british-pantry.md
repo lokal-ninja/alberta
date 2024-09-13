@@ -1,5 +1,5 @@
 ---
 title: "British Pantry"
 url: /calgary/british-pantry/
-shop: Feinkost
+shop: deli
 ---

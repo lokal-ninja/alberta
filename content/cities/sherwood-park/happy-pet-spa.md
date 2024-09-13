@@ -1,5 +1,5 @@
 ---
 title: "Happy Pet Spa"
 url: /sherwood-park/happy-pet-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

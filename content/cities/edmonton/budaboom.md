@@ -1,5 +1,5 @@
 ---
 title: "Budaboom"
 url: /edmonton/budaboom/
-shop: Hanf
+shop: cannabis
 ---

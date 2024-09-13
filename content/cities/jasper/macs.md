@@ -1,5 +1,5 @@
 ---
 title: "MAC's"
 url: /jasper/macs/
-shop: Lebensmittel
+shop: convenience
 ---

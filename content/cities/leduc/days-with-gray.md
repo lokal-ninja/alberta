@@ -1,5 +1,5 @@
 ---
 title: "Days with Gray"
 url: /leduc/days-with-gray/
-shop: Kunst
+shop: art
 ---

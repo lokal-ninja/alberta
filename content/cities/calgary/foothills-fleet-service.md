@@ -1,5 +1,5 @@
 ---
 title: "Foothills Fleet Service"
 url: /calgary/foothills-fleet-service/
-shop: Autowerkstatt
+shop: car repair
 ---

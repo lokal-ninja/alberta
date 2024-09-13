@@ -1,5 +1,5 @@
 ---
 title: "Elf Angels Creations"
 url: /lloydminster/elf-angels-creations/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edson Chrysler Dodge Jeep"
 url: /edson/edson-chrysler-dodge-jeep/
-shop: Autohaus
+shop: car
 ---

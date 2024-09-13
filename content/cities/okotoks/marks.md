@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /okotoks/marks/
-shop: Kleidung
+shop: clothes
 ---

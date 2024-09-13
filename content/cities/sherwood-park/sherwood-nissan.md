@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Nissan"
 url: /sherwood-park/sherwood-nissan/
-shop: Autohaus
+shop: car
 ---

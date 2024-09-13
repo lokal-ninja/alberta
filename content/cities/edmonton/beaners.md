@@ -1,5 +1,5 @@
 ---
 title: "Beaners"
 url: /edmonton/beaners/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /didsbury/home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Commercial Solutions"
 url: /fort-saskatchewan/commercial-solutions/
-shop: Allgemein
+shop: shop
 ---

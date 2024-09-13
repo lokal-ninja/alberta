@@ -1,5 +1,5 @@
 ---
 title: "The Camera Store"
 url: /calgary/the-camera-store/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Addict"
 url: /sherwood-park/massage-addict/
-shop: Massage
+shop: massage
 ---

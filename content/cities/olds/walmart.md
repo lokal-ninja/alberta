@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /olds/walmart/
-shop: Warenhaus
+shop: department store
 ---

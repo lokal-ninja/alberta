@@ -1,5 +1,5 @@
 ---
 title: "Clearwater Trading"
 url: /clearwater/clearwater-trading/
-shop: Lebensmittel
+shop: convenience
 ---

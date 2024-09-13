@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /calgary/staples-61-avenue-se/
-shop: Schreibwaren
+shop: office supplies
 ---

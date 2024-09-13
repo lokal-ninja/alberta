@@ -1,5 +1,5 @@
 ---
 title: "Sebo"
 url: /airdrie/sebo/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

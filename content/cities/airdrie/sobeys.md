@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /airdrie/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

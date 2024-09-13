@@ -1,5 +1,5 @@
 ---
 title: "Fireside Nails"
 url: /cochrane/fireside-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /edmonton/bell-gateway-blvd/
-shop: Handy
+shop: mobile phone
 ---

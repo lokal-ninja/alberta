@@ -1,5 +1,5 @@
 ---
 title: "Pegasus Nail Designz"
 url: /lloydminster/pegasus-nail-designz/
-shop: Kosmetik
+shop: beauty
 ---

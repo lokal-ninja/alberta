@@ -1,5 +1,5 @@
 ---
 title: "FreshCo"
 url: /calgary/freshco/
-shop: Supermarkt
+shop: supermarket
 ---

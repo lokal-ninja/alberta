@@ -1,5 +1,5 @@
 ---
 title: "Blackbyrd Myoozik"
 url: /calgary/blackbyrd-myoozik/
-shop: Musik
+shop: music
 ---

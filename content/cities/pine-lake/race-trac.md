@@ -1,5 +1,5 @@
 ---
 title: "Race Trac"
 url: /pine-lake/race-trac/
-shop: Lebensmittel
+shop: convenience
 ---

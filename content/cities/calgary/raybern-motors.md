@@ -1,5 +1,5 @@
 ---
 title: "Raybern Motors"
 url: /calgary/raybern-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

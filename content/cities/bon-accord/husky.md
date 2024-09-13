@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /bon-accord/husky/
-shop: Lebensmittel
+shop: convenience
 ---

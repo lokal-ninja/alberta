@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /radway/husky/
-shop: Lebensmittel
+shop: convenience
 ---

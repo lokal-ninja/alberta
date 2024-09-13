@@ -1,5 +1,5 @@
 ---
 title: "WirelessWave"
 url: /lloydminster/wirelesswave/
-shop: Handy
+shop: mobile phone
 ---

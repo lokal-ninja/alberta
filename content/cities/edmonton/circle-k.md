@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /edmonton/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malley's Seafood Outlet"
 url: /spruce-grove/malleys-seafood-outlet/
-shop: Fisch
+shop: seafood
 ---

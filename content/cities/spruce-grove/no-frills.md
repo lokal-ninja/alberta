@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /spruce-grove/no-frills/
-shop: Supermarkt
+shop: supermarket
 ---

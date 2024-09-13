@@ -1,5 +1,5 @@
 ---
 title: "You Bet Yah"
 url: /lloydminster/you-bet-yah/
-shop: Gebrauchtwaren
+shop: charity
 ---

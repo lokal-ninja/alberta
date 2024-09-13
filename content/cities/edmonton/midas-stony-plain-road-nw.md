@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /edmonton/midas-stony-plain-road-nw/
-shop: Autowerkstatt
+shop: car repair
 ---

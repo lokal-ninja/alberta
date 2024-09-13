@@ -1,5 +1,5 @@
 ---
 title: "Cannabis Factory"
 url: /lloydminster/cannabis-factory/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /calmar/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

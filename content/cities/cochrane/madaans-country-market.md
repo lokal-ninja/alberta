@@ -1,5 +1,5 @@
 ---
 title: "Madaan's Country Market"
 url: /cochrane/madaans-country-market/
-shop: Lebensmittel
+shop: convenience
 ---

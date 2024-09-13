@@ -1,5 +1,5 @@
 ---
 title: "Daily Globe News"
 url: /calgary/daily-globe-news/
-shop: Zeitungen
+shop: newsagent
 ---

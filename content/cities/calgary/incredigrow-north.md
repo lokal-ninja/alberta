@@ -1,5 +1,5 @@
 ---
 title: "IncrediGrow, North"
 url: /calgary/incredigrow-north/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA Autopro"
 url: /edmonton/napa-autopro/
-shop: Autowerkstatt
+shop: car repair
 ---

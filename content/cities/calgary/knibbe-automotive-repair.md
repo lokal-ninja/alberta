@@ -1,5 +1,5 @@
 ---
 title: "Knibbe Automotive Repair"
 url: /calgary/knibbe-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

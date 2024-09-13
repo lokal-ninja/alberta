@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /grande-prairie/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

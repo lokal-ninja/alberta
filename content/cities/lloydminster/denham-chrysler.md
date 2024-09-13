@@ -1,5 +1,5 @@
 ---
 title: "Denham Chrysler"
 url: /lloydminster/denham-chrysler/
-shop: Autohaus
+shop: car
 ---

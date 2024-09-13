@@ -1,5 +1,5 @@
 ---
 title: "Battery Electric Inc."
 url: /edmonton/battery-electric-inc/
-shop: Baustoffe
+shop: trade
 ---

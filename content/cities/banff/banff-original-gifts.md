@@ -1,5 +1,5 @@
 ---
 title: "Banff Original Gifts"
 url: /banff/banff-original-gifts/
-shop: Andenken
+shop: gift
 ---

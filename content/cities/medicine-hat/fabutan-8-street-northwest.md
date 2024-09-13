@@ -1,5 +1,5 @@
 ---
 title: "Fabutan"
 url: /medicine-hat/fabutan-8-street-northwest/
-shop: Kosmetik
+shop: beauty
 ---

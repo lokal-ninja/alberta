@@ -1,5 +1,5 @@
 ---
 title: "Mattress Mattress"
 url: /spruce-grove/mattress-mattress/
-shop: Betten
+shop: bed
 ---

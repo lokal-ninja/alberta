@@ -1,5 +1,5 @@
 ---
 title: "Vision RV"
 url: /acheson/vision-rv/
-shop: Wohnwagen
+shop: caravan
 ---

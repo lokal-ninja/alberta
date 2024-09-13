@@ -1,5 +1,5 @@
 ---
 title: "Lube City"
 url: /drayton-valley/lube-city/
-shop: Autowerkstatt
+shop: car repair
 ---

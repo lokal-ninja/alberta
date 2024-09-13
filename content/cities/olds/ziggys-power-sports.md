@@ -1,5 +1,5 @@
 ---
 title: "Ziggy's Power Sports"
 url: /olds/ziggys-power-sports/
-shop: Motorrad
+shop: motorcycle
 ---

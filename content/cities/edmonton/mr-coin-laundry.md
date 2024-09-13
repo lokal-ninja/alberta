@@ -1,5 +1,5 @@
 ---
 title: "Mr. Coin Laundry"
 url: /edmonton/mr-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

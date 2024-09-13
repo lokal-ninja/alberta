@@ -1,5 +1,5 @@
 ---
 title: "Mirra Masa Fashion Studio"
 url: /calgary/mirra-masa-fashion-studio/
-shop: Kleidung
+shop: clothes
 ---

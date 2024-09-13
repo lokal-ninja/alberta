@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /wainwright/walmart/
-shop: Warenhaus
+shop: department store
 ---

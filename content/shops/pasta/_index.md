@@ -1,5 +1,5 @@
 ---
-title: Pasta
+title: pasta
 url: /pasta/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northern Lights Supply"
 url: /nisku/northern-lights-supply/
-shop: Hanf
+shop: cannabis
 ---

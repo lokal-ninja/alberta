@@ -1,5 +1,5 @@
 ---
 title: "Star Liquor"
 url: /calgary/star-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

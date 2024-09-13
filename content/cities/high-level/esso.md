@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /high-level/esso/
-shop: Lebensmittel
+shop: convenience
 ---

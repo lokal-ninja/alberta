@@ -1,5 +1,5 @@
 ---
 title: "Oomomo"
 url: /calgary/oomomo/
-shop: Kramladen
+shop: variety store
 ---

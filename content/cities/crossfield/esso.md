@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /crossfield/esso/
-shop: Lebensmittel
+shop: convenience
 ---

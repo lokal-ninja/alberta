@@ -1,5 +1,5 @@
 ---
 title: "Jerusalem Shawarma"
 url: /calgary/jerusalem-shawarma/
-shop: Feinkost
+shop: deli
 ---

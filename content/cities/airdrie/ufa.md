@@ -1,5 +1,5 @@
 ---
 title: "UFA"
 url: /airdrie/ufa/
-shop: Supermarkt
+shop: supermarket
 ---

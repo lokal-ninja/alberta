@@ -1,5 +1,5 @@
 ---
 title: "Standard Piano"
 url: /calgary/standard-piano/
-shop: Instrumente
+shop: musical instrument
 ---

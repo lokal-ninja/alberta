@@ -1,5 +1,5 @@
 ---
 title: "Impact Depot"
 url: /lloydminster/impact-depot/
-shop: Gebrauchtwaren
+shop: charity
 ---

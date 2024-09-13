@@ -1,5 +1,5 @@
 ---
 title: "Vine Arts"
 url: /calgary/vine-arts/
-shop: Wein
+shop: wine
 ---

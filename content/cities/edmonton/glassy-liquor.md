@@ -1,5 +1,5 @@
 ---
 title: "Glassy Liquor"
 url: /edmonton/glassy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

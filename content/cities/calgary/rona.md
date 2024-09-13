@@ -1,5 +1,5 @@
 ---
 title: "Rona+"
 url: /calgary/rona/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /calgary/rona-macleod-trail-s/
-shop: Baumarkt
+shop: doityourself
 ---

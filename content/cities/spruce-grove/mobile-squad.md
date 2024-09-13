@@ -1,5 +1,5 @@
 ---
 title: "Mobile Squad"
 url: /spruce-grove/mobile-squad/
-shop: Handy
+shop: mobile phone
 ---

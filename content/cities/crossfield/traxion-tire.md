@@ -1,5 +1,5 @@
 ---
 title: "Traxion Tire"
 url: /crossfield/traxion-tire/
-shop: Reifen
+shop: tyres
 ---

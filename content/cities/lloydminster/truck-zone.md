@@ -1,5 +1,5 @@
 ---
 title: "Truck Zone"
 url: /lloydminster/truck-zone/
-shop: Allgemein
+shop: shop
 ---

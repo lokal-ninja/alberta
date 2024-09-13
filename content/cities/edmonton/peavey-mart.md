@@ -1,5 +1,5 @@
 ---
 title: "Peavey Mart"
 url: /edmonton/peavey-mart/
-shop: Dorfladen
+shop: general
 ---

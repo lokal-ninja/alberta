@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /grande-prairie/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

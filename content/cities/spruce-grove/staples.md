@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /spruce-grove/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

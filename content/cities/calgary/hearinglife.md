@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /calgary/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

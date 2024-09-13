@@ -1,5 +1,5 @@
 ---
 title: "La Tienda"
 url: /edmonton/la-tienda/
-shop: Tabak
+shop: tobacco
 ---

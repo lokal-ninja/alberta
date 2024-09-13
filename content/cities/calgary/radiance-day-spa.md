@@ -1,5 +1,5 @@
 ---
 title: "Radiance Day Spa"
 url: /calgary/radiance-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

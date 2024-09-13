@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /bow-island/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

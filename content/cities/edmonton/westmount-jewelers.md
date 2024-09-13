@@ -1,5 +1,5 @@
 ---
 title: "Westmount Jewelers"
 url: /edmonton/westmount-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Canadian Oil Change"
 url: /lloydminster/great-canadian-oil-change/
-shop: Autowerkstatt
+shop: car repair
 ---

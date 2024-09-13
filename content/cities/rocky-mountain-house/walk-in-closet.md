@@ -1,5 +1,5 @@
 ---
 title: "Walk-in Closet"
 url: /rocky-mountain-house/walk-in-closet/
-shop: Kleidung
+shop: clothes
 ---

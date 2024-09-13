@@ -1,5 +1,5 @@
 ---
 title: "The Goldsmiths"
 url: /calgary/the-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vicious Cycle"
 url: /jasper/vicious-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nutters"
 url: /lloydminster/nutters/
-shop: Bioladen
+shop: health food
 ---

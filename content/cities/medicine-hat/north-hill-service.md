@@ -1,5 +1,5 @@
 ---
 title: "North Hill Service"
 url: /medicine-hat/north-hill-service/
-shop: Autowerkstatt
+shop: car repair
 ---

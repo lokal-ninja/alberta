@@ -1,5 +1,5 @@
 ---
 title: "Liquor on Trail"
 url: /edmonton/liquor-on-trail/
-shop: Spirituosen
+shop: alcohol
 ---

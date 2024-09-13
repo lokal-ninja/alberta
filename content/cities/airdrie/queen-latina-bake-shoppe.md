@@ -1,5 +1,5 @@
 ---
 title: "Queen Latina Bake Shoppe"
 url: /airdrie/queen-latina-bake-shoppe/
-shop: Bäckerei
+shop: bakery
 ---

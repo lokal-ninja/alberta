@@ -1,5 +1,5 @@
 ---
 title: "Furniture Gallery"
 url: /lloydminster/furniture-gallery/
-shop: Möbel
+shop: furniture
 ---

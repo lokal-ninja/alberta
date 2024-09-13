@@ -1,5 +1,5 @@
 ---
 title: "Nutters"
 url: /red-deer/nutters/
-shop: Bioladen
+shop: health food
 ---

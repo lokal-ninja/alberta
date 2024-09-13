@@ -1,5 +1,5 @@
 ---
 title: "Tunedub"
 url: /calgary/tunedub/
-shop: Autowerkstatt
+shop: car repair
 ---

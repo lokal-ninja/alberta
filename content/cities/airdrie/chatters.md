@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /airdrie/chatters/
-shop: Friseur
+shop: hairdresser
 ---

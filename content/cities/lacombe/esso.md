@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /lacombe/esso/
-shop: Lebensmittel
+shop: convenience
 ---

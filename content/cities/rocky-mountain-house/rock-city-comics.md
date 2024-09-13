@@ -1,5 +1,5 @@
 ---
 title: "Rock City Comics"
 url: /rocky-mountain-house/rock-city-comics/
-shop: Sammler
+shop: collector
 ---

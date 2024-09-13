@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /calgary/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TireCraft"
 url: /calgary/tirecraft/
-shop: Autowerkstatt
+shop: car repair
 ---

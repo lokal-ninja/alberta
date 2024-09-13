@@ -1,5 +1,5 @@
 ---
 title: "CSN Collision Centres"
 url: /calgary/csn-collision-centres/
-shop: Autowerkstatt
+shop: car repair
 ---
