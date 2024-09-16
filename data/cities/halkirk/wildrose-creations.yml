@@ -1,11 +1,11 @@
 id: 825158761
-type: way
+type: node
 latitude: 52.28322
 longitude: -112.15442
-postcode: "T0C 1M0"
+postcode: T0C 1M0
 city: Halkirk
-street: "Alberta Avenue"
-housenumber: 402
-phone: "+1-403-740-5036"
+street: Alberta Avenue
+housenumber: "402"
+phone: +1-403-740-5036
 opening_hours: ""
-website: "https://wrcalta.com"
+website: https://wrcalta.com

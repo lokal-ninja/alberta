@@ -1,11 +1,11 @@
 id: 431812835
-type: way
+type: node
 latitude: 53.58292
 longitude: -116.4344
-postcode: "T7E 1V2"
+postcode: T7E 1V2
 city: Edson
-street: "4 Avenue"
-housenumber: 5306
-phone: "+1-780-723-4543"
+street: 4 Avenue
+housenumber: "5306"
+phone: +1-780-723-4543
 opening_hours: ""
 website: ""

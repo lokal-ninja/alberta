@@ -1,11 +1,11 @@
 id: 540434444
-type: way
+type: node
 latitude: 54.25156
 longitude: -111.15602
-postcode: "T0A 1P0"
+postcode: T0A 1P0
 city: Glendon
-street: "Railway Avenue East"
-housenumber: 203
-phone: "+1-780-635-3777"
+street: Railway Avenue East
+housenumber: "203"
+phone: +1-780-635-3777
 opening_hours: ""
 website: ""

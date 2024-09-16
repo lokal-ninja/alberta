@@ -1,11 +1,11 @@
 id: 544328252
-type: way
+type: node
 latitude: 52.4775
 longitude: -113.71551
-postcode: "T4L 2G5"
+postcode: T4L 2G5
 city: Lacombe
-street: "Highway 2A"
-housenumber: 5850
-phone: "+1-403-782-6200"
+street: Highway 2A
+housenumber: "5850"
+phone: +1-403-782-6200
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124281794
-type: way
+type: node
 latitude: 50.91014
 longitude: -114.06883
-postcode: "T2Y 3R9"
+postcode: T2Y 3R9
 city: Calgary
-street: "Macleod Trail SE"
-housenumber: 15915
-phone: "+1 403-254-3637"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1578"
+street: Macleod Trail SE
+housenumber: "15915"
+phone: +1 403-254-3637
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1578

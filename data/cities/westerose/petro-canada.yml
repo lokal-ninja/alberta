@@ -1,11 +1,11 @@
 id: 542829989
-type: way
+type: node
 latitude: 52.96068
 longitude: -114.02689
-postcode: "T0C 2V0"
+postcode: T0C 2V0
 city: Westerose
-street: "Village Drive"
-housenumber: 2
-phone: "+1-780-586-3888"
+street: Village Drive
+housenumber: "2"
+phone: +1-780-586-3888
 opening_hours: ""
 website: ""

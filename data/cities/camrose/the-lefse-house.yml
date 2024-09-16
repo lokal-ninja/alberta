@@ -1,11 +1,11 @@
 id: 1034703970
-type: way
+type: node
 latitude: 53.02449
 longitude: -112.82897
-postcode: "T4V 4N5"
+postcode: T4V 4N5
 city: Camrose
-street: "51 Avenue"
-housenumber: 5210
+street: 51 Avenue
+housenumber: "5210"
 phone: ""
 opening_hours: ""
 website: ""

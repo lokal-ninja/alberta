@@ -1,11 +1,11 @@
 id: 1044388678
-type: way
+type: node
 latitude: 56.92226
 longitude: -117.63031
-postcode: "T0H 4G0"
+postcode: T0H 4G0
 city: Manning
-street: "Main Street"
-housenumber: 304
+street: Main Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

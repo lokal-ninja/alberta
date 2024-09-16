@@ -1,11 +1,11 @@
 id: 1297280463
-type: way
+type: node
 latitude: 51.56355
 longitude: -114.09851
 postcode: ""
 city: Carstairs
-street: "10 Avenue"
-housenumber: 411
+street: 10 Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

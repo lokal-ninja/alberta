@@ -1,11 +1,11 @@
 id: 542817408
-type: way
+type: node
 latitude: 51.79478
 longitude: -114.62392
-postcode: "T0M 1X0"
+postcode: T0M 1X0
 city: Sundre
-street: "Main Avenue East"
-housenumber: 1005
-phone: "+1-403-638-3730"
+street: Main Avenue East
+housenumber: "1005"
+phone: +1-403-638-3730
 opening_hours: ""
 website: ""

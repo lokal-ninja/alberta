@@ -1,11 +1,11 @@
 id: 534873290
-type: way
+type: node
 latitude: 56.1912
 longitude: -117.61026
-postcode: "T0H 1W0"
+postcode: T0H 1W0
 city: Grimshaw
-street: "55th Avenue"
-housenumber: 5019
+street: 55th Avenue
+housenumber: "5019"
 phone: ""
 opening_hours: ""
 website: ""

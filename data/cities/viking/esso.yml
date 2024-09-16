@@ -1,11 +1,11 @@
 id: 516637250
-type: way
+type: node
 latitude: 53.09558
 longitude: -111.78566
-postcode: "T0B 4N0"
+postcode: T0B 4N0
 city: Viking
-street: "54th Street"
-housenumber: 5130
-phone: "+1-780-336-3200"
+street: 54th Street
+housenumber: "5130"
+phone: +1-780-336-3200
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301602388
-type: way
+type: node
 latitude: 53.51355
 longitude: -113.31611
 postcode: ""
 city: Sherwood Park
-street: "Fir Street"
-housenumber: 81
+street: Fir Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

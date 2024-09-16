@@ -1,11 +1,11 @@
 id: 70647323
-type: way
+type: node
 latitude: 53.45508
 longitude: -113.46919
-postcode: "T6N 1N2"
+postcode: T6N 1N2
 city: Edmonton
-street: "91 Street NW"
-housenumber: 2616
+street: 91 Street NW
+housenumber: "2616"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:30; Sa,Su 09:00-18:00"
-website: "https://www.costco.ca/warehouse-locations/s-edmonton-edmonton-ab-258.html"
+opening_hours: Mo-Fr 09:00-20:30; Sa,Su 09:00-18:00
+website: https://www.costco.ca/warehouse-locations/s-edmonton-edmonton-ab-258.html

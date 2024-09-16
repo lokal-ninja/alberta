@@ -1,11 +1,11 @@
 id: 167996237
-type: way
+type: node
 latitude: 53.2763
 longitude: -110.05087
-postcode: "T9V 2X3"
+postcode: T9V 2X3
 city: Lloydminster
-street: "70 Avenue"
-housenumber: 4210
-phone: "+1-780-875-4777"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/lloydminster-ab-3168"
+street: 70 Avenue
+housenumber: "4210"
+phone: +1-780-875-4777
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/lloydminster-ab-3168

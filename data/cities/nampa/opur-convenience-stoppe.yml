@@ -1,11 +1,11 @@
 id: 1199163126
-type: way
+type: node
 latitude: 56.03462
 longitude: -117.13213
-postcode: "T0H 2R0"
+postcode: T0H 2R0
 city: Nampa
-street: "100 Street"
-housenumber: 9709
+street: 100 Street
+housenumber: "9709"
 phone: ""
 opening_hours: ""
 website: ""

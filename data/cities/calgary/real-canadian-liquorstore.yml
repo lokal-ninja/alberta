@@ -1,11 +1,11 @@
 id: 745411898
-type: way
+type: node
 latitude: 51.11755
 longitude: -114.06982
-postcode: "T2K 1C4"
+postcode: T2K 1C4
 city: Calgary
-street: "4 Street NW"
-housenumber: 7240
+street: 4 Street NW
+housenumber: "7240"
 phone: ""
-opening_hours: "10:00-23:00"
+opening_hours: 10:00-23:00
 website: ""

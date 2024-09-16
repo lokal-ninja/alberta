@@ -1,11 +1,11 @@
 id: 282092636
-type: way
+type: node
 latitude: 49.65987
 longitude: -112.78833
-postcode: "T1K 8A8"
+postcode: T1K 8A8
 city: Lethbridge
-street: "Mayor Magrath Drive South"
-housenumber: 3515
-phone: "+1 403-331-2519"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1541"
+street: Mayor Magrath Drive South
+housenumber: "3515"
+phone: +1 403-331-2519
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1541

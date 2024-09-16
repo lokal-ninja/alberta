@@ -1,11 +1,11 @@
 id: 1231784626
-type: way
+type: node
 latitude: 53.35385
 longitude: -110.85199
 postcode: ""
 city: Vermilion
-street: "50 Avenue"
-housenumber: 4939
+street: 50 Avenue
+housenumber: "4939"
 phone: ""
 opening_hours: ""
 website: ""

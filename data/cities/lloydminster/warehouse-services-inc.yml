@@ -1,11 +1,11 @@
 id: 628920418
-type: way
+type: node
 latitude: 53.27673
 longitude: -110.02927
-postcode: "T9V 2G5"
+postcode: T9V 2G5
 city: Lloydminster
-street: "43 Street"
-housenumber: 5723
-phone: "+1-780-808-2155"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://store.wsionline.ca/store/portal"
+street: 43 Street
+housenumber: "5723"
+phone: +1-780-808-2155
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://store.wsionline.ca/store/portal

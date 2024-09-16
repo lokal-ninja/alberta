@@ -1,11 +1,11 @@
 id: 167996254
-type: way
+type: node
 latitude: 53.27539
 longitude: -110.00964
-postcode: "T9V 0A6"
+postcode: T9V 0A6
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5031
-phone: "+1-780-871-8050"
-opening_hours: "Mo-Su 07:00-11:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1571"
+street: Ray Nelson Drive
+housenumber: "5031"
+phone: +1-780-871-8050
+opening_hours: Mo-Su 07:00-11:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1571

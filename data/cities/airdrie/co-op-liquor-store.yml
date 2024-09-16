@@ -1,11 +1,11 @@
 id: 666231873
-type: way
+type: node
 latitude: 51.2691
 longitude: -114.00475
-postcode: "T4B 2Y1"
+postcode: T4B 2Y1
 city: Airdrie
-street: "Main Street SE"
-housenumber: 2700
+street: Main Street SE
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 695556198
-type: way
+type: node
 latitude: 53.27706
 longitude: -110.09999
-postcode: "T9V 3A2"
+postcode: T9V 3A2
 city: Lloydminster
-street: "Yellowhead Highway"
-housenumber: 
-phone: "+1-780-875-4471"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.agland.ca/"
+street: Yellowhead Highway
+housenumber: ""
+phone: +1-780-875-4471
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.agland.ca/

@@ -1,11 +1,11 @@
 id: 350643777
-type: way
+type: node
 latitude: 55.19052
 longitude: -118.79275
 postcode: ""
 city: Grande Prairie
-street: "99 Street"
-housenumber: 12225
+street: 99 Street
+housenumber: "12225"
 phone: ""
 opening_hours: ""
 website: ""

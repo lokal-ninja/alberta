@@ -1,11 +1,11 @@
 id: 569434077
-type: way
+type: node
 latitude: 50.9166
 longitude: -113.9622
-postcode: "T2Z 0S8"
+postcode: T2Z 0S8
 city: Calgary
-street: "McKenzie Towne Avenue SE"
-housenumber: 11
+street: McKenzie Towne Avenue SE
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00"
+opening_hours: Tu-Fr 10:00-18:00
 website: ""

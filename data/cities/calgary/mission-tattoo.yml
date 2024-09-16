@@ -2,10 +2,10 @@ id: 4733120039
 type: node
 latitude: 51.03405
 longitude: -114.07177
-postcode: "T2S 1W8"
+postcode: T2S 1W8
 city: Calgary
-street: "4 Street SW"
-housenumber: 2103
-phone: "+1 587 351 0048"
-opening_hours: "by appointment"
+street: 4 Street SW
+housenumber: "2103"
+phone: +1 587 351 0048
+opening_hours: '"by appointment"'
 website: ""

@@ -1,11 +1,11 @@
 id: 322917555
-type: way
+type: node
 latitude: 53.51927
 longitude: -113.49844
 postcode: ""
 city: Edmonton
-street: "104 Street NW"
-housenumber: 8310
+street: 104 Street NW
+housenumber: "8310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 542433728
-type: way
+type: node
 latitude: 49.59937
 longitude: -114.40279
-postcode: "T0K 0E0"
+postcode: T0K 0E0
 city: Crowsnest Pass
-street: "20 Avenue"
-housenumber: 15233
-phone: "+1-403-562-7739"
+street: 20 Avenue
+housenumber: "15233"
+phone: +1-403-562-7739
 opening_hours: ""
 website: ""

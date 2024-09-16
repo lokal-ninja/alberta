@@ -1,11 +1,11 @@
 id: 1251513188
-type: way
+type: node
 latitude: 53.57246
 longitude: -113.45277
-postcode: "T5B 0H9"
+postcode: T5B 0H9
 city: Edmonton
-street: "119 Avenue NW"
-housenumber: 7210
+street: 119 Avenue NW
+housenumber: "7210"
 phone: ""
 opening_hours: ""
 website: ""

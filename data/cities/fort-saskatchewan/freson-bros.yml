@@ -1,11 +1,11 @@
 id: 733310869
-type: way
+type: node
 latitude: 53.68153
 longitude: -113.25015
-postcode: "T8L 4M1"
+postcode: T8L 4M1
 city: Fort Saskatchewan
-street: "Westpark Boulevard"
-housenumber: 150
-phone: "+1-587-285-2600"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Westpark Boulevard
+housenumber: "150"
+phone: +1-587-285-2600
+opening_hours: Mo-Su 06:00-23:00
 website: ""

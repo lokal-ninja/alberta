@@ -1,11 +1,11 @@
 id: 543575152
-type: way
+type: node
 latitude: 53.26697
 longitude: -110.02237
 postcode: ""
 city: Lloydminster
-street: "31 Street"
-housenumber: 5601
+street: 31 Street
+housenumber: "5601"
 phone: ""
-opening_hours: "Different for each shop"
+opening_hours: '"Different for each shop"'
 website: ""

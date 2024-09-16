@@ -1,11 +1,11 @@
 id: 48151641
-type: way
+type: node
 latitude: 50.95089
 longitude: -110.01066
-postcode: "T0J 1E0"
+postcode: T0J 1E0
 city: Empress
-street: "Second Street West"
-housenumber: 626
+street: Second Street West
+housenumber: "626"
 phone: ""
 opening_hours: ""
 website: ""

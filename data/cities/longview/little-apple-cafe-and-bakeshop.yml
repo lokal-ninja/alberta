@@ -1,11 +1,11 @@
 id: 1039007092
-type: way
+type: node
 latitude: 50.52939
 longitude: -114.23126
-postcode: "T0L 1H0"
+postcode: T0L 1H0
 city: Longview
-street: "Morrison Road"
-housenumber: 140
+street: Morrison Road
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

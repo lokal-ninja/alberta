@@ -1,11 +1,11 @@
 id: 116273961
-type: way
+type: node
 latitude: 51.29211
 longitude: -113.9984
-postcode: "T4A 2H6"
+postcode: T4A 2H6
 city: Airdrie
-street: "East Lake Crescent NE"
-housenumber: 91
-phone: "+1-403-912-0090"
+street: East Lake Crescent NE
+housenumber: "91"
+phone: +1-403-912-0090
 opening_hours: ""
 website: ""

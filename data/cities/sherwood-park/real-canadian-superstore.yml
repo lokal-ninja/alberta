@@ -1,11 +1,11 @@
 id: 143310819
-type: way
+type: node
 latitude: 53.54304
 longitude: -113.29301
 postcode: ""
 city: Sherwood Park
-street: "Baseline Road"
-housenumber: 410
+street: Baseline Road
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1567"
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1567

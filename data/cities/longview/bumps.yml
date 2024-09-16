@@ -1,11 +1,11 @@
 id: 542599549
-type: way
+type: node
 latitude: 50.52871
 longitude: -114.23026
-postcode: "T0L 1H0"
+postcode: T0L 1H0
 city: Longview
-street: "Kee Drive"
-housenumber: 123
-phone: "+1-403-558-2055"
+street: Kee Drive
+housenumber: "123"
+phone: +1-403-558-2055
 opening_hours: ""
 website: ""

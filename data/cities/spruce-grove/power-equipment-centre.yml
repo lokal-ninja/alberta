@@ -1,11 +1,11 @@
 id: 96777688
-type: way
+type: node
 latitude: 53.53918
 longitude: -113.90456
-postcode: "T7X 2H4"
+postcode: T7X 2H4
 city: Spruce Grove
-street: "South Avenue"
-housenumber: 85
+street: South Avenue
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 32878638
-type: way
+type: node
 latitude: 51.17929
 longitude: -115.57207
-postcode: "T1L 1B4"
+postcode: T1L 1B4
 city: Banff
-street: "Marten Street"
-housenumber: 318
-phone: "+1-403-762-5378"
-opening_hours: "07:00-22:00"
-website: "https://west.iga.ca/stores/iga-banff"
+street: Marten Street
+housenumber: "318"
+phone: +1-403-762-5378
+opening_hours: 07:00-22:00
+website: https://west.iga.ca/stores/iga-banff

@@ -1,11 +1,11 @@
 id: 292857213
-type: way
+type: node
 latitude: 51.03912
 longitude: -113.40668
 postcode: ""
 city: Strathmore
-street: "Westridge Road"
-housenumber: 900
-phone: "+1 403 934 3334"
+street: Westridge Road
+housenumber: "900"
+phone: +1 403 934 3334
 opening_hours: ""
-website: "https://www.strathmoremotors.com/"
+website: https://www.strathmoremotors.com/

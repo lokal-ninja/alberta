@@ -1,11 +1,11 @@
 id: 1198443044
-type: way
+type: node
 latitude: 54.58971
 longitude: -112.80759
 postcode: ""
 city: Boyle
-street: "3 Street"
-housenumber: 5717
+street: 3 Street
+housenumber: "5717"
 phone: ""
 opening_hours: ""
 website: ""

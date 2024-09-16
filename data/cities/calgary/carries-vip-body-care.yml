@@ -1,11 +1,11 @@
 id: 276878825
-type: way
+type: node
 latitude: 51.07561
 longitude: -114.0118
-postcode: "T2E 6Z4"
+postcode: T2E 6Z4
 city: Calgary
-street: "25 Avenue NE"
-housenumber: 2016
-phone: "+1 403-735-5007"
-opening_hours: "Mo-Su 09:00-23:00"
-website: "https://carriesvip.ca"
+street: 25 Avenue NE
+housenumber: "2016"
+phone: +1 403-735-5007
+opening_hours: Mo-Su 09:00-23:00
+website: https://carriesvip.ca

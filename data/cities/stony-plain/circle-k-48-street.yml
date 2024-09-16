@@ -1,11 +1,11 @@
 id: 552248739
-type: way
+type: node
 latitude: 53.53529
 longitude: -114.00305
-postcode: "T7Z 1L4"
+postcode: T7Z 1L4
 city: Stony Plain
-street: "48 Street"
-housenumber: 4402
-phone: "+1 780 963 9205"
-opening_hours: "24/7"
+street: 48 Street
+housenumber: "4402"
+phone: +1 780 963 9205
+opening_hours: 24/7
 website: ""

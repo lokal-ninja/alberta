@@ -1,11 +1,11 @@
 id: 1174938801
-type: way
+type: node
 latitude: 51.1777
 longitude: -115.5716
-postcode: "T1L 1C1"
+postcode: T1L 1C1
 city: Banff
-street: "Banff Avenue"
-housenumber: 215
+street: Banff Avenue
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

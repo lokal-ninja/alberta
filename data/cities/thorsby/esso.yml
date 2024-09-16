@@ -1,11 +1,11 @@
 id: 543981750
-type: way
+type: node
 latitude: 53.22601
 longitude: -114.04985
-postcode: "T0C 2P0"
+postcode: T0C 2P0
 city: Thorsby
-street: "52 Street"
-housenumber: 4809
-phone: "+1-780-789-3919"
+street: 52 Street
+housenumber: "4809"
+phone: +1-780-789-3919
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-thorsby-ab-esso-200303110"
+website: https://www.esso.ca/en-ca/find-station/esso-thorsby-ab-esso-200303110

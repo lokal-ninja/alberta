@@ -1,11 +1,11 @@
 id: 540070283
-type: way
+type: node
 latitude: 54.76649
 longitude: -111.98564
-postcode: "T0A 2C0"
+postcode: T0A 2C0
 city: Lac la Biche
-street: "101 Avenue"
-housenumber: 10339
+street: 101 Avenue
+housenumber: "10339"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 545398632
-type: way
+type: node
 latitude: 50.04156
 longitude: -110.67519
-postcode: "T1A 2V1"
+postcode: T1A 2V1
 city: Medicine Hat
-street: "South Railway Street SE"
-housenumber: 110
+street: South Railway Street SE
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

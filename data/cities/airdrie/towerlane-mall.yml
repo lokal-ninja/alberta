@@ -1,11 +1,11 @@
 id: 116231571
-type: way
+type: node
 latitude: 51.28817
 longitude: -114.01566
-postcode: "T4B 3K3"
+postcode: T4B 3K3
 city: Airdrie
-street: "Main Street SW"
-housenumber: 505
+street: Main Street SW
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

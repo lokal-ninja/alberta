@@ -1,11 +1,11 @@
 id: 511576189
-type: way
+type: node
 latitude: 51.04356
 longitude: -114.09339
-postcode: "T3C 0M6"
+postcode: T3C 0M6
 city: Calgary
-street: "11 Avenue SW"
-housenumber: 1338
+street: 11 Avenue SW
+housenumber: "1338"
 phone: ""
 opening_hours: ""
 website: ""

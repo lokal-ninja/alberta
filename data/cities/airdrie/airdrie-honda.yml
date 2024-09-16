@@ -1,11 +1,11 @@
 id: 161852413
-type: way
+type: node
 latitude: 51.25834
 longitude: -114.00681
 postcode: ""
 city: Airdrie
-street: "Main Street SW"
-housenumber: 2971
+street: Main Street SW
+housenumber: "2971"
 phone: ""
 opening_hours: ""
 website: ""

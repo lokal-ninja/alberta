@@ -1,11 +1,11 @@
 id: 321818828
-type: way
+type: node
 latitude: 53.46502
 longitude: -113.49495
 postcode: ""
 city: Edmonton
-street: "Calgary Trail NW"
-housenumber: 3279
+street: Calgary Trail NW
+housenumber: "3279"
 phone: ""
 opening_hours: ""
 website: ""

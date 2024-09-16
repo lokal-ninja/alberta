@@ -1,11 +1,11 @@
 id: 931895726
-type: way
+type: node
 latitude: 58.51665
 longitude: -117.12824
-postcode: "T0H 1Z0"
+postcode: T0H 1Z0
 city: High Level
-street: "97 Street"
-housenumber: 10004
+street: 97 Street
+housenumber: "10004"
 phone: ""
 opening_hours: ""
 website: ""

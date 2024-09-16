@@ -1,11 +1,11 @@
 id: 590284290
-type: way
+type: node
 latitude: 53.36606
 longitude: -113.73219
 postcode: ""
 city: Devon
-street: "Superior Street"
-housenumber: 9
+street: Superior Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

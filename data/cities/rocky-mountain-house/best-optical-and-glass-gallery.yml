@@ -1,11 +1,11 @@
 id: 967409444
-type: way
+type: node
 latitude: 52.37383
 longitude: -114.91905
-postcode: "T4T 1C2"
+postcode: T4T 1C2
 city: Rocky Mountain House
-street: "Main Street"
-housenumber: 4925
-phone: "+1 403 845 6048"
+street: Main Street
+housenumber: "4925"
+phone: +1 403 845 6048
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 542101523
-type: way
+type: node
 latitude: 53.67059
 longitude: -114.59216
-postcode: "T0E 0L0"
+postcode: T0E 0L0
 city: Darwell
-street: "AB-633"
-housenumber: 5002
-phone: "+1-780-892-2461"
+street: AB-633
+housenumber: "5002"
+phone: +1-780-892-2461
 opening_hours: ""
 website: ""

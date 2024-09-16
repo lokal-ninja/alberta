@@ -1,11 +1,11 @@
 id: 628920844
-type: way
+type: node
 latitude: 53.27656
 longitude: -110.04114
-postcode: "T9V 3E8"
+postcode: T9V 3E8
 city: Lloydminster
-street: "66 Avenue"
-housenumber: 4206
-phone: "+1-780-874-6999"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://houseofhybrids.ca/"
+street: 66 Avenue
+housenumber: "4206"
+phone: +1-780-874-6999
+opening_hours: Mo-Su 10:00-22:00
+website: https://houseofhybrids.ca/

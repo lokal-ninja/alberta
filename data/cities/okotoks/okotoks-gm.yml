@@ -1,11 +1,11 @@
 id: 497733614
-type: way
+type: node
 latitude: 50.74568
 longitude: -113.97636
-postcode: "T1S 0H9"
+postcode: T1S 0H9
 city: Okotoks
-street: "Northgate Drive"
-housenumber: 101
+street: Northgate Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

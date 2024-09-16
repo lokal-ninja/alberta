@@ -1,11 +1,11 @@
 id: 966055643
-type: way
+type: node
 latitude: 53.53872
 longitude: -113.8928
-postcode: "T7X 3B2"
+postcode: T7X 3B2
 city: Spruce Grove
-street: "South Avenue"
-housenumber: 420
-phone: "+1 780 962 8488"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+street: South Avenue
+housenumber: "420"
+phone: +1 780 962 8488
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

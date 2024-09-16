@@ -1,11 +1,11 @@
 id: 1226072378
-type: way
+type: node
 latitude: 53.01758
 longitude: -112.80959
-postcode: "T4V 2Z1"
+postcode: T4V 2Z1
 city: Camrose
-street: "48 Avenue"
-housenumber: 3919
-phone: "+1-780-672-2522"
+street: 48 Avenue
+housenumber: "3919"
+phone: +1-780-672-2522
 opening_hours: ""
 website: ""

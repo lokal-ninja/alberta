@@ -1,11 +1,11 @@
 id: 457490745
-type: way
+type: node
 latitude: 52.39908
 longitude: -113.19239
-postcode: "T0C 0B0"
+postcode: T0C 0B0
 city: Alix
-street: "Main Street"
-housenumber: 4905
+street: Main Street
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

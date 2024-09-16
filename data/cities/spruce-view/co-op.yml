@@ -1,11 +1,11 @@
 id: 542816324
-type: way
+type: node
 latitude: 52.08682
 longitude: -114.31271
-postcode: "T0M 1V0"
+postcode: T0M 1V0
 city: Spruce View
-street: "21 Street"
-housenumber: 914
-phone: "+1-403-728-3770"
+street: 21 Street
+housenumber: "914"
+phone: +1-403-728-3770
 opening_hours: ""
 website: ""

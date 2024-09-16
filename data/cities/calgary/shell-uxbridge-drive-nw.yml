@@ -1,11 +1,11 @@
 id: 149621283
-type: way
+type: node
 latitude: 51.06932
 longitude: -114.12843
-postcode: "T2N 3Z1"
+postcode: T2N 3Z1
 city: Calgary
-street: "Uxbridge Drive NW"
-housenumber: 1820
+street: Uxbridge Drive NW
+housenumber: "1820"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

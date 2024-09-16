@@ -1,11 +1,11 @@
 id: 19001459
-type: way
+type: node
 latitude: 51.05631
 longitude: -114.08576
-postcode: "T2N 1V9"
+postcode: T2N 1V9
 city: Calgary
-street: "10 Street NW"
-housenumber: 410
+street: 10 Street NW
+housenumber: "410"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

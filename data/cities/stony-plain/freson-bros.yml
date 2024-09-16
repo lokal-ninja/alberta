@@ -1,11 +1,11 @@
 id: 552248740
-type: way
+type: node
 latitude: 53.53387
 longitude: -114.00441
-postcode: "T7Z 1L4"
+postcode: T7Z 1L4
 city: Stony Plain
-street: "48 Street"
-housenumber: 4416
-phone: "+1 780 963 2613"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://freson.com/"
+street: 48 Street
+housenumber: "4416"
+phone: +1 780 963 2613
+opening_hours: Mo-Su 06:00-23:00
+website: https://freson.com/

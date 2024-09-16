@@ -1,11 +1,11 @@
 id: 553398047
-type: way
+type: node
 latitude: 50.05398
 longitude: -110.69879
-postcode: "T1A 7E2"
+postcode: T1A 7E2
 city: Medicine Hat
-street: "Rutherford Street Northwest"
-housenumber: 512
+street: Rutherford Street Northwest
+housenumber: "512"
 phone: ""
 opening_hours: ""
 website: ""

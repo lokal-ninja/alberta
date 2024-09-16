@@ -1,11 +1,11 @@
 id: 116273852
-type: way
+type: node
 latitude: 51.28926
 longitude: -113.99818
-postcode: "T4A"
+postcode: T4A
 city: Airdrie
-street: "East Lake Rise NE"
-housenumber: 705
+street: East Lake Rise NE
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 536728230
-type: way
+type: node
 latitude: 51.10648
 longitude: -114.04327
-postcode: "T2E 9B7"
+postcode: T2E 9B7
 city: Calgary
-street: "57 Avenue NE"
-housenumber: 910
-phone: "+1 (403) 295-2800"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 09:00-18:00"
+street: 57 Avenue NE
+housenumber: "910"
+phone: +1 (403) 295-2800
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 09:00-18:00
 website: ""

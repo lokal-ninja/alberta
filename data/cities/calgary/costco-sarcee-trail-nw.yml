@@ -1,11 +1,11 @@
 id: 480637908
-type: way
+type: node
 latitude: 51.15527
 longitude: -114.15588
-postcode: "T3R 0A1"
+postcode: T3R 0A1
 city: Calgary
-street: "Sarcee Trail NW"
-housenumber: 11588
-phone: "+1-403-516-3701"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-18:00"
-website: "https://www.costco.ca/warehouse-locations/nw-calgary-calgary-ab-543.html"
+street: Sarcee Trail NW
+housenumber: "11588"
+phone: +1-403-516-3701
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-18:00
+website: https://www.costco.ca/warehouse-locations/nw-calgary-calgary-ab-543.html

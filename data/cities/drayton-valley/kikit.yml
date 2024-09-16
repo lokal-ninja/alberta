@@ -1,11 +1,11 @@
 id: 510570235
-type: way
+type: node
 latitude: 53.19448
 longitude: -114.97834
-postcode: "T7A 0C5"
+postcode: T7A 0C5
 city: Drayton Valley
-street: "50 Street"
-housenumber: 2050
+street: 50 Street
+housenumber: "2050"
 phone: ""
 opening_hours: ""
 website: ""

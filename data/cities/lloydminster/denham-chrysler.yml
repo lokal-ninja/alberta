@@ -1,11 +1,11 @@
 id: 620521969
-type: way
+type: node
 latitude: 53.25812
 longitude: -110.00745
-postcode: "T9V 2W7"
+postcode: T9V 2W7
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 2302
-phone: "+1-877-289-2185"
+street: 50 Avenue
+housenumber: "2302"
+phone: +1-877-289-2185
 opening_hours: ""
-website: "https://www.denhamchryslerjeep.com/"
+website: https://www.denhamchryslerjeep.com/

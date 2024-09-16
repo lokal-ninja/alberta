@@ -1,11 +1,11 @@
 id: 552242708
-type: way
+type: node
 latitude: 53.30378
 longitude: -113.55357
-postcode: "T9E 1J5"
+postcode: T9E 1J5
 city: Edmonton International Airport
-street: "Outlet Collection Way"
-housenumber: 1
-phone: "+1-780-670-9888"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.premiumoutlets.com/outlet/premium-outlet-collection-edmonton-international-airport"
+street: Outlet Collection Way
+housenumber: "1"
+phone: +1-780-670-9888
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.premiumoutlets.com/outlet/premium-outlet-collection-edmonton-international-airport

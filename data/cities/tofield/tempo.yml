@@ -1,11 +1,11 @@
 id: 543378248
-type: way
+type: node
 latitude: 53.39386
 longitude: -112.80467
-postcode: "T0B 4J0"
+postcode: T0B 4J0
 city: Tofield
-street: "Range Road 200"
-housenumber: 51127
-phone: "+1-780-662-0003"
+street: Range Road 200
+housenumber: "51127"
+phone: +1-780-662-0003
 opening_hours: ""
 website: ""

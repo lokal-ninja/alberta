@@ -1,11 +1,11 @@
 id: 963216100
-type: way
+type: node
 latitude: 58.51768
 longitude: -117.12941
-postcode: "T0H 1Z0"
+postcode: T0H 1Z0
 city: High Level
-street: "100 Avenue"
-housenumber: 9806
+street: 100 Avenue
+housenumber: "9806"
 phone: ""
 opening_hours: ""
 website: ""

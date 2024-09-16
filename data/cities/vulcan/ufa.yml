@@ -1,11 +1,11 @@
 id: 542998412
-type: way
+type: node
 latitude: 50.40559
 longitude: -113.25713
-postcode: "T0L 2B0"
+postcode: T0L 2B0
 city: Vulcan
-street: "Service Road"
-housenumber: 110
+street: Service Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

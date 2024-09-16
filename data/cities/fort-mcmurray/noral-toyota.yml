@@ -1,11 +1,11 @@
 id: 271401859
-type: way
+type: node
 latitude: 56.72828
 longitude: -111.38762
 postcode: ""
 city: Fort McMurray
-street: "MacDonald Avenue"
-housenumber: 10129
-phone: "+1-780-743-5444"
+street: MacDonald Avenue
+housenumber: "10129"
+phone: +1-780-743-5444
 opening_hours: ""
-website: "https://www.noraltoyota.ca/en/"
+website: https://www.noraltoyota.ca/en/

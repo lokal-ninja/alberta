@@ -1,11 +1,11 @@
 id: 226023204
-type: way
+type: node
 latitude: 53.01724
 longitude: -112.865
-postcode: "T4V 4W1"
+postcode: T4V 4W1
 city: Camrose
-street: "48 Avenue"
-housenumber: 7009
+street: 48 Avenue
+housenumber: "7009"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 318009920
-type: way
+type: node
 latitude: 53.30315
 longitude: -110.00631
-postcode: "T9V 2C9"
+postcode: T9V 2C9
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 6314
-phone: "+1-780-871-4756"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.primefleetandauto.ca/"
+street: 50 Avenue
+housenumber: "6314"
+phone: +1-780-871-4756
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.primefleetandauto.ca/

@@ -1,11 +1,11 @@
 id: 543886621
-type: way
+type: node
 latitude: 51.65653
 longitude: -114.1374
-postcode: "T0M 0W0"
+postcode: T0M 0W0
 city: Didsbury
-street: "15 Avenue"
-housenumber: 2001
-phone: "+1-403-335-8100"
+street: 15 Avenue
+housenumber: "2001"
+phone: +1-403-335-8100
 opening_hours: ""
 website: ""

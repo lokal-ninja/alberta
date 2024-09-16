@@ -1,11 +1,11 @@
 id: 1193655734
-type: way
+type: node
 latitude: 53.27366
 longitude: -110.00778
-postcode: "T9V 2Z2"
+postcode: T9V 2Z2
 city: Lloydminster
-street: "51 Avenue"
-housenumber: 3901
-phone: "+1-780-875-5808"
+street: 51 Avenue
+housenumber: "3901"
+phone: +1-780-875-5808
 opening_hours: ""
 website: ""

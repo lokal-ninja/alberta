@@ -1,11 +1,11 @@
 id: 153411074
-type: way
+type: node
 latitude: 53.63225
 longitude: -113.5434
-postcode: "T6V 1J6"
+postcode: T6V 1J6
 city: Edmonton
-street: "127 Street NW"
-housenumber: 16940
+street: 127 Street NW
+housenumber: "16940"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/edmonton-nw-albany-1122"
+website: https://www.walmart.ca/en/stores-near-me/edmonton-nw-albany-1122

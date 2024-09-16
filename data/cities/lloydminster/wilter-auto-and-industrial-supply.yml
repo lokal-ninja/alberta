@@ -1,11 +1,11 @@
 id: 620696728
-type: way
+type: node
 latitude: 53.2695
 longitude: -110.00676
-postcode: "T9V 1H5"
+postcode: T9V 1H5
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 3502
-phone: "+1-780-875-9611"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su closed"
-website: "https://bumpertobumper.ca/"
+street: 50 Avenue
+housenumber: "3502"
+phone: +1-780-875-9611
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su closed
+website: https://bumpertobumper.ca/

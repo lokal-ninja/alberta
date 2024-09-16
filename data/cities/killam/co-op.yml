@@ -1,11 +1,11 @@
 id: 1134390819
-type: way
+type: node
 latitude: 52.79177
 longitude: -111.85695
-postcode: "T0B 2L0"
+postcode: T0B 2L0
 city: Killam
-street: "50 Street"
-housenumber: 5026
+street: 50 Street
+housenumber: "5026"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544365770
-type: way
+type: node
 latitude: 51.41262
 longitude: -114.00088
-postcode: "T0M 0S0"
+postcode: T0M 0S0
 city: Rocky View County
-street: "Highway 2"
-housenumber: 283180
-phone: "+1 403 946 7400"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/37797"
+street: Highway 2
+housenumber: "283180"
+phone: +1 403 946 7400
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/37797

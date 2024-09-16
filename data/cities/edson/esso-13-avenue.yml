@@ -1,11 +1,11 @@
 id: 404717593
-type: way
+type: node
 latitude: 53.58938
 longitude: -116.44637
-postcode: "T7E 1H7"
+postcode: T7E 1H7
 city: Edson
-street: "13 Avenue"
-housenumber: 5609
-phone: "+1-780-723-2712"
+street: 13 Avenue
+housenumber: "5609"
+phone: +1-780-723-2712
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-edson-ab-esso-200303402"
+website: https://www.esso.ca/en-ca/find-station/esso-edson-ab-esso-200303402

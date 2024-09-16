@@ -1,11 +1,11 @@
 id: 544395287
-type: way
+type: node
 latitude: 53.27774
 longitude: -110.00506
 postcode: ""
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 4911
-phone: "+1-306-825-3109"
-opening_hours: "05:00-22:00"
-website: "https://retail.petro-canada.ca/"
+street: Ray Nelson Drive
+housenumber: "4911"
+phone: +1-306-825-3109
+opening_hours: 05:00-22:00
+website: https://retail.petro-canada.ca/

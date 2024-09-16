@@ -1,11 +1,11 @@
 id: 480472121
-type: way
+type: node
 latitude: 52.46344
 longitude: -113.72745
-postcode: "T4L 2B6"
+postcode: T4L 2B6
 city: Lacombe
-street: "50 Avenue"
-housenumber: 4576
-phone: "+1-403-782-4244"
+street: 50 Avenue
+housenumber: "4576"
+phone: +1-403-782-4244
 opening_hours: ""
 website: ""

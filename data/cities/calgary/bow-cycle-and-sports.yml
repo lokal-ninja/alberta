@@ -1,11 +1,11 @@
 id: 271945019
-type: way
+type: node
 latitude: 51.08664
 longitude: -114.18242
-postcode: "T3B 0E8"
+postcode: T3B 0E8
 city: Calgary
-street: "Bowness Road NW"
-housenumber: 6501
-phone: "+1 403 288 5422"
+street: Bowness Road NW
+housenumber: "6501"
+phone: +1 403 288 5422
 opening_hours: ""
 website: ""

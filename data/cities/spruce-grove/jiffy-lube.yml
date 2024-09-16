@@ -1,11 +1,11 @@
 id: 556182723
-type: way
+type: node
 latitude: 53.54189
 longitude: -113.92414
-postcode: "T7X 3X3"
+postcode: T7X 3X3
 city: Spruce Grove
-street: "Westway Drive"
-housenumber: 16
+street: Westway Drive
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-06:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 09:00-06:00; Sa 08:00-16:00
 website: ""

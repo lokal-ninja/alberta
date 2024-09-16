@@ -4,8 +4,8 @@ latitude: 51.03369
 longitude: -114.07212
 postcode: ""
 city: Calgary
-street: "4 Street SW"
-housenumber: 2115
+street: 4 Street SW
+housenumber: "2115"
 phone: ""
-opening_hours: "Tu-Th 11:00-18:00; Fr,Sa 11:00-17:00; Su 11:00-16:00; Mo off"
-website: "https://withoutco.com/"
+opening_hours: Tu-Th 11:00-18:00; Fr,Sa 11:00-17:00; Su 11:00-16:00; Mo off
+website: https://withoutco.com/

@@ -1,11 +1,11 @@
 id: 257632465
-type: way
+type: node
 latitude: 51.02997
 longitude: -114.0717
 postcode: ""
 city: Calgary
-street: "4 Street SW"
-housenumber: 
-phone: "+1 403 214 0202"
-opening_hours: "Su-Th 10:00-22:00; Fr,Sa 10:00-23:00"
-website: "https://liquor.sobeys.com/"
+street: 4 Street SW
+housenumber: ""
+phone: +1 403 214 0202
+opening_hours: Su-Th 10:00-22:00; Fr,Sa 10:00-23:00
+website: https://liquor.sobeys.com/

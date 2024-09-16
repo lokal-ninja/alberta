@@ -1,11 +1,11 @@
 id: 118183715
-type: way
+type: node
 latitude: 49.70008
 longitude: -112.89903
 postcode: ""
 city: Lethbridge
-street: "Westside Drive West"
-housenumber: 2500
+street: Westside Drive West
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://www.burnco.com/"
+website: https://www.burnco.com/

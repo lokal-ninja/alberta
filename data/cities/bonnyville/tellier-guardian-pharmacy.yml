@@ -1,11 +1,11 @@
 id: 1005059845
-type: way
+type: node
 latitude: 54.26808
 longitude: -110.74164
-postcode: "T9N 2J5"
+postcode: T9N 2J5
 city: Bonnyville
-street: "50 Avenue"
-housenumber: 5015
-phone: "+1-780-826-3789"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-16:00; Su 10:00-17:00"
-website: "https://www.guardian-ida-remedysrx.ca/en/alberta/bonnyville/tellier-pharmacy-7038370"
+street: 50 Avenue
+housenumber: "5015"
+phone: +1-780-826-3789
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-16:00; Su 10:00-17:00
+website: https://www.guardian-ida-remedysrx.ca/en/alberta/bonnyville/tellier-pharmacy-7038370

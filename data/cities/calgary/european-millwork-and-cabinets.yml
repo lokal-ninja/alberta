@@ -1,11 +1,11 @@
 id: 569493840
-type: way
+type: node
 latitude: 51.08921
 longitude: -114.05561
-postcode: "T2E 2M7"
+postcode: T2E 2M7
 city: Calgary
-street: "40 Avenue NE"
-housenumber: 336
+street: 40 Avenue NE
+housenumber: "336"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

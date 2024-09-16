@@ -1,11 +1,11 @@
 id: 552077194
-type: way
+type: node
 latitude: 50.02629
 longitude: -110.70939
-postcode: "T1A 5C5"
+postcode: T1A 5C5
 city: Medicine Hat
-street: "10 Avenue Southwest"
-housenumber: 1329
+street: 10 Avenue Southwest
+housenumber: "1329"
 phone: ""
 opening_hours: ""
 website: ""

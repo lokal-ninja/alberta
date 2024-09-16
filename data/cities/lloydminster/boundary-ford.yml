@@ -1,11 +1,11 @@
 id: 617464866
-type: way
+type: node
 latitude: 53.26057
 longitude: -110.00759
-postcode: "T9V 2S3"
+postcode: T9V 2S3
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 2502
-phone: "+1-780-872-7755"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00; Su closed"
-website: "https://www.boundaryford.com/"
+street: 50 Avenue
+housenumber: "2502"
+phone: +1-780-872-7755
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00; Su closed
+website: https://www.boundaryford.com/

@@ -1,11 +1,11 @@
 id: 739795025
-type: way
+type: node
 latitude: 50.70013
 longitude: -113.97748
 postcode: ""
 city: Okotoks
-street: "Highway 7"
-housenumber: 386105
+street: Highway 7
+housenumber: "386105"
 phone: ""
 opening_hours: ""
 website: ""

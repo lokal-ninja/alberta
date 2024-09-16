@@ -1,11 +1,11 @@
 id: 627287014
-type: way
+type: node
 latitude: 53.283
 longitude: -110.00329
-postcode: "S9V 0T6"
+postcode: S9V 0T6
 city: Lloydminster
-street: "49 Avenue"
-housenumber: 4911
-phone: "+1-306-825-5326"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su closed"
+street: 49 Avenue
+housenumber: "4911"
+phone: +1-306-825-5326
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su closed
 website: ""

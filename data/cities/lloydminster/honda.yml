@@ -1,11 +1,11 @@
 id: 620523424
-type: way
+type: node
 latitude: 53.25599
 longitude: -110.00716
-postcode: "T9V 2W7"
+postcode: T9V 2W7
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 1904
-phone: "+1-780-875-8355"
+street: 50 Avenue
+housenumber: "1904"
+phone: +1-780-875-8355
 opening_hours: ""
 website: ""

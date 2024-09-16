@@ -1,11 +1,11 @@
 id: 672443846
-type: way
+type: node
 latitude: 53.54055
 longitude: -113.78609
-postcode: "T7X 5A6"
+postcode: T7X 5A6
 city: Acheson
-street: "283 Street"
-housenumber: 9983
-phone: "+1-780-800-9970"
+street: 283 Street
+housenumber: "9983"
+phone: +1-780-800-9970
 opening_hours: ""
-website: "https://www.swsmarinegroup.com/"
+website: https://www.swsmarinegroup.com/

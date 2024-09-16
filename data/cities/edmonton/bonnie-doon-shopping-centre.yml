@@ -1,11 +1,11 @@
 id: 23239693
-type: way
+type: node
 latitude: 53.52309
 longitude: -113.45719
-postcode: "T6C 4E3"
+postcode: T6C 4E3
 city: Edmonton
-street: "82 Street NW"
-housenumber: 8330
-phone: "+1-780-465-7902"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-15:30; Su 12:00-15:30"
-website: "https://www.bonniedoonshoppingcentre.com/"
+street: 82 Street NW
+housenumber: "8330"
+phone: +1-780-465-7902
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-15:30; Su 12:00-15:30
+website: https://www.bonniedoonshoppingcentre.com/

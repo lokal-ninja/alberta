@@ -1,11 +1,11 @@
 id: 123739198
-type: way
+type: node
 latitude: 49.65848
 longitude: -112.79614
 postcode: ""
 city: Lethbridge
-street: "Mayor Magrath Drive S"
-housenumber: 3700
-phone: "+1 403-328-6277e"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/lethbridge-alberta-3048"
+street: Mayor Magrath Drive S
+housenumber: "3700"
+phone: +1 403-328-6277e
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/lethbridge-alberta-3048

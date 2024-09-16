@@ -1,11 +1,11 @@
 id: 619280022
-type: way
+type: node
 latitude: 53.28274
 longitude: -110.00618
-postcode: "T9V 0K2"
+postcode: T9V 0K2
 city: Lloydminster
-street: "49 Street"
-housenumber: 5004
-phone: "+1-780-875-3120"
-opening_hours: "Mo-Sa 08:00-17:30; Su off"
-website: "https://www.benjaminmoore.com/en-ca"
+street: 49 Street
+housenumber: "5004"
+phone: +1-780-875-3120
+opening_hours: Mo-Sa 08:00-17:30; Su off
+website: https://www.benjaminmoore.com/en-ca

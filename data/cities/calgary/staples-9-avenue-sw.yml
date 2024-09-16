@@ -1,11 +1,11 @@
 id: 41109377
-type: way
+type: node
 latitude: 51.04486
 longitude: -114.09103
-postcode: "T3C 0H9"
+postcode: T3C 0H9
 city: Calgary
-street: "9 Avenue SW"
-housenumber: 1215
+street: 9 Avenue SW
+housenumber: "1215"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/ab/calgary/office-supplies-ca-48.html"
+website: https://stores.staples.ca/ab/calgary/office-supplies-ca-48.html

@@ -1,11 +1,11 @@
 id: 309507446
-type: way
+type: node
 latitude: 52.84438
 longitude: -110.83567
 postcode: ""
 city: Wainwright
-street: "14 Avenue"
-housenumber: 2502
+street: 14 Avenue
+housenumber: "2502"
 phone: ""
 opening_hours: ""
 website: ""

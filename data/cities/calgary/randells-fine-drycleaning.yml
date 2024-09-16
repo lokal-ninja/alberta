@@ -2,10 +2,11 @@ id: 4827406950
 type: node
 latitude: 51.04271
 longitude: -114.06508
-postcode: "T2R 0B8"
+postcode: T2R 0B8
 city: Calgary
-street: "11 Avenue SW"
-housenumber: 140
-phone: "+1 403 229 1449"
-opening_hours: "Mo,Tu 07:30-18:00; We 08:00-18:00; Th 08:00-17:30; Fr 08:00-17:00; Sa 09:00-16:00; Su off"
-website: "https://www.randellsfinedrycleaning.com/"
+street: 11 Avenue SW
+housenumber: "140"
+phone: +1 403 229 1449
+opening_hours: Mo,Tu 07:30-18:00; We 08:00-18:00; Th 08:00-17:30; Fr 08:00-17:00;
+    Sa 09:00-16:00; Su off
+website: https://www.randellsfinedrycleaning.com/

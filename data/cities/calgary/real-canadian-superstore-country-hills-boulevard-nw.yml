@@ -1,11 +1,11 @@
 id: 19713278
-type: way
+type: node
 latitude: 51.13672
 longitude: -114.16241
 postcode: ""
 city: Calgary
-street: "Country Hills Boulevard NW"
-housenumber: 5251
+street: Country Hills Boulevard NW
+housenumber: "5251"
 phone: ""
 opening_hours: ""
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1575"
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1575

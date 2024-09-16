@@ -1,11 +1,11 @@
 id: 625488171
-type: way
+type: node
 latitude: 53.27661
 longitude: -110.03679
-postcode: "T9V 2W9"
+postcode: T9V 2W9
 city: Lloydminster
-street: "43 Street"
-housenumber: 6207
-phone: "+1-780-875-8473"
+street: 43 Street
+housenumber: "6207"
+phone: +1-780-875-8473
 opening_hours: ""
-website: "https://tirecraft.com/lloydminster-tirecraft/about-us/"
+website: https://tirecraft.com/lloydminster-tirecraft/about-us/

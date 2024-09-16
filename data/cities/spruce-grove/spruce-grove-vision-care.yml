@@ -1,11 +1,11 @@
 id: 935245740
-type: way
+type: node
 latitude: 53.54315
 longitude: -113.90226
-postcode: "T7X 0G2"
+postcode: T7X 0G2
 city: Spruce Grove
-street: "Main Street"
-housenumber: 216
-phone: "+1 780 962 3370"
-opening_hours: "Mo, Fr 08:30-17:00; Tu-Th 08:30-17:30; We 08:30-20:00; Sa 09:00-15:00"
-website: "https://sgvisioncare.com/"
+street: Main Street
+housenumber: "216"
+phone: +1 780 962 3370
+opening_hours: Mo, Fr 08:30-17:00; Tu-Th 08:30-17:30; We 08:30-20:00; Sa 09:00-15:00
+website: https://sgvisioncare.com/

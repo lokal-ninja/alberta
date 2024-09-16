@@ -1,11 +1,11 @@
 id: 857461721
-type: way
+type: node
 latitude: 51.0387
 longitude: -113.95893
 postcode: ""
 city: Calgary
-street: "52 Street SE"
-housenumber: 1717
-phone: "+1 403 272 7141"
-opening_hours: "Mo-We,Sa 10:00-17:00; Th 10:00-18:00; Fr 10:00-19:00; Su,PH off"
-website: "https://www.bpcycle.com/"
+street: 52 Street SE
+housenumber: "1717"
+phone: +1 403 272 7141
+opening_hours: Mo-We,Sa 10:00-17:00; Th 10:00-18:00; Fr 10:00-19:00; Su,PH off
+website: https://www.bpcycle.com/

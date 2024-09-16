@@ -1,11 +1,11 @@
 id: 1298276567
-type: way
+type: node
 latitude: 51.66519
 longitude: -114.13295
 postcode: ""
 city: Didsbury
-street: "25 Avenue"
-housenumber: 1602
+street: 25 Avenue
+housenumber: "1602"
 phone: "+14033358202"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

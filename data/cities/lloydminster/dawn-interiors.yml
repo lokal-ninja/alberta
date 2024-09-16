@@ -1,11 +1,11 @@
 id: 631684800
-type: way
+type: node
 latitude: 53.28291
 longitude: -110.00597
-postcode: "T9V 0W6"
+postcode: T9V 0W6
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 4906
-phone: "+1-780-808-2909"
+street: 50 Avenue
+housenumber: "4906"
+phone: +1-780-808-2909
 opening_hours: ""
-website: "https://dawninteriorsandfashions.ca/"
+website: https://dawninteriorsandfashions.ca/

@@ -1,11 +1,11 @@
 id: 35927383
-type: way
+type: node
 latitude: 51.12791
 longitude: -114.20591
-postcode: "T3G 4S3"
+postcode: T3G 4S3
 city: Calgary
-street: "Crowfoot Crescent NW"
-housenumber: 710
-phone: "+1-403-374-3374"
-opening_hours: "Mo-Th 08:00-21:00; Fr 08:00-18:00; Sa 09:00-18:00"
-website: "http://www.crowfoothyundai.ca/"
+street: Crowfoot Crescent NW
+housenumber: "710"
+phone: +1-403-374-3374
+opening_hours: Mo-Th 08:00-21:00; Fr 08:00-18:00; Sa 09:00-18:00
+website: http://www.crowfoothyundai.ca/

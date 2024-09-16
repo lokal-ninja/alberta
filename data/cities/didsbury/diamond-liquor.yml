@@ -1,11 +1,11 @@
 id: 1298274961
-type: way
+type: node
 latitude: 51.66887
 longitude: -114.14219
 postcode: ""
 city: Didsbury
-street: "Shantz Drive"
-housenumber: 900
+street: Shantz Drive
+housenumber: "900"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

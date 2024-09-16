@@ -1,11 +1,11 @@
 id: 26766998
-type: way
+type: node
 latitude: 51.1885
 longitude: -114.46543
-postcode: "T4C 1X6"
+postcode: T4C 1X6
 city: Cochrane
-street: "1st Street"
-housenumber: 205
+street: 1st Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

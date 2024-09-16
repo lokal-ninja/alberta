@@ -1,11 +1,11 @@
 id: 640696426
-type: way
+type: node
 latitude: 53.53269
 longitude: -113.9842
-postcode: "T7Z 2J7"
+postcode: T7Z 2J7
 city: Stony Plain
-street: "49 Avenue"
-housenumber: 3806
-phone: "+1 780 963 1333"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://trinustech.com/"
+street: 49 Avenue
+housenumber: "3806"
+phone: +1 780 963 1333
+opening_hours: Mo-Fr 08:00-17:00
+website: https://trinustech.com/

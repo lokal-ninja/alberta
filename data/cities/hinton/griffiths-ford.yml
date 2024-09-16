@@ -1,11 +1,11 @@
 id: 298734514
-type: way
+type: node
 latitude: 53.39352
 longitude: -117.60517
-postcode: "T7V 1N2"
+postcode: T7V 1N2
 city: Hinton
-street: "Gregg Avenue"
-housenumber: 554
-phone: "+1 780 865 3354"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.griffithsford.ca/"
+street: Gregg Avenue
+housenumber: "554"
+phone: +1 780 865 3354
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.griffithsford.ca/

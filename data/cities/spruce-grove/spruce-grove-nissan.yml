@@ -1,11 +1,11 @@
 id: 561386636
-type: way
+type: node
 latitude: 53.54095
 longitude: -113.92535
-postcode: "T7X 3A6"
+postcode: T7X 3A6
 city: Spruce Grove
-street: "St Matthews Avenue"
-housenumber: 330
-phone: "+1 780 948 1800"
-opening_hours: "Mo-Th 07:30-20:00; Fr-Sa 07:30-18:00"
-website: "https://www.grovenissan.ca/"
+street: St Matthews Avenue
+housenumber: "330"
+phone: +1 780 948 1800
+opening_hours: Mo-Th 07:30-20:00; Fr-Sa 07:30-18:00
+website: https://www.grovenissan.ca/

@@ -1,11 +1,11 @@
 id: 548425679
-type: way
+type: node
 latitude: 50.04531
 longitude: -110.68528
-postcode: "T1B 4K4"
+postcode: T1B 4K4
 city: Medicine Hat
-street: "3 Street Northeast"
-housenumber: 62
-phone: "+1-403-582-2480"
+street: 3 Street Northeast
+housenumber: "62"
+phone: +1-403-582-2480
 opening_hours: ""
 website: ""

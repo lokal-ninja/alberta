@@ -2,10 +2,11 @@ id: 2770902821
 type: node
 latitude: 51.09213
 longitude: -114.15429
-postcode: "T3A 0Z9"
+postcode: T3A 0Z9
 city: Calgary
-street: "Varsity Drive NW"
+street: Varsity Drive NW
 housenumber: 319, 4625
 phone: ""
-opening_hours: "Mo,We 08:00-17:00; Tu,Th 08:00-20:00; Fr 09:00-17:00; Sa 09:00-14:00; Su closed"
-website: "http://www.eyedesigns.ca/index.html"
+opening_hours: Mo,We 08:00-17:00; Tu,Th 08:00-20:00; Fr 09:00-17:00; Sa 09:00-14:00;
+    Su closed
+website: http://www.eyedesigns.ca/index.html

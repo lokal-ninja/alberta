@@ -1,11 +1,11 @@
 id: 322332515
-type: way
+type: node
 latitude: 53.49615
 longitude: -113.48763
-postcode: "T6E 3P2"
+postcode: T6E 3P2
 city: Edmonton
-street: "99 Street NW"
-housenumber: 6010
-phone: "+1-780-435-2211"
+street: 99 Street NW
+housenumber: "6010"
+phone: +1-780-435-2211
 opening_hours: ""
-website: "https://www.specialeventrentals.com/"
+website: https://www.specialeventrentals.com/

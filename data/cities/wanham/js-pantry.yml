@@ -1,11 +1,11 @@
 id: 1130535423
-type: way
+type: node
 latitude: 55.73673
 longitude: -118.38791
-postcode: "T0H 3P0"
+postcode: T0H 3P0
 city: Wanham
-street: "50th Street"
-housenumber: 4905
+street: 50th Street
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

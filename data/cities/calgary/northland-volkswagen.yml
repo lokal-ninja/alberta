@@ -1,11 +1,11 @@
 id: 270466737
-type: way
+type: node
 latitude: 51.09563
 longitude: -114.14266
-postcode: "T2L 2K3"
+postcode: T2L 2K3
 city: Calgary
-street: "Northland Drive NW"
-housenumber: 4849
+street: Northland Drive NW
+housenumber: "4849"
 phone: ""
-opening_hours: "Mo-Th 09:00-21:00, Fr-Sa 09:00-18:00, Su closed"
-website: "https://www.northlandvolkswagencalgary.com/index.htm"
+opening_hours: Mo-Th 09:00-21:00, Fr-Sa 09:00-18:00, Su closed
+website: https://www.northlandvolkswagencalgary.com/index.htm

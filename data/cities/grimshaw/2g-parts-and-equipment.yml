@@ -1,11 +1,11 @@
 id: 1126517530
-type: way
+type: node
 latitude: 56.19508
 longitude: -117.6096
-postcode: "T0H 1W0"
+postcode: T0H 1W0
 city: Grimshaw
-street: "51st Street"
-housenumber: 5714
+street: 51st Street
+housenumber: "5714"
 phone: ""
 opening_hours: ""
 website: ""

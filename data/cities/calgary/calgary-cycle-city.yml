@@ -1,11 +1,11 @@
 id: 786216102
-type: way
+type: node
 latitude: 51.01443
 longitude: -114.06226
-postcode: "T2G 2L2"
+postcode: T2G 2L2
 city: Calgary
-street: "1 Street SE"
-housenumber: 4405
+street: 1 Street SE
+housenumber: "4405"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 365593321
-type: way
+type: node
 latitude: 56.06543
 longitude: -118.39475
-postcode: "T0H 1L0"
+postcode: T0H 1L0
 city: Fairview
-street: "101 Avenue"
-housenumber: 11309
-phone: "+1-780-835-2415"
+street: 101 Avenue
+housenumber: "11309"
+phone: +1-780-835-2415
 opening_hours: ""
-website: "http://www.campbelldodge.ca/"
+website: http://www.campbelldodge.ca/

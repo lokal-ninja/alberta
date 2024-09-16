@@ -1,11 +1,11 @@
 id: 540507694
-type: way
+type: node
 latitude: 53.89594
 longitude: -110.89703
-postcode: "T0A 1A0"
+postcode: T0A 1A0
 city: Elk Point
-street: "49 Avenue"
-housenumber: 4801
-phone: "+1-780-724-4373"
+street: 49 Avenue
+housenumber: "4801"
+phone: +1-780-724-4373
 opening_hours: ""
 website: ""

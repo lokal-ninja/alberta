@@ -1,11 +1,11 @@
 id: 764303874
-type: way
+type: node
 latitude: 52.3262
 longitude: -112.70274
-postcode: "T0C 2L0"
+postcode: T0C 2L0
 city: Stettler
-street: "48 Street"
-housenumber: 5002
-phone: "+1-403-742-3311"
-opening_hours: "Mo-Sa 08:00-17:00; Su off"
-website: "https://www.kaltire.com/en/stores/locations/?StoreID=647"
+street: 48 Street
+housenumber: "5002"
+phone: +1-403-742-3311
+opening_hours: Mo-Sa 08:00-17:00; Su off
+website: https://www.kaltire.com/en/stores/locations/?StoreID=647

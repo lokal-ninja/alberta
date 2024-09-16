@@ -1,11 +1,11 @@
 id: 309507443
-type: way
+type: node
 latitude: 52.84143
 longitude: -110.82874
 postcode: ""
 city: Wainwright
-street: "14 Avenue"
-housenumber: 2901
+street: 14 Avenue
+housenumber: "2901"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/wainwright-ab-1062"
+website: https://www.walmart.ca/en/stores-near-me/wainwright-ab-1062

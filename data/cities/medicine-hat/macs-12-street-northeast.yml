@@ -1,11 +1,11 @@
 id: 553912411
-type: way
+type: node
 latitude: 50.0538
 longitude: -110.67701
-postcode: "T1A 5V1"
+postcode: T1A 5V1
 city: Medicine Hat
-street: "12 Street Northeast"
-housenumber: 398
+street: 12 Street Northeast
+housenumber: "398"
 phone: ""
 opening_hours: ""
 website: ""

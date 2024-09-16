@@ -1,11 +1,11 @@
 id: 546009279
-type: way
+type: node
 latitude: 50.04049
 longitude: -110.67738
-postcode: "T1A 0C6"
+postcode: T1A 0C6
 city: Medicine Hat
-street: "2 Street Southeast"
-housenumber: 552
+street: 2 Street Southeast
+housenumber: "552"
 phone: ""
 opening_hours: ""
 website: ""

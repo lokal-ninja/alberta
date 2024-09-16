@@ -1,11 +1,11 @@
 id: 623951098
-type: way
+type: node
 latitude: 53.28395
 longitude: -110.00611
-postcode: "T9V 0W7"
+postcode: T9V 0W7
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 5010
-phone: "+1-780-875-4913"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-17:00; Su 11:00-19:00"
+street: 50 Avenue
+housenumber: "5010"
+phone: +1-780-875-4913
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-17:00; Su 11:00-19:00
 website: ""

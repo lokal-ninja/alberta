@@ -1,11 +1,11 @@
 id: 560774026
-type: way
+type: node
 latitude: 50.03879
 longitude: -110.67584
-postcode: "T1A 0K8"
+postcode: T1A 0K8
 city: Medicine Hat
-street: "4 Street Southeast"
-housenumber: 560
+street: 4 Street Southeast
+housenumber: "560"
 phone: ""
 opening_hours: ""
 website: ""

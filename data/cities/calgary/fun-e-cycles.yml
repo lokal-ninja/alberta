@@ -1,11 +1,11 @@
 id: 1230247795
-type: way
+type: node
 latitude: 51.1379
 longitude: -114.14755
-postcode: "T3A6K5"
+postcode: T3A6K5
 city: Calgary
-street: "Edgeridge Close NW"
-housenumber: 86
-phone: "+1 403 966 1616"
+street: Edgeridge Close NW
+housenumber: "86"
+phone: +1 403 966 1616
 opening_hours: ""
 website: ""

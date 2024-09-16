@@ -1,11 +1,11 @@
 id: 572769142
-type: way
+type: node
 latitude: 50.88792
 longitude: -114.04334
-postcode: "T2X 3R7"
+postcode: T2X 3R7
 city: Calgary
-street: "Chaparral Drive SE"
-housenumber: 300
+street: Chaparral Drive SE
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00
 website: ""

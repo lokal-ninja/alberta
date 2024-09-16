@@ -1,11 +1,11 @@
 id: 496009001
-type: way
+type: node
 latitude: 51.0464
 longitude: -114.08579
-postcode: "T2P 1J2"
+postcode: T2P 1J2
 city: Calgary
-street: "8 Avenue SW"
-housenumber: 1034
+street: 8 Avenue SW
+housenumber: "1034"
 phone: ""
 opening_hours: ""
 website: ""

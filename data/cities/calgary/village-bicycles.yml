@@ -2,10 +2,10 @@ id: 11043055996
 type: node
 latitude: 51.09407
 longitude: -114.11608
-postcode: "T2L 2E4"
+postcode: T2L 2E4
 city: Calgary
-street: "Charleswood Drive NW"
-housenumber: 4436
+street: Charleswood Drive NW
+housenumber: "4436"
 phone: ""
-opening_hours: "by appointment"
-website: "https://villagebicycles.ca"
+opening_hours: '"by appointment"'
+website: https://villagebicycles.ca

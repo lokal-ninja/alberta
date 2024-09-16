@@ -1,11 +1,11 @@
 id: 1296476792
-type: way
+type: node
 latitude: 52.83339
 longitude: -110.86145
 postcode: ""
 city: Wainwright
-street: "10 Street"
-housenumber: 118
-phone: "+1-780-842-3414"
+street: 10 Street
+housenumber: "118"
+phone: +1-780-842-3414
 opening_hours: ""
 website: ""

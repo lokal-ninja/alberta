@@ -1,11 +1,11 @@
 id: 351472671
-type: way
+type: node
 latitude: 55.1411
 longitude: -118.77607
-postcode: "T8W 1H1"
+postcode: T8W 1H1
 city: Grande Prairie
-street: "Poplar Drive"
-housenumber: 6640
-phone: "+1-780-538-4443"
+street: Poplar Drive
+housenumber: "6640"
+phone: +1-780-538-4443
 opening_hours: ""
 website: ""

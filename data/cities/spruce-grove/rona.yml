@@ -1,11 +1,11 @@
 id: 261924124
-type: way
+type: node
 latitude: 53.5395
 longitude: -113.92825
-postcode: "T7X 4P9"
+postcode: T7X 4P9
 city: Spruce Grove
-street: "Highway 16A"
-housenumber: 175
+street: Highway 16A
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 425327912
-type: way
+type: node
 latitude: 53.47909
 longitude: -113.37358
-postcode: "T6T 0B9"
+postcode: T6T 0B9
 city: Edmonton
-street: "38 Avenue NW"
-housenumber: 1944
+street: 38 Avenue NW
+housenumber: "1944"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa-Su 10:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa-Su 10:00-17:00
 website: ""

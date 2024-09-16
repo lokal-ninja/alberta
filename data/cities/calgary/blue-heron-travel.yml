@@ -1,11 +1,11 @@
 id: 569414647
-type: way
+type: node
 latitude: 51.05356
 longitude: -114.08856
-postcode: "T2N 1X1"
+postcode: T2N 1X1
 city: Calgary
-street: "11 Street NW"
-housenumber: 224
+street: 11 Street NW
+housenumber: "224"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su closed"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su closed
 website: ""

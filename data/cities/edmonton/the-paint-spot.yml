@@ -1,11 +1,11 @@
 id: 593864069
-type: way
+type: node
 latitude: 53.51744
 longitude: -113.49013
 postcode: ""
 city: Edmonton
-street: "81 Avenue NW"
-housenumber: 10032
+street: 81 Avenue NW
+housenumber: "10032"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 09:30-18:00; Th 09:30-21:00; Su 12:00-17:00"
+opening_hours: Mo-We,Fr,Sa 09:30-18:00; Th 09:30-21:00; Su 12:00-17:00
 website: ""

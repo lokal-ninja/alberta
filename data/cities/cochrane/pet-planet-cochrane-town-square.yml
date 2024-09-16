@@ -2,10 +2,10 @@ id: 11345842941
 type: node
 latitude: 51.18562
 longitude: -114.48277
-postcode: "T4C 2A7"
+postcode: T4C 2A7
 city: Cochrane
-street: "Fifth Avenue"
-housenumber: 312
-phone: "+1-403-851-6567"
-opening_hours: "Mo-Fr 10:00-20:00; Sa, Su 10:00-17:00"
+street: Fifth Avenue
+housenumber: "312"
+phone: +1-403-851-6567
+opening_hours: Mo-Fr 10:00-20:00; Sa, Su 10:00-17:00
 website: ""

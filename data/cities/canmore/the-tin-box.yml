@@ -4,8 +4,8 @@ latitude: 51.08901
 longitude: -115.35816
 postcode: ""
 city: Canmore
-street: "8 Street"
-housenumber: #101-637
-phone: "+1-403-678-9666"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Su 10:00-22:00"
-website: "https://www.thetinbox.ca/"
+street: 8 Street
+housenumber: '#101-637'
+phone: +1-403-678-9666
+opening_hours: Mo-Th 10:00-21:00; Fr-Su 10:00-22:00
+website: https://www.thetinbox.ca/

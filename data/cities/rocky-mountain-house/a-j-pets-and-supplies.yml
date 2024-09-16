@@ -1,11 +1,11 @@
 id: 969938375
-type: way
+type: node
 latitude: 52.37221
 longitude: -114.91903
 postcode: ""
 city: Rocky Mountain House
-street: "Main Street"
-housenumber: 4817
-phone: "+1 403 845 7500"
+street: Main Street
+housenumber: "4817"
+phone: +1 403 845 7500
 opening_hours: ""
-website: "https://www.ajpets.ca/"
+website: https://www.ajpets.ca/

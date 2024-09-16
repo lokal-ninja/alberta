@@ -1,11 +1,11 @@
 id: 1175806421
-type: way
+type: node
 latitude: 51.15809
 longitude: -114.00557
 postcode: ""
 city: Calgary
-street: "Stonehill Gate NE"
-housenumber: 200
+street: Stonehill Gate NE
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

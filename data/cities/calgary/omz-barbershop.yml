@@ -2,10 +2,10 @@ id: 10055125329
 type: node
 latitude: 51.10787
 longitude: -114.06334
-postcode: "T2K 0V2"
+postcode: T2K 0V2
 city: Calgary
-street: "Centre Street Northwest"
-housenumber: 6219
-phone: "+1 403-274-6880"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://omz-barbershop.com"
+street: Centre Street Northwest
+housenumber: "6219"
+phone: +1 403-274-6880
+opening_hours: Mo-Su 09:00-18:00
+website: https://omz-barbershop.com

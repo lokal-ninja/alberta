@@ -1,11 +1,11 @@
 id: 541632989
-type: way
+type: node
 latitude: 51.00265
 longitude: -113.95351
 postcode: ""
 city: Calgary
-street: "56 Avenue SE"
-housenumber: 5502
+street: 56 Avenue SE
+housenumber: "5502"
 phone: ""
 opening_hours: ""
 website: ""

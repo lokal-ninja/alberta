@@ -1,11 +1,11 @@
 id: 10408630
-type: way
+type: node
 latitude: 51.05457
 longitude: -113.98547
 postcode: ""
 city: Calgary
-street: "36 Street NE"
-housenumber: 3999
-phone: "+1 403 248 0848"
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su,PH 10:00-18:00"
+street: 36 Street NE
+housenumber: "3999"
+phone: +1 403 248 0848
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su,PH 10:00-18:00
 website: ""

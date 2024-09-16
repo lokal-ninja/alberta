@@ -1,11 +1,11 @@
 id: 395701596
-type: way
+type: node
 latitude: 51.03876
 longitude: -114.09434
-postcode: "T3C 1C9"
+postcode: T3C 1C9
 city: Calgary
-street: "14 Street SW"
-housenumber: 1514
+street: 14 Street SW
+housenumber: "1514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1221446949
-type: way
+type: node
 latitude: 50.7255
 longitude: -113.97269
 postcode: ""
 city: Okotoks
-street: "McRae Street"
-housenumber: 30
+street: McRae Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

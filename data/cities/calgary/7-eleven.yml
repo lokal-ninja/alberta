@@ -2,10 +2,10 @@ id: 300621249
 type: node
 latitude: 51.09639
 longitude: -114.06281
-postcode: "T2K 0S9"
+postcode: T2K 0S9
 city: Calgary
-street: "Centre Street N"
-housenumber: 5003
+street: Centre Street N
+housenumber: "5003"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00+"
-website: "https://stores.7-eleven.ca/store/15482"
+opening_hours: Mo-Su,PH 00:00+
+website: https://stores.7-eleven.ca/store/15482

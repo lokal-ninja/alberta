@@ -1,11 +1,11 @@
 id: 542812778
-type: way
+type: node
 latitude: 49.7854
 longitude: -112.12773
-postcode: "T1G 2B1"
+postcode: T1G 2B1
 city: Taber
-street: "46 Avenue"
-housenumber: 6400
-phone: "+1-403-223-3403"
+street: 46 Avenue
+housenumber: "6400"
+phone: +1-403-223-3403
 opening_hours: ""
 website: ""

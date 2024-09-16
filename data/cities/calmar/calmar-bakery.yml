@@ -1,11 +1,11 @@
 id: 1024839106
-type: way
+type: node
 latitude: 53.26536
 longitude: -113.80429
-postcode: "T0C 0V0"
+postcode: T0C 0V0
 city: Calmar
-street: "50 Avenue"
-housenumber: 4906
+street: 50 Avenue
+housenumber: "4906"
 phone: ""
 opening_hours: ""
 website: ""

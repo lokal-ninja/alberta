@@ -1,11 +1,11 @@
 id: 203029911
-type: way
+type: node
 latitude: 55.05476
 longitude: -117.27964
-postcode: "T0H 0N0"
+postcode: T0H 0N0
 city: Valleyview
-street: "Highway Street"
-housenumber: 3802
-phone: "+1-780-524-3504"
+street: Highway Street
+housenumber: "3802"
+phone: +1-780-524-3504
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-valleyview-ab-esso-200303650"
+website: https://www.esso.ca/en-ca/find-station/esso-valleyview-ab-esso-200303650

@@ -1,11 +1,11 @@
 id: 1044493887
-type: way
+type: node
 latitude: 56.92106
 longitude: -117.62679
-postcode: "T0H 4G0"
+postcode: T0H 4G0
 city: Manning
-street: "4 Avenue Southeast"
-housenumber: 311
+street: 4 Avenue Southeast
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 322923766
-type: way
+type: node
 latitude: 53.51339
 longitude: -113.48756
 postcode: ""
 city: Edmonton
-street: "77 Avenue NW"
-housenumber: 9946
+street: 77 Avenue NW
+housenumber: "9946"
 phone: ""
 opening_hours: ""
 website: ""

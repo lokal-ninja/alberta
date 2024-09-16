@@ -1,11 +1,11 @@
 id: 540903176
-type: way
+type: node
 latitude: 51.00203
 longitude: -114.06699
-postcode: "T2H 0G1"
+postcode: T2H 0G1
 city: Calgary
-street: "1A Street SW"
-housenumber: 5818
-phone: "+1-403-287-3400"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mrtcalgary.com"
+street: 1A Street SW
+housenumber: "5818"
+phone: +1-403-287-3400
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mrtcalgary.com

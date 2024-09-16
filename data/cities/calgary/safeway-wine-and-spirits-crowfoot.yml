@@ -1,11 +1,11 @@
 id: 18993309
-type: way
+type: node
 latitude: 51.12561
 longitude: -114.20263
-postcode: "T3G 2L5"
+postcode: T3G 2L5
 city: Calgary
-street: "Crowfoot Crescent NW"
-housenumber: 65
+street: Crowfoot Crescent NW
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 533468072
-type: way
+type: node
 latitude: 53.07645
 longitude: -114.05126
-postcode: "T0C 2P0"
+postcode: T0C 2P0
 city: Thorsby
-street: "AB-778"
-housenumber: 47404
-phone: "+1-780-389-3797"
+street: AB-778
+housenumber: "47404"
+phone: +1-780-389-3797
 opening_hours: ""
 website: ""

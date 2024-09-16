@@ -1,11 +1,11 @@
 id: 193490188
-type: way
+type: node
 latitude: 53.49831
 longitude: -112.06248
-postcode: "T9C 1M9"
+postcode: T9C 1M9
 city: Vegreville
-street: "50 Avenue"
-housenumber: 5333
-phone: "+1-780-632-2818"
+street: 50 Avenue
+housenumber: "5333"
+phone: +1-780-632-2818
 opening_hours: ""
 website: ""

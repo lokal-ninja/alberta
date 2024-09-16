@@ -1,11 +1,11 @@
 id: 540844641
-type: way
+type: node
 latitude: 51.00551
 longitude: -114.0684
-postcode: "T2H 0G9"
+postcode: T2H 0G9
 city: Calgary
-street: "2 Street SW"
-housenumber: 5502
+street: 2 Street SW
+housenumber: "5502"
 phone: ""
 opening_hours: ""
 website: ""

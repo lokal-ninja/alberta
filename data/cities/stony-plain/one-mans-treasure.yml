@@ -1,11 +1,11 @@
 id: 757711812
-type: way
+type: node
 latitude: 53.52958
 longitude: -114.00587
-postcode: "T7Z 1S9"
+postcode: T7Z 1S9
 city: Stony Plain
-street: "50 Avenue"
-housenumber: 4912
-phone: "+1 780 963 7776"
-opening_hours: "Mo-Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://onemanstreasure.ca/"
+street: 50 Avenue
+housenumber: "4912"
+phone: +1 780 963 7776
+opening_hours: Mo-Sa 11:00-17:00; Su 12:00-16:00
+website: https://onemanstreasure.ca/

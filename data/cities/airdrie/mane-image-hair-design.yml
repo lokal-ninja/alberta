@@ -1,11 +1,11 @@
 id: 767369460
-type: way
+type: node
 latitude: 51.27325
 longitude: -114.01179
-postcode: "T4B 1X5"
+postcode: T4B 1X5
 city: Airdrie
-street: "Summerfield Boulevard SE"
-housenumber: 2145
-phone: "+1-403-948-7091"
+street: Summerfield Boulevard SE
+housenumber: "2145"
+phone: +1-403-948-7091
 opening_hours: ""
 website: ""

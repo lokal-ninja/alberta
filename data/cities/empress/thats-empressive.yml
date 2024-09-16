@@ -1,11 +1,11 @@
 id: 39762409
-type: way
+type: node
 latitude: 50.95656
 longitude: -110.00831
-postcode: "T0J 1E0"
+postcode: T0J 1E0
 city: Empress
-street: "Centre Street"
-housenumber: 309
-phone: "+1 403-565-0009"
-opening_hours: "06:00-21:00"
-website: "https://www.empressive.ca/"
+street: Centre Street
+housenumber: "309"
+phone: +1 403-565-0009
+opening_hours: 06:00-21:00
+website: https://www.empressive.ca/

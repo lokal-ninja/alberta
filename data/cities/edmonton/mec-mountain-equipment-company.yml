@@ -1,11 +1,11 @@
 id: 579113854
-type: way
+type: node
 latitude: 53.547
 longitude: -113.5259
-postcode: "T5K 0G6"
+postcode: T5K 0G6
 city: Edmonton
-street: "104 Avenue NW"
-housenumber: 11904
-phone: "+1-780-488-6614"
+street: 104 Avenue NW
+housenumber: "11904"
+phone: +1-780-488-6614
 opening_hours: ""
-website: "https://www.mec.ca/"
+website: https://www.mec.ca/

@@ -4,8 +4,9 @@ latitude: 51.18409
 longitude: -114.47512
 postcode: ""
 city: Cochrane
-street: "5th Avenue West"
-housenumber: 312
+street: 5th Avenue West
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00; PH off"
-website: "https://thepaisleyboutique.com/"
+opening_hours: Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00;
+    PH off
+website: https://thepaisleyboutique.com/

@@ -1,11 +1,11 @@
 id: 569419117
-type: way
+type: node
 latitude: 51.09642
 longitude: -114.05088
-postcode: "T2K 6K1"
+postcode: T2K 6K1
 city: Calgary
-street: "Goddard Avenue NE"
-housenumber: 637
+street: Goddard Avenue NE
+housenumber: "637"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-18:00, Su 09:00-18:00"
+opening_hours: Mo-Fr 08:00-21:00, Sa 09:00-18:00, Su 09:00-18:00
 website: ""

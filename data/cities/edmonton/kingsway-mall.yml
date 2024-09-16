@@ -1,11 +1,11 @@
 id: 23472590
-type: way
+type: node
 latitude: 53.56085
 longitude: -113.50816
-postcode: "T5G 3A6"
+postcode: T5G 3A6
 city: Edmonton
-street: "Kingsway NW"
-housenumber: 1
+street: Kingsway NW
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00,11:00-18:00"
-website: "https://kingswaymall.com/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00,11:00-18:00
+website: https://kingswaymall.com/

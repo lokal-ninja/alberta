@@ -1,11 +1,11 @@
 id: 552324354
-type: way
+type: node
 latitude: 50.06575
 longitude: -110.73526
-postcode: "T1C 0C8"
+postcode: T1C 0C8
 city: Medicine Hat
-street: "Box Springs Close Northwest"
-housenumber: 2671
+street: Box Springs Close Northwest
+housenumber: "2671"
 phone: ""
 opening_hours: ""
 website: ""

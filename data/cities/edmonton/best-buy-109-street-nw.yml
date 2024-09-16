@@ -1,11 +1,11 @@
 id: 244109912
-type: way
+type: node
 latitude: 53.54545
 longitude: -113.51005
-postcode: "T5J 1M3"
+postcode: T5J 1M3
 city: Edmonton
-street: "109 Street NW"
-housenumber: 10304
+street: 109 Street NW
+housenumber: "10304"
 phone: "+18662378289"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://stores.bestbuy.ca/en-ca/ab/edmonton/10304-109th-st-nw"
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://stores.bestbuy.ca/en-ca/ab/edmonton/10304-109th-st-nw

@@ -1,11 +1,11 @@
 id: 274135790
-type: way
+type: node
 latitude: 53.27692
 longitude: -110.00929
 postcode: ""
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5031
+street: Ray Nelson Drive
+housenumber: "5031"
 phone: ""
-opening_hours: "Mo,Tu 10:00-20:00; We-Sa 10:00-22:00; Su 10:00-20:00"
+opening_hours: Mo,Tu 10:00-20:00; We-Sa 10:00-22:00; Su 10:00-20:00
 website: ""

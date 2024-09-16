@@ -2,10 +2,10 @@ id: 9717524639
 type: node
 latitude: 51.04188
 longitude: -114.07128
-postcode: "T2R 0X6"
+postcode: T2R 0X6
 city: Calgary
-street: "4 Street SW"
-housenumber: 1122
-phone: "+1 403 457 4545"
-opening_hours: "Mo-Fr 09:00-18:00; Su 11:00-16:00; Sa 09:00-17:00"
-website: "https://londonbarbers.ca/"
+street: 4 Street SW
+housenumber: "1122"
+phone: +1 403 457 4545
+opening_hours: Mo-Fr 09:00-18:00; Su 11:00-16:00; Sa 09:00-17:00
+website: https://londonbarbers.ca/

@@ -1,11 +1,11 @@
 id: 613140053
-type: way
+type: node
 latitude: 53.30196
 longitude: -110.03834
-postcode: "T9V 3T6"
+postcode: T9V 3T6
 city: Lloydminster
-street: "63 Street Close"
-housenumber: 6371
-phone: "+1-780-875-6121"
+street: 63 Street Close
+housenumber: "6371"
+phone: +1-780-875-6121
 opening_hours: ""
 website: ""

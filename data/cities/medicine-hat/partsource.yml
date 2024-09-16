@@ -1,11 +1,11 @@
 id: 439782299
-type: way
+type: node
 latitude: 50.036
 longitude: -110.68763
-postcode: "T1A 2J7"
+postcode: T1A 2J7
 city: Medicine Hat
-street: "Division Avenue South"
-housenumber: 310
+street: Division Avenue South
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

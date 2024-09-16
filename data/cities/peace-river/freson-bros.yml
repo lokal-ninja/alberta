@@ -1,11 +1,11 @@
 id: 286006158
-type: way
+type: node
 latitude: 56.23521
 longitude: -117.33547
-postcode: "T8S 1Y7"
+postcode: T8S 1Y7
 city: Peace River
-street: "99 Avenue"
-housenumber: 7900
-phone: "+1-780-624-7673"
+street: 99 Avenue
+housenumber: "7900"
+phone: +1-780-624-7673
 opening_hours: ""
-website: "https://www.freson.com/?page_id=345"
+website: https://www.freson.com/?page_id=345

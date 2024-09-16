@@ -1,11 +1,11 @@
 id: 525057209
-type: way
+type: node
 latitude: 52.8791
 longitude: -118.07946
-postcode: "T0E 1E0"
+postcode: T0E 1E0
 city: Jasper
-street: "Pyramid Road"
-housenumber: 4
+street: Pyramid Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 06:00-18:00"
-website: "https://www.bearspawbakery.com/"
+opening_hours: Mo-Su 06:00-18:00
+website: https://www.bearspawbakery.com/

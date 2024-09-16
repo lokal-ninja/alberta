@@ -1,11 +1,11 @@
 id: 549437563
-type: way
+type: node
 latitude: 50.0265
 longitude: -110.70551
-postcode: "T1A 4V9"
+postcode: T1A 4V9
 city: Medicine Hat
-street: "14 Street Southwest"
-housenumber: 820
+street: 14 Street Southwest
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

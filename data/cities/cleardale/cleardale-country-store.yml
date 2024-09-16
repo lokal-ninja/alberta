@@ -1,11 +1,11 @@
 id: 532726533
-type: way
+type: node
 latitude: 56.35701
 longitude: -119.49355
-postcode: "T0H 3Y0"
+postcode: T0H 3Y0
 city: Cleardale
-street: "Highway Drive"
-housenumber: 808
-phone: "+1-780-685-3939"
+street: Highway Drive
+housenumber: "808"
+phone: +1-780-685-3939
 opening_hours: ""
 website: ""

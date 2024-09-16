@@ -1,11 +1,11 @@
 id: 320155722
-type: way
+type: node
 latitude: 53.41687
 longitude: -113.498
-postcode: "T6W 2P6"
+postcode: T6W 2P6
 city: Edmonton
-street: "103A Street SW"
-housenumber: 2020
-phone: "+1-780-439-3939"
-opening_hours: "Mo-Th 07:30-21:00; Fr 07:30-18:00; Sa 08:00-18:00; Su 11:00-16:00"
-website: "https://www.gatewaytoyota.ca/"
+street: 103A Street SW
+housenumber: "2020"
+phone: +1-780-439-3939
+opening_hours: Mo-Th 07:30-21:00; Fr 07:30-18:00; Sa 08:00-18:00; Su 11:00-16:00
+website: https://www.gatewaytoyota.ca/

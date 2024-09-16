@@ -1,11 +1,11 @@
 id: 543907610
-type: way
+type: node
 latitude: 53.19676
 longitude: -113.05952
-postcode: "T0B 1W0"
+postcode: T0B 1W0
 city: Hay Lakes
-street: "Railway Avenue N"
-housenumber: 2
-phone: "+1 780 640 1161"
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 09:00-18:00"
-website: "https://www.tempo.crs/sites/tempo/locations?location=Tempo%2C+Hay+Lakes+Fuel+Plus"
+street: Railway Avenue N
+housenumber: "2"
+phone: +1 780 640 1161
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su 09:00-18:00
+website: https://www.tempo.crs/sites/tempo/locations?location=Tempo%2C+Hay+Lakes+Fuel+Plus

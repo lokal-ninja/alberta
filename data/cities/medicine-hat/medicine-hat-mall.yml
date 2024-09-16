@@ -1,11 +1,11 @@
 id: 164068135
-type: way
+type: node
 latitude: 50.00347
 longitude: -110.64951
-postcode: "T1B 2R4"
+postcode: T1B 2R4
 city: Medicine Hat
-street: "Dunmore Road Southeast"
-housenumber: 3292
-phone: "+1-403-526-4888"
+street: Dunmore Road Southeast
+housenumber: "3292"
+phone: +1-403-526-4888
 opening_hours: ""
-website: "https://medicinehatmall.com/"
+website: https://medicinehatmall.com/

@@ -1,11 +1,11 @@
 id: 426679899
-type: way
+type: node
 latitude: 53.47446
 longitude: -113.39148
-postcode: "T6T 1L5"
+postcode: T6T 1L5
 city: Edmonton
-street: "34 Street NW"
-housenumber: 3909
+street: 34 Street NW
+housenumber: "3909"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00
 website: ""

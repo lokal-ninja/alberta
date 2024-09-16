@@ -4,8 +4,8 @@ latitude: 51.03823
 longitude: -114.07173
 postcode: ""
 city: Calgary
-street: "4 Street SW"
-housenumber: 1529
-phone: "+1 403 264 9070"
-opening_hours: "Mo-Fr 08:00-23:00; Sa 09:00-23:00; Su 09:00-22:00"
+street: 4 Street SW
+housenumber: "1529"
+phone: +1 403 264 9070
+opening_hours: Mo-Fr 08:00-23:00; Sa 09:00-23:00; Su 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 837273113
-type: way
+type: node
 latitude: 52.32421
 longitude: -112.6928
 postcode: ""
 city: Stettler
-street: "49 Avenue"
-housenumber: 4201
-phone: "+1-403-743-0684"
-opening_hours: "Mo-Fr 07:30-17:30, Sa 09:00-16:00"
-website: "https://www.stettlerbuildingsupplies.ca/"
+street: 49 Avenue
+housenumber: "4201"
+phone: +1-403-743-0684
+opening_hours: Mo-Fr 07:30-17:30, Sa 09:00-16:00
+website: https://www.stettlerbuildingsupplies.ca/

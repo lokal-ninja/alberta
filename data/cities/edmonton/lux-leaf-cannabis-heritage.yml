@@ -1,11 +1,11 @@
 id: 1215485355
-type: way
+type: node
 latitude: 53.45538
 longitude: -113.51193
-postcode: "T6J 7J9"
+postcode: T6J 7J9
 city: Edmonton
-street: "23 Avenue NW"
-housenumber: 10946
-phone: "+1-587-463-2011"
-opening_hours: "10:00-23:00"
-website: "https://luxleaf.ca/alberta/edmonton-heritage/"
+street: 23 Avenue NW
+housenumber: "10946"
+phone: +1-587-463-2011
+opening_hours: 10:00-23:00
+website: https://luxleaf.ca/alberta/edmonton-heritage/

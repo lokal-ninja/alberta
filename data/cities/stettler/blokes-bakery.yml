@@ -1,11 +1,11 @@
 id: 829105989
-type: way
+type: node
 latitude: 52.32587
 longitude: -112.70595
-postcode: "T0C 2L2"
+postcode: T0C 2L2
 city: Stettler
-street: "50 Avenue"
-housenumber: 5005
-phone: "+1-403-742-3015"
-opening_hours: "Tu-Fr 07:00-16:00; Sa 10:00-16:00"
+street: 50 Avenue
+housenumber: "5005"
+phone: +1-403-742-3015
+opening_hours: Tu-Fr 07:00-16:00; Sa 10:00-16:00
 website: ""

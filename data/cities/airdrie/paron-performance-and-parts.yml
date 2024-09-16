@@ -1,11 +1,11 @@
 id: 810344518
-type: way
+type: node
 latitude: 51.25815
 longitude: -114.00436
-postcode: "T4B 3G4"
+postcode: T4B 3G4
 city: Airdrie
-street: "Main Street SE"
-housenumber: 2966
-phone: "+1-403-912-7577"
+street: Main Street SE
+housenumber: "2966"
+phone: +1-403-912-7577
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 532802074
-type: way
+type: node
 latitude: 51.79443
 longitude: -114.128
 postcode: ""
 city: Olds
-street: "46 Street"
-housenumber: 6307
+street: 46 Street
+housenumber: "6307"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/56865"
+website: https://www.homehardware.ca/en/store/56865

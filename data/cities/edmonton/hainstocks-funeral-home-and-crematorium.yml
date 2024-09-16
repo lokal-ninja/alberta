@@ -1,11 +1,11 @@
 id: 321836042
-type: way
+type: node
 latitude: 53.46833
 longitude: -113.48324
-postcode: "T6E 6L1"
+postcode: T6E 6L1
 city: Edmonton
-street: "34 Avenue NW"
-housenumber: 9810
-phone: "+1-780-440-2999"
+street: 34 Avenue NW
+housenumber: "9810"
+phone: +1-780-440-2999
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.08839
 longitude: -114.22251
 postcode: ""
 city: Calgary
-street: "Greenbriar Drive NW"
-housenumber: 25
-phone: "+1 587 210 5063"
-opening_hours: "We-Sa 09:00-19:00; Su 09:00-17:00"
-website: "https://www.black-sheep.ca/"
+street: Greenbriar Drive NW
+housenumber: "25"
+phone: +1 587 210 5063
+opening_hours: We-Sa 09:00-19:00; Su 09:00-17:00
+website: https://www.black-sheep.ca/

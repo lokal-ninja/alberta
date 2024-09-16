@@ -1,11 +1,11 @@
 id: 540314229
-type: way
+type: node
 latitude: 51.03706
 longitude: -113.98114
 postcode: ""
 city: Calgary
-street: "19 Avenue SE"
-housenumber: 3720
+street: 19 Avenue SE
+housenumber: "3720"
 phone: ""
 opening_hours: ""
 website: ""

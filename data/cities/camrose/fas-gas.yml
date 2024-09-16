@@ -1,11 +1,11 @@
 id: 544359821
-type: way
+type: node
 latitude: 53.01768
 longitude: -112.84052
-postcode: "T4V 0J9"
+postcode: T4V 0J9
 city: Camrose
-street: "48 Avenue"
-housenumber: 5807
-phone: "+1 780 672 2375"
-opening_hours: "24/7"
+street: 48 Avenue
+housenumber: "5807"
+phone: +1 780 672 2375
+opening_hours: 24/7
 website: ""

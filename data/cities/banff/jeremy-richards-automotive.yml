@@ -1,11 +1,11 @@
 id: 416506148
-type: way
+type: node
 latitude: 51.18261
 longitude: -115.56599
-postcode: "T1L 1A9"
+postcode: T1L 1A9
 city: Banff
-street: "Banff Avenue"
-housenumber: 435
-phone: "+1-403-762-8318"
+street: Banff Avenue
+housenumber: "435"
+phone: +1-403-762-8318
 opening_hours: ""
 website: ""

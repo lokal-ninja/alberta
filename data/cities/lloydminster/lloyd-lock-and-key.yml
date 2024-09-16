@@ -1,11 +1,11 @@
 id: 617729539
-type: way
+type: node
 latitude: 53.2838
 longitude: -110.00258
-postcode: "S9V 1K8"
+postcode: S9V 1K8
 city: Lloydminster
-street: "48A Avenue"
-housenumber: 5006
-phone: "+1-780-875-0206"
-opening_hours: "24/7 Emergency Services"
-website: "https://lloydlock.com/"
+street: 48A Avenue
+housenumber: "5006"
+phone: +1-780-875-0206
+opening_hours: 24/7 "Emergency Services"
+website: https://lloydlock.com/

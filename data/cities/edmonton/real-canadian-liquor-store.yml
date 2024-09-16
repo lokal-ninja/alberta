@@ -1,11 +1,11 @@
 id: 322233508
-type: way
+type: node
 latitude: 53.48144
 longitude: -113.37264
-postcode: "T6T 0C1"
+postcode: T6T 0C1
 city: Edmonton
-street: "Whitemud Drive NW"
-housenumber: 4420
+street: Whitemud Drive NW
+housenumber: "4420"
 phone: ""
-opening_hours: "Mo-Sa 10:00-23:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 10:00-23:00; Su 10:00-20:00
 website: ""

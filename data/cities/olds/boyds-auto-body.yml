@@ -1,11 +1,11 @@
 id: 537841979
-type: way
+type: node
 latitude: 51.79465
 longitude: -114.10209
 postcode: ""
 city: Olds
-street: "49 Avenue"
-housenumber: 4609
+street: 49 Avenue
+housenumber: "4609"
 phone: ""
 opening_hours: ""
 website: ""

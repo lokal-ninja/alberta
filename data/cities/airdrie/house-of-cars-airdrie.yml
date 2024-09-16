@@ -1,11 +1,11 @@
 id: 676910782
-type: way
+type: node
 latitude: 51.30636
 longitude: -114.00451
-postcode: "T4B 0J6"
+postcode: T4B 0J6
 city: Airdrie
-street: "Gateway Drive NE"
-housenumber: 117
-phone: "+1-888-381-2180"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 10:00-18:00"
-website: "https://www.houseofcarsairdrie.com/"
+street: Gateway Drive NE
+housenumber: "117"
+phone: +1-888-381-2180
+opening_hours: Mo-Fr 09:00-20:00, Sa 10:00-18:00
+website: https://www.houseofcarsairdrie.com/

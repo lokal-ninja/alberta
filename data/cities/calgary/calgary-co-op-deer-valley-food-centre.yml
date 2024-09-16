@@ -1,11 +1,11 @@
 id: 335988864
-type: way
+type: node
 latitude: 50.92888
 longitude: -114.02962
-postcode: "T2J 6G2"
+postcode: T2J 6G2
 city: Calgary
-street: "Canyon Meadows Drive SE"
-housenumber: 1221
-phone: "+1 403 2994350"
-opening_hours: "Mo-Su 08:00-22:00;Dec 31 08:00-18:00;Jan 01 09:00-18:00"
-website: "https://www.calgarycoop.com/stores/deer-valley/"
+street: Canyon Meadows Drive SE
+housenumber: "1221"
+phone: +1 403 2994350
+opening_hours: Mo-Su 08:00-22:00;Dec 31 08:00-18:00;Jan 01 09:00-18:00
+website: https://www.calgarycoop.com/stores/deer-valley/

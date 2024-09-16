@@ -1,11 +1,11 @@
 id: 552011533
-type: way
+type: node
 latitude: 50.0246
 longitude: -110.70933
-postcode: "T1A 8A4"
+postcode: T1A 8A4
 city: Medicine Hat
-street: "16 Street Southwest"
-housenumber: 958
+street: 16 Street Southwest
+housenumber: "958"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 260509421
-type: way
+type: node
 latitude: 51.79761
 longitude: -114.13798
 postcode: ""
 city: Olds
-street: "46 Street"
-housenumber: 6900
+street: 46 Street
+housenumber: "6900"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/olds-ab-1084"
+website: https://www.walmart.ca/en/stores-near-me/olds-ab-1084

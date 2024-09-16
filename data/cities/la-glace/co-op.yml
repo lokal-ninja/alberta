@@ -1,11 +1,11 @@
 id: 1255054687
-type: way
+type: node
 latitude: 55.40312
 longitude: -119.15436
-postcode: "T0H 2J0"
+postcode: T0H 2J0
 city: La Glace
-street: "100 Avenue"
-housenumber: 10001
+street: 100 Avenue
+housenumber: "10001"
 phone: ""
 opening_hours: ""
 website: ""

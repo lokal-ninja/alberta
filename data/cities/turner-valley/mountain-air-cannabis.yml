@@ -1,11 +1,11 @@
 id: 285301439
-type: way
+type: node
 latitude: 50.67509
 longitude: -114.27922
-postcode: "T0L 2A0"
+postcode: T0L 2A0
 city: Turner Valley
-street: "Main Street North"
-housenumber: 132
+street: Main Street North
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 322311042
-type: way
+type: node
 latitude: 53.49328
 longitude: -113.49702
-postcode: "T6H 2K1"
+postcode: T6H 2K1
 city: Edmonton
-street: "104 Street NW"
-housenumber: 5611
+street: 104 Street NW
+housenumber: "5611"
 phone: ""
 opening_hours: ""
 website: ""

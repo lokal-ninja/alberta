@@ -1,11 +1,11 @@
 id: 292012963
-type: way
+type: node
 latitude: 53.46326
 longitude: -113.39282
-postcode: "T6T 0B8"
+postcode: T6T 0B8
 city: Edmonton
-street: "34 Street NW"
-housenumber: 3341
-phone: "+1-780-508-0161"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/37819"
+street: 34 Street NW
+housenumber: "3341"
+phone: +1-780-508-0161
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/37819

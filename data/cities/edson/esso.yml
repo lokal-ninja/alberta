@@ -1,11 +1,11 @@
 id: 299505546
-type: way
+type: node
 latitude: 53.57805
 longitude: -116.44295
-postcode: "T7E 1L5"
+postcode: T7E 1L5
 city: Edson
-street: "2 Avenue"
-housenumber: 5508
-phone: "+1-780-723-6339"
+street: 2 Avenue
+housenumber: "5508"
+phone: +1-780-723-6339
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-edson-ab-esso-200304156"
+website: https://www.esso.ca/en-ca/find-station/esso-edson-ab-esso-200304156

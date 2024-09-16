@@ -1,11 +1,11 @@
 id: 546182793
-type: way
+type: node
 latitude: 53.35283
 longitude: -113.73219
-postcode: "T9G 0A6"
+postcode: T9G 0A6
 city: Devon
-street: "Miquelon Avenue"
-housenumber: 180
-phone: "+1-780-987-3673"
-opening_hours: "24/7"
+street: Miquelon Avenue
+housenumber: "180"
+phone: +1-780-987-3673
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 532802075
-type: way
+type: node
 latitude: 51.7942
 longitude: -114.12899
 postcode: ""
 city: Olds
-street: "46 Street"
-housenumber: 6401
+street: 46 Street
+housenumber: "6401"
 phone: ""
 opening_hours: ""
 website: ""

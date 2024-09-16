@@ -2,10 +2,10 @@ id: 9807883309
 type: node
 latitude: 51.04676
 longitude: -114.06739
-postcode: "T2P 0W6"
+postcode: T2P 0W6
 city: Calgary
-street: "7 Avenue SW"
-housenumber: 250
-phone: "+1 403 234 8499"
+street: 7 Avenue SW
+housenumber: "250"
+phone: +1 403 234 8499
 opening_hours: ""
-website: "https://www.moneymart.ca/home"
+website: https://www.moneymart.ca/home

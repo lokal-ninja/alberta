@@ -1,11 +1,11 @@
 id: 544326003
-type: way
+type: node
 latitude: 53.57103
 longitude: -113.00629
-postcode: "T8G 2C9"
+postcode: T8G 2C9
 city: Ardrossan
-street: "AB-16"
-housenumber: 21218
-phone: "+1-780-922-5733"
+street: AB-16
+housenumber: "21218"
+phone: +1-780-922-5733
 opening_hours: ""
 website: ""

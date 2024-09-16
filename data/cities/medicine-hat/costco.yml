@@ -1,11 +1,11 @@
 id: 546151812
-type: way
+type: node
 latitude: 50.06481
 longitude: -110.74309
-postcode: "T1C 0C8"
+postcode: T1C 0C8
 city: Medicine Hat
-street: "Box Springs Boulevard Northwest"
-housenumber: 2350
+street: Box Springs Boulevard Northwest
+housenumber: "2350"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/medicine-hat-ab-593.html"
+website: https://www.costco.ca/warehouse-locations/medicine-hat-ab-593.html

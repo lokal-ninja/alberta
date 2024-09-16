@@ -1,11 +1,11 @@
 id: 377063195
-type: way
+type: node
 latitude: 49.72519
 longitude: -113.39634
-postcode: "T0L 0Z0"
+postcode: T0L 0Z0
 city: Fort MacLeod
-street: "7 Avenue"
-housenumber: 2323
-phone: "+1-403-553-2660"
+street: 7 Avenue
+housenumber: "2323"
+phone: +1-403-553-2660
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 19000868
-type: way
+type: node
 latitude: 51.06597
 longitude: -114.10261
-postcode: "T2N 1M7"
+postcode: T2N 1M7
 city: Calgary
-street: "14 Avenue NW"
-housenumber: 1632
+street: 14 Avenue NW
+housenumber: "1632"
 phone: ""
 opening_hours: ""
 website: ""

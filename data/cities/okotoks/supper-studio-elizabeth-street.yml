@@ -1,11 +1,11 @@
 id: 725274016
-type: way
+type: node
 latitude: 50.72608
 longitude: -113.98
-postcode: "T1S 1J9"
+postcode: T1S 1J9
 city: Okotoks
-street: "Elizabeth Street"
-housenumber: 88
-phone: "+1-587-364-0060"
+street: Elizabeth Street
+housenumber: "88"
+phone: +1-587-364-0060
 opening_hours: ""
-website: "https://supperstudio.ca"
+website: https://supperstudio.ca

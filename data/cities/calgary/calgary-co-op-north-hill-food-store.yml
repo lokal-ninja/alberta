@@ -1,11 +1,11 @@
 id: 350671517
-type: way
+type: node
 latitude: 51.06771
 longitude: -114.05148
-postcode: "T2E 1K4"
+postcode: T2E 1K4
 city: Calgary
-street: "16 Avenue NE;Trans-Canada Highway"
-housenumber: 540
-phone: "+1-403-299-4276"
-opening_hours: "08:00-22:00"
-website: "https://www.calgarycoop.com/locations/north-hill/"
+street: 16 Avenue NE;Trans-Canada Highway
+housenumber: "540"
+phone: +1-403-299-4276
+opening_hours: 08:00-22:00
+website: https://www.calgarycoop.com/locations/north-hill/

@@ -1,11 +1,11 @@
 id: 18999288
-type: way
+type: node
 latitude: 51.10304
 longitude: -114.14704
-postcode: "T3A 1Z6"
+postcode: T3A 1Z6
 city: Calgary
-street: "Shaganappi Trail NW"
-housenumber: 5505
-phone: "+1-403-299-4331"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.calgarycoop.com/stores/dalhousie/"
+street: Shaganappi Trail NW
+housenumber: "5505"
+phone: +1-403-299-4331
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.calgarycoop.com/stores/dalhousie/

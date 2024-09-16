@@ -1,11 +1,11 @@
 id: 644905043
-type: way
+type: node
 latitude: 53.3599
 longitude: -113.73175
 postcode: ""
 city: Devon
-street: "St. Lawrence Avenue"
-housenumber: 3
+street: St. Lawrence Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 552077219
-type: way
+type: node
 latitude: 50.02653
 longitude: -110.70794
-postcode: "T1A 4V4"
+postcode: T1A 4V4
 city: Medicine Hat
-street: "13 Street Southwest"
-housenumber: 901
+street: 13 Street Southwest
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

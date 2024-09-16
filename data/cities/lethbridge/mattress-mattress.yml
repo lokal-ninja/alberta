@@ -1,11 +1,11 @@
 id: 669959515
-type: way
+type: node
 latitude: 49.66286
 longitude: -112.79549
-postcode: "T1K 7B1"
+postcode: T1K 7B1
 city: Lethbridge
-street: "32 Street S"
-housenumber: 3083
-phone: "+1-403-327-4447"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://mattressmattress.com/pages/lethbridge"
+street: 32 Street S
+housenumber: "3083"
+phone: +1-403-327-4447
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su 11:00-17:00
+website: https://mattressmattress.com/pages/lethbridge

@@ -1,11 +1,11 @@
 id: 746327387
-type: way
+type: node
 latitude: 51.29813
 longitude: -113.99102
-postcode: "T4A 2G1"
+postcode: T4A 2G1
 city: Airdrie
-street: "East Lake Boulevard NE"
-housenumber: 145
+street: East Lake Boulevard NE
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

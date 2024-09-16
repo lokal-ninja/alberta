@@ -1,11 +1,11 @@
 id: 553912412
-type: way
+type: node
 latitude: 50.05393
 longitude: -110.67657
-postcode: "T1A 6B9"
+postcode: T1A 6B9
 city: Medicine Hat
-street: "4 Avenue Northeast"
-housenumber: 1202
+street: 4 Avenue Northeast
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

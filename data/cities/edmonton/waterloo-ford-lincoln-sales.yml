@@ -1,11 +1,11 @@
 id: 323335339
-type: way
+type: node
 latitude: 53.55276
 longitude: -113.5189
 postcode: ""
 city: Edmonton
-street: "107 Avenue NW"
-housenumber: 11420
+street: 107 Avenue NW
+housenumber: "11420"
 phone: ""
 opening_hours: ""
 website: ""

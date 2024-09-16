@@ -1,11 +1,11 @@
 id: 1131980664
-type: way
+type: node
 latitude: 56.19549
 longitude: -117.61677
-postcode: "T0H 1W0"
+postcode: T0H 1W0
 city: Grimshaw
-street: "58th Avenue"
-housenumber: 5406
+street: 58th Avenue
+housenumber: "5406"
 phone: ""
 opening_hours: ""
 website: ""

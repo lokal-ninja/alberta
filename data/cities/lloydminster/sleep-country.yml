@@ -2,10 +2,10 @@ id: 5760880529
 type: node
 latitude: 53.27773
 longitude: -110.00836
-postcode: "T9V 0A6"
+postcode: T9V 0A6
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5027
-phone: "+1-780-874-1908"
-opening_hours: "Mo-Fr 10:00-21:00, Sa 09:30-18:00, Su 11:00-17:00"
-website: "https://www.sleepcountry.ca/"
+street: Ray Nelson Drive
+housenumber: "5027"
+phone: +1-780-874-1908
+opening_hours: Mo-Fr 10:00-21:00, Sa 09:30-18:00, Su 11:00-17:00
+website: https://www.sleepcountry.ca/

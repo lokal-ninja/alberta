@@ -1,11 +1,11 @@
 id: 1044388689
-type: way
+type: node
 latitude: 56.92208
 longitude: -117.63445
-postcode: "T0H 4G0"
+postcode: T0H 4G0
 city: Manning
-street: "3 Avenue Southwest"
-housenumber: 203
+street: 3 Avenue Southwest
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

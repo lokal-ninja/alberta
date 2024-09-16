@@ -1,11 +1,11 @@
 id: 601444622
-type: way
+type: node
 latitude: 53.27508
 longitude: -110.00792
-postcode: "T9V 1B2"
+postcode: T9V 1B2
 city: Lloydminster
-street: "51 Avenue"
-housenumber: 4009
-phone: "+1-780-871-2830"
+street: 51 Avenue
+housenumber: "4009"
+phone: +1-780-871-2830
 opening_hours: ""
-website: "https://fabricland.ca/"
+website: https://fabricland.ca/

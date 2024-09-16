@@ -1,11 +1,11 @@
 id: 646724030
-type: way
+type: node
 latitude: 51.06276
 longitude: -114.00037
-postcode: "T2A 2N9"
+postcode: T2A 2N9
 city: Calgary
-street: "Meridian Road NE"
-housenumber: 1120
+street: Meridian Road NE
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

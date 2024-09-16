@@ -1,11 +1,11 @@
 id: 540501385
-type: way
+type: node
 latitude: 53.94859
 longitude: -113.12371
-postcode: "T0A 2W0"
+postcode: T0A 2W0
 city: Redwater
-street: "48 Street"
-housenumber: 5722
+street: 48 Street
+housenumber: "5722"
 phone: ""
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-redwater-ab-esso-200303134"
+website: https://www.esso.ca/en-ca/find-station/esso-redwater-ab-esso-200303134

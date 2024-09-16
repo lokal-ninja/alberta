@@ -1,11 +1,11 @@
 id: 27031707
-type: way
+type: node
 latitude: 51.15411
 longitude: -114.2141
 postcode: ""
 city: Calgary
-street: "Country Hills Boulevard NW"
-housenumber: 8888
+street: Country Hills Boulevard NW
+housenumber: "8888"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/calgary-alberta-5726"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/calgary-alberta-5726

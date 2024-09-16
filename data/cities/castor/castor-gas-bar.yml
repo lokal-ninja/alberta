@@ -1,11 +1,11 @@
 id: 542919765
-type: way
+type: node
 latitude: 52.2176
 longitude: -111.90898
-postcode: "T0C 0X0"
+postcode: T0C 0X0
 city: Castor
-street: "45 Street"
-housenumber: 4601
-phone: "+1-403-882-3720"
+street: 45 Street
+housenumber: "4601"
+phone: +1-403-882-3720
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 533680202
-type: way
+type: node
 latitude: 58.47042
 longitude: -114.5319
-postcode: "T0H 1R0"
+postcode: T0H 1R0
 city: Fox Lake
-street: "Main Road"
-housenumber: 1
+street: Main Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.northmart.ca/"
+website: https://www.northmart.ca/

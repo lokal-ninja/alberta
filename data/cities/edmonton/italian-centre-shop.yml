@@ -1,11 +1,11 @@
 id: 324830545
-type: way
+type: node
 latitude: 53.5557
 longitude: -113.48514
-postcode: "T5H 2E4"
+postcode: T5H 2E4
 city: Edmonton
-street: "95 Street Northwest"
-housenumber: 10878
+street: 95 Street Northwest
+housenumber: "10878"
 phone: ""
 opening_hours: ""
-website: "https://italiancentre.ca/"
+website: https://italiancentre.ca/

@@ -1,11 +1,11 @@
 id: 323287612
-type: way
+type: node
 latitude: 53.56181
 longitude: -113.61198
-postcode: "T5M 2X3"
+postcode: T5M 2X3
 city: Edmonton
-street: "113 Avenue NW"
-housenumber: 16708
-phone: "+1-780-483-8314"
+street: 113 Avenue NW
+housenumber: "16708"
+phone: +1-780-483-8314
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301604113
-type: way
+type: node
 latitude: 53.54168
 longitude: -113.31193
 postcode: ""
 city: Sherwood Park
-street: "Baseline Road"
-housenumber: 270
-phone: "+1-780-449-1592"
+street: Baseline Road
+housenumber: "270"
+phone: +1-780-449-1592
 opening_hours: ""
-website: "https://www.partsource.ca/pages/sherwood-park-store-150-270-baseline-road"
+website: https://www.partsource.ca/pages/sherwood-park-store-150-270-baseline-road

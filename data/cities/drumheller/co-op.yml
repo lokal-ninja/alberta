@@ -1,11 +1,11 @@
 id: 543568101
-type: way
+type: node
 latitude: 51.45518
 longitude: -112.6966
-postcode: "T0J 0Y0"
+postcode: T0J 0Y0
 city: Drumheller
-street: "South Railway Avenue"
-housenumber: 555
-phone: "+1-403-823-5555"
+street: South Railway Avenue
+housenumber: "555"
+phone: +1-403-823-5555
 opening_hours: ""
 website: ""

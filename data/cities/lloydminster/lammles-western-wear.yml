@@ -2,10 +2,11 @@ id: 5908342426
 type: node
 latitude: 53.27598
 longitude: -110.04626
-postcode: "T9V 2X2"
+postcode: T9V 2X2
 city: Lloydminster
-street: "70 Avenue"
-housenumber: 4205
-phone: "+1-780-875-6450"
-opening_hours: "Mo-We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00; PH 11:00-17:00"
-website: "https://www.lammles.com/index.php?cat=lammles"
+street: 70 Avenue
+housenumber: "4205"
+phone: +1-780-875-6450
+opening_hours: Mo-We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00;
+    PH 11:00-17:00
+website: https://www.lammles.com/index.php?cat=lammles

@@ -1,11 +1,11 @@
 id: 553445163
-type: way
+type: node
 latitude: 50.0496
 longitude: -110.68729
-postcode: "T1A 5R2"
+postcode: T1A 5R2
 city: Medicine Hat
-street: "Division Avenue North"
-housenumber: 740
+street: Division Avenue North
+housenumber: "740"
 phone: ""
 opening_hours: ""
 website: ""

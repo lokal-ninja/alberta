@@ -1,11 +1,11 @@
 id: 631166174
-type: way
+type: node
 latitude: 53.30163
 longitude: -110.03613
-postcode: "T9V 3T6"
+postcode: T9V 3T6
 city: Lloydminster
-street: "63 Avenue"
-housenumber: 6301
-phone: "+1-780-871-8931"
+street: 63 Avenue
+housenumber: "6301"
+phone: +1-780-871-8931
 opening_hours: ""
 website: ""

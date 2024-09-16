@@ -2,10 +2,11 @@ id: 5809665004
 type: node
 latitude: 53.27495
 longitude: -110.00615
-postcode: "T9V 1B2"
+postcode: T9V 1B2
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 4010
-phone: "+1-780-808-6363"
-opening_hours: "Mo-Tu 07:30-18:00, We-Th 07:30-20:00, Fr 07:30-19:00, Sa 09:00-18:00, Su 11:00-17:00"
-website: "http://thepetpad.ca/"
+street: 50 Avenue
+housenumber: "4010"
+phone: +1-780-808-6363
+opening_hours: Mo-Tu 07:30-18:00, We-Th 07:30-20:00, Fr 07:30-19:00, Sa 09:00-18:00,
+    Su 11:00-17:00
+website: http://thepetpad.ca/

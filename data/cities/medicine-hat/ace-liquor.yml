@@ -1,11 +1,11 @@
 id: 545268933
-type: way
+type: node
 latitude: 50.06252
 longitude: -110.68815
 postcode: ""
 city: Medicine Hat
-street: "Division Avenue NW"
-housenumber: 2340
+street: Division Avenue NW
+housenumber: "2340"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

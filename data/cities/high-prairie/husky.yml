@@ -1,11 +1,11 @@
 id: 539715968
-type: way
+type: node
 latitude: 55.43251
 longitude: -116.49042
-postcode: "T0G 1E0"
+postcode: T0G 1E0
 city: High Prairie
-street: "53 Avenue"
-housenumber: 4833
-phone: "+1-780-523-5515"
+street: 53 Avenue
+housenumber: "4833"
+phone: +1-780-523-5515
 opening_hours: ""
 website: ""

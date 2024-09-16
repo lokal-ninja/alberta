@@ -1,11 +1,11 @@
 id: 83591981
-type: way
+type: node
 latitude: 53.53632
 longitude: -113.62158
-postcode: "T5T 5L5"
+postcode: T5T 5L5
 city: Edmonton
-street: "99th Avenue Northwest"
-housenumber: 17404
+street: 99th Avenue Northwest
+housenumber: "17404"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1245952539
-type: way
+type: node
 latitude: 53.51119
 longitude: -110.32659
 postcode: ""
 city: Marwayne
-street: "5 Street South"
-housenumber: 500
+street: 5 Street South
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

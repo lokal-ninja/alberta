@@ -1,11 +1,11 @@
 id: 1253488619
-type: way
+type: node
 latitude: 51.10008
 longitude: -114.14193
-postcode: "T2L 2J8"
+postcode: T2L 2J8
 city: Calgary
-street: "Northland Drive NW"
-housenumber: 5235
-phone: "+1 825-540-1955"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.cobsbread.com/local-bakery/northland-village-bakery/"
+street: Northland Drive NW
+housenumber: "5235"
+phone: +1 825-540-1955
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.cobsbread.com/local-bakery/northland-village-bakery/

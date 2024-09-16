@@ -1,11 +1,11 @@
 id: 935245774
-type: way
+type: node
 latitude: 53.54203
 longitude: -113.90655
-postcode: "T7X 2Z7"
+postcode: T7X 2Z7
 city: Spruce Grove
-street: "McLeod Avenue"
-housenumber: 124
-phone: "+1 780 710 2391"
+street: McLeod Avenue
+housenumber: "124"
+phone: +1 780 710 2391
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1127475392
-type: way
+type: node
 latitude: 51.17832
 longitude: -115.57302
 postcode: ""
 city: Banff
-street: "Bear Street"
-housenumber: 229
+street: Bear Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://banffcommercialleasing.com/wolf-bear-mall"
+website: https://banffcommercialleasing.com/wolf-bear-mall

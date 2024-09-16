@@ -2,10 +2,11 @@ id: 10733097856
 type: node
 latitude: 53.5373
 longitude: -113.32386
-postcode: "T8A 4E3"
+postcode: T8A 4E3
 city: Sherwood Park
-street: "Athabascan Avenue"
-housenumber: 130
-phone: "+1 780-464-3854"
-opening_hours: "Mo-Fr 09:00-20:00 Donation only hours, Mo-Fr 10:00-20:00; Sa-Su 09:00-20:00 Donation only hours, Sa-Su 10:00-18:00; PH off"
-website: "https://www.goodwill.ab.ca/goodwill-location/sherwood-park/"
+street: Athabascan Avenue
+housenumber: "130"
+phone: +1 780-464-3854
+opening_hours: Mo-Fr 09:00-20:00 "Donation only hours", Mo-Fr 10:00-20:00; Sa-Su 09:00-20:00
+    "Donation only hours", Sa-Su 10:00-18:00; PH off
+website: https://www.goodwill.ab.ca/goodwill-location/sherwood-park/

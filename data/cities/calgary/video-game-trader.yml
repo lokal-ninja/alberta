@@ -1,11 +1,11 @@
 id: 484385606
-type: way
+type: node
 latitude: 51.03841
 longitude: -113.98536
 postcode: ""
 city: Calgary
-street: "17 Avenue SE"
-housenumber: 3456
+street: 17 Avenue SE
+housenumber: "3456"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

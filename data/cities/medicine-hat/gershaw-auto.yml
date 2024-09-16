@@ -1,11 +1,11 @@
 id: 559618114
-type: way
+type: node
 latitude: 50.03081
 longitude: -110.70155
-postcode: "T1A 8R3"
+postcode: T1A 8R3
 city: Medicine Hat
-street: "Gershaw Drive Southwest"
-housenumber: 810
-phone: "+1-403-527-1607"
+street: Gershaw Drive Southwest
+housenumber: "810"
+phone: +1-403-527-1607
 opening_hours: ""
 website: ""

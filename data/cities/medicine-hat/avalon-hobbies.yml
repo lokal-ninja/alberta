@@ -1,11 +1,11 @@
 id: 559538790
-type: way
+type: node
 latitude: 50.03417
 longitude: -110.70396
-postcode: "T1A 4H7"
+postcode: T1A 4H7
 city: Medicine Hat
-street: "5 Street Southwest"
-housenumber: 717
+street: 5 Street Southwest
+housenumber: "717"
 phone: ""
 opening_hours: ""
 website: ""

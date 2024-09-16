@@ -1,11 +1,11 @@
 id: 571062488
-type: way
+type: node
 latitude: 51.06847
 longitude: -113.98777
-postcode: "T1Y 7H5"
+postcode: T1Y 7H5
 city: Calgary
-street: "Sunridge Way NE"
-housenumber: 3451
-phone: "+1-403-280-8222"
+street: Sunridge Way NE
+housenumber: "3451"
+phone: +1-403-280-8222
 opening_hours: ""
-website: "https://www.thebrick.com/"
+website: https://www.thebrick.com/

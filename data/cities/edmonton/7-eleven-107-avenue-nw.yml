@@ -1,11 +1,11 @@
 id: 784555886
-type: way
+type: node
 latitude: 53.55114
 longitude: -113.50899
 postcode: ""
 city: Edmonton
-street: "107 Avenue NW"
-housenumber: 10909
+street: 107 Avenue NW
+housenumber: "10909"
 phone: ""
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/37299"
+website: https://stores.7-eleven.ca/store/37299

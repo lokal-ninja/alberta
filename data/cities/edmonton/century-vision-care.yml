@@ -1,11 +1,11 @@
 id: 544253568
-type: way
+type: node
 latitude: 53.45555
 longitude: -113.51483
 postcode: ""
 city: Edmonton
-street: "111 Street NW"
-housenumber: 2397
+street: 111 Street NW
+housenumber: "2397"
 phone: ""
 opening_hours: ""
 website: ""

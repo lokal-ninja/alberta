@@ -1,11 +1,11 @@
 id: 382557800
-type: way
+type: node
 latitude: 51.23373
 longitude: -113.14119
-postcode: "T0J 2R0"
+postcode: T0J 2R0
 city: Rockyford
-street: "Main Street"
-housenumber: 117
+street: Main Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

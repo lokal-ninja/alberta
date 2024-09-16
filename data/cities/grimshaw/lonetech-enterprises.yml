@@ -1,11 +1,11 @@
 id: 1131980722
-type: way
+type: node
 latitude: 56.19368
 longitude: -117.61598
-postcode: "T0H 1W0"
+postcode: T0H 1W0
 city: Grimshaw
-street: "57th Avenue"
-housenumber: 5310
+street: 57th Avenue
+housenumber: "5310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 560625035
-type: way
+type: node
 latitude: 50.04134
 longitude: -110.67037
-postcode: "T1A 7L5"
+postcode: T1A 7L5
 city: Medicine Hat
-street: "Maple Avenue Southeast"
-housenumber: 302
+street: Maple Avenue Southeast
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

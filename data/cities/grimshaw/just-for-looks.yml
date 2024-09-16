@@ -1,11 +1,11 @@
 id: 1126342439
-type: way
+type: node
 latitude: 56.19095
 longitude: -117.60934
-postcode: "T0H 1W0"
+postcode: T0H 1W0
 city: Grimshaw
-street: "54th Avenue"
-housenumber: 5014
+street: 54th Avenue
+housenumber: "5014"
 phone: ""
 opening_hours: ""
 website: ""

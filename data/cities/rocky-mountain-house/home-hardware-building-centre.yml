@@ -1,11 +1,11 @@
 id: 961437249
-type: way
+type: node
 latitude: 52.37279
 longitude: -114.92176
 postcode: ""
 city: Rocky Mountain House
-street: "49 Avenue"
-housenumber: 5101
-phone: "+1 403 845 3550"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-16:00"
-website: "https://www.homehardware.ca/en/store/50021"
+street: 49 Avenue
+housenumber: "5101"
+phone: +1 403 845 3550
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-16:00
+website: https://www.homehardware.ca/en/store/50021

@@ -1,11 +1,11 @@
 id: 323283817
-type: way
+type: node
 latitude: 53.54315
 longitude: -113.63074
-postcode: "T5S 1P9"
+postcode: T5S 1P9
 city: Edmonton
-street: "179 Street NW"
-housenumber: 10159
-phone: "+1-780-444-8645"
-opening_hours: "Mo-Th 07:30-20:00; Fr-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.kiawestedmonton.com/"
+street: 179 Street NW
+housenumber: "10159"
+phone: +1-780-444-8645
+opening_hours: Mo-Th 07:30-20:00; Fr-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.kiawestedmonton.com/

@@ -1,11 +1,11 @@
 id: 641436924
-type: way
+type: node
 latitude: 53.30336
 longitude: -110.01435
-postcode: "T9V 2E8"
+postcode: T9V 2E8
 city: Lloydminster
-street: "65 Street"
-housenumber: 5205
-phone: "+1-780-875-7712"
+street: 65 Street
+housenumber: "5205"
+phone: +1-780-875-7712
 opening_hours: ""
-website: "https://www.truckzone.ca/"
+website: https://www.truckzone.ca/

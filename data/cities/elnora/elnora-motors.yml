@@ -1,11 +1,11 @@
 id: 543568561
-type: way
+type: node
 latitude: 51.99309
 longitude: -113.19918
-postcode: "T0M 0Y0"
+postcode: T0M 0Y0
 city: Elnora
-street: "3 Avenue"
-housenumber: 510
-phone: "+1-403-777-3622"
+street: 3 Avenue
+housenumber: "510"
+phone: +1-403-777-3622
 opening_hours: ""
 website: ""

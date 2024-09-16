@@ -1,11 +1,12 @@
 id: 620518024
-type: way
+type: node
 latitude: 53.25915
 longitude: -110.00768
-postcode: "T9V 2W7"
+postcode: T9V 2W7
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 2406
-phone: "+1-844-235-0177"
-opening_hours: "Mo-Sa 09:00-18:00 Sales; Mo-Fr 08:00-17:00 Service; Mo-Fr 08:00-18:00 Collision Centre; Mo-Fr 08:00-20:00; Sa 09:00-18:00 Quick Lube"
-website: "https://www.westridgegmc.com/"
+street: 50 Avenue
+housenumber: "2406"
+phone: +1-844-235-0177
+opening_hours: Mo-Sa 09:00-18:00 "Sales"; Mo-Fr 08:00-17:00 "Service"; Mo-Fr 08:00-18:00
+    "Collision Centre"; Mo-Fr 08:00-20:00; Sa 09:00-18:00 "Quick Lube"
+website: https://www.westridgegmc.com/

@@ -2,10 +2,11 @@ id: 3850744662
 type: node
 latitude: 53.52525
 longitude: -113.42657
-postcode: "T6B 0P2"
+postcode: T6B 0P2
 city: Edmonton
-street: "90 Avenue North-west"
-housenumber: 6126
-phone: "+1-780-758-0099"
-opening_hours: "Mo 09:00-17:00, Tu 09:00-20:00, We 09:00-17:00, Tu 09:00-20:00; Fr-Sa 09:00-17:00"
-website: "https://ottewelleyecare.com/"
+street: 90 Avenue North-west
+housenumber: "6126"
+phone: +1-780-758-0099
+opening_hours: Mo 09:00-17:00, Tu 09:00-20:00, We 09:00-17:00, Tu 09:00-20:00; Fr-Sa
+    09:00-17:00
+website: https://ottewelleyecare.com/

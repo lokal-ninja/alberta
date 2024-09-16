@@ -1,11 +1,11 @@
 id: 529856943
-type: way
+type: node
 latitude: 53.51266
 longitude: -113.48713
 postcode: ""
 city: Edmonton
-street: "76 Avenue NW"
-housenumber: 9918
+street: 76 Avenue NW
+housenumber: "9918"
 phone: ""
 opening_hours: ""
 website: ""

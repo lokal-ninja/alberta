@@ -1,11 +1,11 @@
 id: 535795469
-type: way
+type: node
 latitude: 51.7967
 longitude: -114.1242
 postcode: ""
 city: Olds
-street: "Imperial Way"
-housenumber: 5903
+street: Imperial Way
+housenumber: "5903"
 phone: ""
 opening_hours: ""
 website: ""

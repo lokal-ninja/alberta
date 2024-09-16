@@ -1,11 +1,11 @@
 id: 321818857
-type: way
+type: node
 latitude: 53.46627
 longitude: -113.48125
 postcode: ""
 city: Edmonton
-street: "34 Avenue NW"
-housenumber: 9751
+street: 34 Avenue NW
+housenumber: "9751"
 phone: ""
 opening_hours: ""
 website: ""

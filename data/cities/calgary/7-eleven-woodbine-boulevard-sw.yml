@@ -1,11 +1,11 @@
 id: 1185861968
-type: way
+type: node
 latitude: 50.94653
 longitude: -114.13311
 postcode: ""
 city: Calgary
-street: "Woodbine Boulevard SW"
-housenumber: 460
+street: Woodbine Boulevard SW
+housenumber: "460"
 phone: ""
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/23840"
+website: https://stores.7-eleven.ca/store/23840

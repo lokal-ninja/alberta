@@ -1,11 +1,11 @@
 id: 540864519
-type: way
+type: node
 latitude: 51.05153
 longitude: -114.09509
-postcode: "T2N 1Z5"
+postcode: T2N 1Z5
 city: Calgary
-street: "14 Street NW"
-housenumber: 53
+street: 14 Street NW
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

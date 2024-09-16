@@ -2,10 +2,10 @@ id: 10819423701
 type: node
 latitude: 53.56217
 longitude: -113.59016
-postcode: "T5M 1Y2"
+postcode: T5M 1Y2
 city: Edmonton
-street: "156 Street NW"
-housenumber: 11229
-phone: "+1 780-454-8486"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00"
-website: "https://www.jenosauto.com/"
+street: 156 Street NW
+housenumber: "11229"
+phone: +1 780-454-8486
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00
+website: https://www.jenosauto.com/

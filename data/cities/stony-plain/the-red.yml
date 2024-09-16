@@ -1,11 +1,11 @@
 id: 552260062
-type: way
+type: node
 latitude: 53.52815
 longitude: -114.0014
-postcode: "T7Z 1E6"
+postcode: T7Z 1E6
 city: Stony Plain
-street: "48 Street"
-housenumber: 5201
+street: 48 Street
+housenumber: "5201"
 phone: ""
-opening_hours: "Mo-Th, Su 06:00-22:00; Fr-Sa 06:00-23:00"
+opening_hours: Mo-Th, Su 06:00-22:00; Fr-Sa 06:00-23:00
 website: ""

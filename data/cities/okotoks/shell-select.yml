@@ -1,11 +1,11 @@
 id: 723524108
-type: way
+type: node
 latitude: 50.72477
 longitude: -113.981
-postcode: "T1S 1Y3"
+postcode: T1S 1Y3
 city: Okotoks
-street: "Riverside Drive West"
-housenumber: 61
+street: Riverside Drive West
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:30; Sa-Su 06:00-23:00"
+opening_hours: Mo-Fr 05:00-22:30; Sa-Su 06:00-23:00
 website: ""

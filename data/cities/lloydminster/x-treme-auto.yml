@@ -1,11 +1,11 @@
 id: 617728355
-type: way
+type: node
 latitude: 53.28467
 longitude: -110.00533
-postcode: "S9V 1B9"
+postcode: S9V 1B9
 city: Lloydminster
-street: "51 Street"
-housenumber: 4920
-phone: "+1-306-825-4949"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed; PH closed"
-website: "https://x-tremeauto.ca/"
+street: 51 Street
+housenumber: "4920"
+phone: +1-306-825-4949
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed; PH closed
+website: https://x-tremeauto.ca/

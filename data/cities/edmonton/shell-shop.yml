@@ -1,11 +1,11 @@
 id: 813599261
-type: way
+type: node
 latitude: 53.42525
 longitude: -113.42133
-postcode: "T6X 1A4"
+postcode: T6X 1A4
 city: Edmonton
-street: "Ellerslie Road SW"
-housenumber: 5112
-phone: "+1-825-512-4751"
-opening_hours: "24/7"
-website: "https://find.shell.com/ca/fuel/12715196-5112-ellerslie-edmonton"
+street: Ellerslie Road SW
+housenumber: "5112"
+phone: +1-825-512-4751
+opening_hours: 24/7
+website: https://find.shell.com/ca/fuel/12715196-5112-ellerslie-edmonton

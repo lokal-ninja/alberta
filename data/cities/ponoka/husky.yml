@@ -1,11 +1,11 @@
 id: 544367827
-type: way
+type: node
 latitude: 52.68362
 longitude: -113.5809
-postcode: "T4J 1M1"
+postcode: T4J 1M1
 city: Ponoka
-street: "AB-2A"
-housenumber: 5702
-phone: "+1-403-783-5995"
+street: AB-2A
+housenumber: "5702"
+phone: +1-403-783-5995
 opening_hours: ""
 website: ""

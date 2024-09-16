@@ -1,11 +1,11 @@
 id: 597505746
-type: way
+type: node
 latitude: 53.51827
 longitude: -113.49207
-postcode: "T6E 1Z4"
+postcode: T6E 1Z4
 city: Edmonton
-street: "82 Avenue NW"
-housenumber: 10110
-phone: "+1 780-437-7156"
-opening_hours: "09:00-18:00 Donations only, 10:00-18:00"
-website: "https://www.goodwill.ab.ca/goodwill-location/whyte-avenue/"
+street: 82 Avenue NW
+housenumber: "10110"
+phone: +1 780-437-7156
+opening_hours: 09:00-18:00 "Donations only", 10:00-18:00
+website: https://www.goodwill.ab.ca/goodwill-location/whyte-avenue/

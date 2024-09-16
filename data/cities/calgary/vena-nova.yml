@@ -2,10 +2,10 @@ id: 9732135105
 type: node
 latitude: 51.04621
 longitude: -114.06728
-postcode: "T2P 2W3"
+postcode: T2P 2W3
 city: Calgary
-street: "7 Avenue SW"
-housenumber: 225
-phone: "+1 403 264 5557"
-opening_hours: "Tu-Fr 11:00-16:00; Sa 12:00-17:00; Su off"
-website: "https://venanova.com/"
+street: 7 Avenue SW
+housenumber: "225"
+phone: +1 403 264 5557
+opening_hours: Tu-Fr 11:00-16:00; Sa 12:00-17:00; Su off
+website: https://venanova.com/

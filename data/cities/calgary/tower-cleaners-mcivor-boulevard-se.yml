@@ -1,11 +1,11 @@
 id: 570371512
-type: way
+type: node
 latitude: 50.91284
 longitude: -113.95004
-postcode: "T2Z 4Y2"
+postcode: T2Z 4Y2
 city: Calgary
-street: "McIvor Boulevard SE"
-housenumber: 15566
+street: McIvor Boulevard SE
+housenumber: "15566"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

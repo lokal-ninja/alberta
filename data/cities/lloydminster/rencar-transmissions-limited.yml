@@ -1,11 +1,11 @@
 id: 617499780
-type: way
+type: node
 latitude: 53.26588
 longitude: -110.00671
-postcode: "T9V 1H4"
+postcode: T9V 1H4
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 3102
-phone: "+1-780-875-9309"
-opening_hours: "Sa-Su closed; Mo-Fr 08:00-17:00"
-website: "http://rencartransmissions.ca/"
+street: 50 Avenue
+housenumber: "3102"
+phone: +1-780-875-9309
+opening_hours: Sa-Su closed; Mo-Fr 08:00-17:00
+website: http://rencartransmissions.ca/

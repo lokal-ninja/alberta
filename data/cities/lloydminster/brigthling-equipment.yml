@@ -1,11 +1,11 @@
 id: 631649670
-type: way
+type: node
 latitude: 53.2913
 longitude: -110.03325
-postcode: "T9V 3T9"
+postcode: T9V 3T9
 city: Lloydminster
-street: "56 Street"
-housenumber: 6101
-phone: "+1-780-875-1109"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://brightlingequipment.com/"
+street: 56 Street
+housenumber: "6101"
+phone: +1-780-875-1109
+opening_hours: Mo-Fr 08:00-17:00
+website: https://brightlingequipment.com/

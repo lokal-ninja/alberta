@@ -1,11 +1,11 @@
 id: 567113416
-type: way
+type: node
 latitude: 50.8948
 longitude: -113.94579
-postcode: "T3M 2G5"
+postcode: T3M 2G5
 city: Calgary
-street: "Auburn Meadows Boulevard SE"
-housenumber: 100
+street: Auburn Meadows Boulevard SE
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

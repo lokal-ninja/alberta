@@ -1,11 +1,11 @@
 id: 829395688
-type: way
+type: node
 latitude: 52.32587
 longitude: -112.70577
-postcode: "T0C 2L2"
+postcode: T0C 2L2
 city: Stettler
-street: "50 Street"
-housenumber: 4940
-phone: "+1-403-742-5170"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:30-16:30"
-website: "http://artcuriosities.com/"
+street: 50 Street
+housenumber: "4940"
+phone: +1-403-742-5170
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:30-16:30
+website: http://artcuriosities.com/

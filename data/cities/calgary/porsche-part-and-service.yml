@@ -1,11 +1,11 @@
 id: 540884206
-type: way
+type: node
 latitude: 51.01064
 longitude: -114.06178
-postcode: "T2G 2L3"
+postcode: T2G 2L3
 city: Calgary
-street: "1 Street SE"
-housenumber: 4702
+street: 1 Street SE
+housenumber: "4702"
 phone: ""
 opening_hours: ""
-website: "https://porschecentrecalgary.com/"
+website: https://porschecentrecalgary.com/

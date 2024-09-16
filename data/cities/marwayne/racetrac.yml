@@ -1,11 +1,11 @@
 id: 540550924
-type: way
+type: node
 latitude: 53.51226
 longitude: -110.32614
-postcode: "T0B 2X0"
+postcode: T0B 2X0
 city: Marwayne
-street: "Highway 897"
-housenumber: 407
-phone: "+1-780-847-3003"
+street: Highway 897
+housenumber: "407"
+phone: +1-780-847-3003
 opening_hours: ""
 website: ""

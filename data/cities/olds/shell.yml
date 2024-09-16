@@ -1,11 +1,11 @@
 id: 291820302
-type: way
+type: node
 latitude: 51.79574
 longitude: -114.13332
-postcode: "T4H 0A2"
+postcode: T4H 0A2
 city: Olds
-street: "46 Street"
-housenumber: 6700
-phone: "+1-403-556-8539"
+street: 46 Street
+housenumber: "6700"
+phone: +1-403-556-8539
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 426696068
-type: way
+type: node
 latitude: 53.47845
 longitude: -113.37095
 postcode: ""
 city: Edmonton
-street: "17 Street NW"
-housenumber: 3912
+street: 17 Street NW
+housenumber: "3912"
 phone: ""
 opening_hours: ""
 website: ""

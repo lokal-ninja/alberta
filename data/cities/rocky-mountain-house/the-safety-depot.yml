@@ -1,11 +1,11 @@
 id: 967752246
-type: way
+type: node
 latitude: 52.37121
 longitude: -114.91754
-postcode: "T4T 1A6"
+postcode: T4T 1A6
 city: Rocky Mountain House
-street: "49 Street"
-housenumber: 4715
-phone: "+1 403 845 7677"
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://www.thesafetydepot.ca"
+street: 49 Street
+housenumber: "4715"
+phone: +1 403 845 7677
+opening_hours: Mo-Fr 07:00-17:30
+website: https://www.thesafetydepot.ca

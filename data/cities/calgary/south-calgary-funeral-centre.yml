@@ -1,11 +1,11 @@
 id: 169116340
-type: way
+type: node
 latitude: 50.9389
 longitude: -114.0685
 postcode: ""
 city: Calgary
-street: "Macleod Trail S"
-housenumber: 12700
+street: Macleod Trail S
+housenumber: "12700"
 phone: ""
 opening_hours: ""
-website: "http://www.dignitymemorial.ca/south-calgary-funeral-centre/en-ca/index.page"
+website: http://www.dignitymemorial.ca/south-calgary-funeral-centre/en-ca/index.page

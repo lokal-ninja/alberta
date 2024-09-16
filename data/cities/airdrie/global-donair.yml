@@ -1,11 +1,11 @@
 id: 684298292
-type: way
+type: node
 latitude: 51.29015
 longitude: -113.99642
-postcode: "T4A 2J3"
+postcode: T4A 2J3
 city: Airdrie
-street: "East Lake Way NE"
-housenumber: 8
-phone: "+1-403-948-6084"
+street: East Lake Way NE
+housenumber: "8"
+phone: +1-403-948-6084
 opening_hours: ""
 website: ""

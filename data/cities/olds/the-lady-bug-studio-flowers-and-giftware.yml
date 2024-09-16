@@ -1,11 +1,11 @@
 id: 538817700
-type: way
+type: node
 latitude: 51.79127
 longitude: -114.09664
 postcode: ""
 city: Olds
-street: "49 Street"
-housenumber: 4601
+street: 49 Street
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

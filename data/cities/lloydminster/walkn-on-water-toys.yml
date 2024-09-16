@@ -1,11 +1,11 @@
 id: 630774467
-type: way
+type: node
 latitude: 53.27968
 longitude: -110.01084
-postcode: "T9V 0C7"
+postcode: T9V 0C7
 city: Lloydminster
-street: "46 Street"
-housenumber: 5201
-phone: "+1-306-821-2688"
-opening_hours: "Mo-We 10:00-17:00; Th,Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://walkn-on-water.myshopify.com/"
+street: 46 Street
+housenumber: "5201"
+phone: +1-306-821-2688
+opening_hours: Mo-We 10:00-17:00; Th,Fr 10:00-18:00; Sa 10:00-16:00
+website: https://walkn-on-water.myshopify.com/

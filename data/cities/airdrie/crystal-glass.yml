@@ -1,11 +1,11 @@
 id: 116273908
-type: way
+type: node
 latitude: 51.29508
 longitude: -113.99626
-postcode: "T4A 2H1"
+postcode: T4A 2H1
 city: Airdrie
-street: "East Lake Avenue NE"
-housenumber: 51
-phone: "+1-403-945-7557"
+street: East Lake Avenue NE
+housenumber: "51"
+phone: +1-403-945-7557
 opening_hours: ""
 website: ""

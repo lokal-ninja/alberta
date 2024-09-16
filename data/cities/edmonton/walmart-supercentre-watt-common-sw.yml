@@ -1,11 +1,11 @@
 id: 335303419
-type: way
+type: node
 latitude: 53.42276
 longitude: -113.42005
-postcode: "T6X 1X2"
+postcode: T6X 1X2
 city: Edmonton
-street: "Watt Common SW"
-housenumber: 110
-phone: "+1-780-670-3450"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.ca/en/stores-near-me/edmonton-sse-1187"
+street: Watt Common SW
+housenumber: "110"
+phone: +1-780-670-3450
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.ca/en/stores-near-me/edmonton-sse-1187

@@ -1,11 +1,11 @@
 id: 442496851
-type: way
+type: node
 latitude: 55.06615
 longitude: -117.28064
-postcode: "T0H 3N0"
+postcode: T0H 3N0
 city: Valleyview
-street: "50 Street"
-housenumber: 4708
+street: 50 Street
+housenumber: "4708"
 phone: ""
 opening_hours: ""
 website: ""

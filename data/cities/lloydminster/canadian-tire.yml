@@ -1,11 +1,11 @@
 id: 1212403855
-type: way
+type: node
 latitude: 53.27621
 longitude: -110.06391
-postcode: "T9V 0X9"
+postcode: T9V 0X9
 city: Lloydminster
-street: "80 Avenue"
-housenumber: 4104
-phone: "+1-780-875-1558"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.canadiantire.ca/"
+street: 80 Avenue
+housenumber: "4104"
+phone: +1-780-875-1558
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.canadiantire.ca/

@@ -1,11 +1,11 @@
 id: 533042825
-type: way
+type: node
 latitude: 51.65903
 longitude: -114.13811
 postcode: ""
 city: Didsbury
-street: "20 Street"
-housenumber: 1720
+street: 20 Street
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

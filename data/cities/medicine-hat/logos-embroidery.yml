@@ -1,11 +1,11 @@
 id: 551320676
-type: way
+type: node
 latitude: 50.01715
 longitude: -110.65818
-postcode: "T1A 1Z8"
+postcode: T1A 1Z8
 city: Medicine Hat
-street: "Dunmore Road Southeast"
-housenumber: 1835
+street: Dunmore Road Southeast
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 18999287
-type: way
+type: node
 latitude: 51.10101
 longitude: -114.14978
-postcode: "T3A 2C3"
+postcode: T3A 2C3
 city: Calgary
-street: "Dalton Drive NW"
-housenumber: 5404
+street: Dalton Drive NW
+housenumber: "5404"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-18:00
 website: ""

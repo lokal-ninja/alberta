@@ -1,11 +1,11 @@
 id: 42479227
-type: way
+type: node
 latitude: 53.44633
 longitude: -113.4882
-postcode: "T6N 1M4"
+postcode: T6N 1M4
 city: Edmonton
-street: "19 Avenue NW"
-housenumber: 9931
+street: 19 Avenue NW
+housenumber: "9931"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-19:00
 website: ""

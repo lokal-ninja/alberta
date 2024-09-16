@@ -1,11 +1,11 @@
 id: 226594763
-type: way
+type: node
 latitude: 53.57712
 longitude: -116.44945
-postcode: "T7E 0A1"
+postcode: T7E 0A1
 city: Edson
-street: "2 Avenue"
-housenumber: 5750
+street: 2 Avenue
+housenumber: "5750"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.ca/en/stores-near-me/edson-ab-1048"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.ca/en/stores-near-me/edson-ab-1048

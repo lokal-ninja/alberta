@@ -1,11 +1,11 @@
 id: 550571943
-type: way
+type: node
 latitude: 50.04032
 longitude: -110.67509
-postcode: "T1A 0H5"
+postcode: T1A 0H5
 city: Medicine Hat
-street: "3 Street Southeast"
-housenumber: 630
+street: 3 Street Southeast
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

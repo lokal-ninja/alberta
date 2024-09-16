@@ -1,11 +1,11 @@
 id: 564407049
-type: way
+type: node
 latitude: 50.03566
 longitude: -110.66498
-postcode: "T1A 8J4"
+postcode: T1A 8J4
 city: Medicine Hat
-street: "Queen Street Southeast"
-housenumber: 721
+street: Queen Street Southeast
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 540309625
-type: way
+type: node
 latitude: 51.03659
 longitude: -113.98269
 postcode: ""
 city: Calgary
-street: "35 Street SE"
-housenumber: 1818
+street: 35 Street SE
+housenumber: "1818"
 phone: ""
 opening_hours: ""
 website: ""

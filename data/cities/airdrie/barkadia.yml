@@ -1,11 +1,11 @@
 id: 819242820
-type: way
+type: node
 latitude: 51.30688
 longitude: -114.0047
-postcode: "T4B 4H7"
+postcode: T4B 4H7
 city: Airdrie
-street: "Gateway Drive NE"
-housenumber: 109
+street: Gateway Drive NE
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

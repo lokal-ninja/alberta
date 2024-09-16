@@ -1,11 +1,11 @@
 id: 170138205
-type: way
+type: node
 latitude: 50.96144
 longitude: -114.07528
-postcode: "T2W 3N2"
+postcode: T2W 3N2
 city: Calgary
-street: "Southport Road SW"
-housenumber: 10505
-phone: "+1 403-225-6223"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1574"
+street: Southport Road SW
+housenumber: "10505"
+phone: +1 403-225-6223
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1574

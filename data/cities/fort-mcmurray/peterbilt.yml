@@ -1,11 +1,11 @@
 id: 415870412
-type: way
+type: node
 latitude: 56.66718
 longitude: -111.33124
 postcode: ""
 city: Fort McMurray
-street: "Mackenzie Boulevard"
-housenumber: 340
+street: Mackenzie Boulevard
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 827259230
-type: way
+type: node
 latitude: 51.26141
 longitude: -113.9972
-postcode: "T4A 0C9"
+postcode: T4A 0C9
 city: Airdrie
-street: "Kingsview Way SE"
-housenumber: 541
-phone: "+1-403-980-0038"
+street: Kingsview Way SE
+housenumber: "541"
+phone: +1-403-980-0038
 opening_hours: ""
-website: "https://www.minutemanpress.ca/"
+website: https://www.minutemanpress.ca/

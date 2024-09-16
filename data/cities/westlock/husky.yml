@@ -1,11 +1,11 @@
 id: 540474525
-type: way
+type: node
 latitude: 54.16447
 longitude: -113.84844
-postcode: "T7P 1B2"
+postcode: T7P 1B2
 city: Westlock
-street: "104 Avenue"
-housenumber: 11007
-phone: "+1-780-349-3515"
+street: 104 Avenue
+housenumber: "11007"
+phone: +1-780-349-3515
 opening_hours: ""
 website: ""

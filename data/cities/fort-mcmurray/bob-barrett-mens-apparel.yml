@@ -1,11 +1,11 @@
 id: 271401739
-type: way
+type: node
 latitude: 56.72725
 longitude: -111.38449
-postcode: "T9H 1S9"
+postcode: T9H 1S9
 city: Fort McMurray
-street: "MacDonald Avenue"
-housenumber: 10013
-phone: "+1-780-791-3105"
+street: MacDonald Avenue
+housenumber: "10013"
+phone: +1-780-791-3105
 opening_hours: ""
-website: "http://bobbarrettmensapparel.com/"
+website: http://bobbarrettmensapparel.com/

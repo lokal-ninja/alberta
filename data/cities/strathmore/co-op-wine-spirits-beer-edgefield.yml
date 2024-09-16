@@ -1,11 +1,11 @@
 id: 777864612
-type: way
+type: node
 latitude: 51.03811
 longitude: -113.37643
-postcode: "T1P 0E8"
+postcode: T1P 0E8
 city: Strathmore
-street: "Edgefield Gate"
-housenumber: 130
+street: Edgefield Gate
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

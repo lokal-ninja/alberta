@@ -1,11 +1,11 @@
 id: 689198725
-type: way
+type: node
 latitude: 51.09624
 longitude: -114.02657
 postcode: ""
 city: Calgary
-street: "Aviation Road NE"
-housenumber: 1530
+street: Aviation Road NE
+housenumber: "1530"
 phone: ""
 opening_hours: ""
 website: ""

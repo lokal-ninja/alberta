@@ -1,11 +1,11 @@
 id: 1125652094
-type: way
+type: node
 latitude: 53.41011
 longitude: -113.44585
-postcode: "T6X 1A1"
+postcode: T6X 1A1
 city: Edmonton
-street: "25 Avenue SW"
-housenumber: 6765
-phone: "+1-587-454-1221"
+street: 25 Avenue SW
+housenumber: "6765"
+phone: +1-587-454-1221
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 726850630
-type: way
+type: node
 latitude: 50.70461
 longitude: -113.94898
-postcode: "T1S 0G1"
+postcode: T1S 0G1
 city: Okotoks
-street: "Southbank Boulevard"
-housenumber: 105
+street: Southbank Boulevard
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

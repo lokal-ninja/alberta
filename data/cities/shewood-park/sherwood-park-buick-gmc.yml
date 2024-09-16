@@ -1,11 +1,11 @@
 id: 674153691
-type: way
+type: node
 latitude: 53.54571
 longitude: -113.32561
 postcode: ""
 city: Shewood Park
-street: "Automall Road"
-housenumber: 10
-phone: "+1 780-464-5123"
+street: Automall Road
+housenumber: "10"
+phone: +1 780-464-5123
 opening_hours: ""
-website: "https://www.sherwoodbuickgmc.com/"
+website: https://www.sherwoodbuickgmc.com/

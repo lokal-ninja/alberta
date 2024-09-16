@@ -1,11 +1,11 @@
 id: 617254614
-type: way
+type: node
 latitude: 53.27728
 longitude: -110.03361
-postcode: "T9V 2V3"
+postcode: T9V 2V3
 city: Lloydminster
-street: "43 Street"
-housenumber: 5912
-phone: "+1-780-875-7557"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.speedyglass.ca/"
+street: 43 Street
+housenumber: "5912"
+phone: +1-780-875-7557
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.speedyglass.ca/

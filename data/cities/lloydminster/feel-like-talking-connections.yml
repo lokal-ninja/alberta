@@ -2,10 +2,10 @@ id: 6355780948
 type: node
 latitude: 53.2768
 longitude: -110.06264
-postcode: "T9V 0X9"
+postcode: T9V 0X9
 city: Lloydminster
-street: "80 Avenue"
-housenumber: 4215
-phone: "+1-780-874-1114"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.bell.ca/"
+street: 80 Avenue
+housenumber: "4215"
+phone: +1-780-874-1114
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.bell.ca/

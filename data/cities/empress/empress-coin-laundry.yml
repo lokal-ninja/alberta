@@ -1,11 +1,11 @@
 id: 48151606
-type: way
+type: node
 latitude: 50.9546
 longitude: -110.00852
-postcode: "T0J 1E0"
+postcode: T0J 1E0
 city: Empress
-street: "Third Avenue"
-housenumber: 3
+street: Third Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

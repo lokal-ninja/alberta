@@ -1,11 +1,11 @@
 id: 161328165
-type: way
+type: node
 latitude: 53.55968
 longitude: -113.59158
-postcode: "T5M 2R7"
+postcode: T5M 2R7
 city: Edmonton
-street: "111 Avenue NW"
-housenumber: 15606
+street: 111 Avenue NW
+housenumber: "15606"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/37809"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/37809

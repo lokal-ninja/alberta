@@ -1,11 +1,11 @@
 id: 469237316
-type: way
+type: node
 latitude: 53.19955
 longitude: -114.97598
-postcode: "T7A 1S4"
+postcode: T7A 1S4
 city: Drayton Valley
-street: "50 Street"
-housenumber: 2451
-phone: "+1-780-542-5391"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://www.stetsongm.com/"
+street: 50 Street
+housenumber: "2451"
+phone: +1-780-542-5391
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://www.stetsongm.com/

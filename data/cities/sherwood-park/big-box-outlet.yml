@@ -1,11 +1,11 @@
 id: 1304550195
-type: way
+type: node
 latitude: 53.53278
 longitude: -113.29325
-postcode: "T8A 3H9"
+postcode: T8A 3H9
 city: Sherwood Park
-street: "Sherwood Drive"
-housenumber: 2020
-phone: "+1-587-200-0964"
+street: Sherwood Drive
+housenumber: "2020"
+phone: +1-587-200-0964
 opening_hours: ""
-website: "https://bigboxoutletstore.ca/locations/sherwood-park.html"
+website: https://bigboxoutletstore.ca/locations/sherwood-park.html

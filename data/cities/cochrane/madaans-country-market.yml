@@ -1,11 +1,11 @@
 id: 490445544
-type: way
+type: node
 latitude: 51.21268
 longitude: -114.47069
 postcode: ""
 city: Cochrane
-street: "Sunset Drive"
-housenumber: 101
+street: Sunset Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

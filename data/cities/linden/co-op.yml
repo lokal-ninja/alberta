@@ -1,11 +1,11 @@
 id: 543569403
-type: way
+type: node
 latitude: 51.59019
 longitude: -113.49079
-postcode: "T0M 1J0"
+postcode: T0M 1J0
 city: Linden
-street: "Central Avenue West"
-housenumber: 701
-phone: "+1-403-546-3992"
+street: Central Avenue West
+housenumber: "701"
+phone: +1-403-546-3992
 opening_hours: ""
 website: ""

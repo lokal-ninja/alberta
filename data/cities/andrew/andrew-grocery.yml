@@ -1,11 +1,11 @@
 id: 1235642891
-type: way
+type: node
 latitude: 53.87936
 longitude: -112.33416
-postcode: "T0B 0C0"
+postcode: T0B 0C0
 city: Andrew
-street: "51 Street"
-housenumber: 5025
-phone: "+1-780-606-0086"
+street: 51 Street
+housenumber: "5025"
+phone: +1-780-606-0086
 opening_hours: ""
 website: ""

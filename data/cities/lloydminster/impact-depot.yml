@@ -1,11 +1,11 @@
 id: 631156483
-type: way
+type: node
 latitude: 53.28472
 longitude: -110.01158
 postcode: ""
 city: Lloydminster
-street: "51 Street"
-housenumber: 5202
+street: 51 Street
+housenumber: "5202"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.intervalhome.org/for-the-interval-store/"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.intervalhome.org/for-the-interval-store/

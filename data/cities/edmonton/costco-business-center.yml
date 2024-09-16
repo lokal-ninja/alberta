@@ -1,11 +1,11 @@
 id: 903421158
-type: way
+type: node
 latitude: 53.54634
 longitude: -113.64943
-postcode: "T5S 2X6"
+postcode: T5S 2X6
 city: Edmonton
-street: "186 Street NW"
-housenumber: 10310
+street: 186 Street NW
+housenumber: "10310"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/w-edmonton-bus-ctr-edmonton-ab-656.html"
+website: https://www.costco.ca/warehouse-locations/w-edmonton-bus-ctr-edmonton-ab-656.html

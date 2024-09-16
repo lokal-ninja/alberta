@@ -1,11 +1,11 @@
 id: 601447733
-type: way
+type: node
 latitude: 53.27421
 longitude: -110.00746
-postcode: "T9V 2Z5"
+postcode: T9V 2Z5
 city: Lloydminster
-street: "40 Street"
-housenumber: 5009
+street: 40 Street
+housenumber: "5009"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

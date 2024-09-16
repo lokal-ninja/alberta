@@ -1,11 +1,11 @@
 id: 1138517034
-type: way
+type: node
 latitude: 53.53826
 longitude: -113.9803
-postcode: "T7Z 1L1"
+postcode: T7Z 1L1
 city: Stony Plain
-street: "44 Avenue"
-housenumber: 3502
-phone: "+1 780 960 2520"
-opening_hours: "24/7"
-website: "https://www.dignityfuneral.com"
+street: 44 Avenue
+housenumber: "3502"
+phone: +1 780 960 2520
+opening_hours: 24/7
+website: https://www.dignityfuneral.com

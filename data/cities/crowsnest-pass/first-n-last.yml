@@ -1,11 +1,11 @@
 id: 542465812
-type: way
+type: node
 latitude: 49.63664
 longitude: -114.5008
-postcode: "T0K 0M0"
+postcode: T0K 0M0
 city: Crowsnest Pass
-street: "20 Avenue"
-housenumber: 7825
-phone: "+1-403-563-3148"
+street: 20 Avenue
+housenumber: "7825"
+phone: +1-403-563-3148
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-coleman-ab-esso-200302972"
+website: https://www.esso.ca/en-ca/find-station/esso-coleman-ab-esso-200302972

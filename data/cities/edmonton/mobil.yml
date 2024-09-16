@@ -1,11 +1,11 @@
 id: 237529387
-type: way
+type: node
 latitude: 53.47898
 longitude: -113.36989
-postcode: "T6T 0C1"
+postcode: T6T 0C1
 city: Edmonton
-street: "17 Street NW"
-housenumber: 4016
-phone: "+1-780-450-9808"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-23:00"
-website: "https://www.esso.ca/en/gas-station/edmonton-ab-mobil1769-200324328"
+street: 17 Street NW
+housenumber: "4016"
+phone: +1-780-450-9808
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-23:00
+website: https://www.esso.ca/en/gas-station/edmonton-ab-mobil1769-200324328

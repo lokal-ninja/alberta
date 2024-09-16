@@ -1,11 +1,11 @@
 id: 540032502
-type: way
+type: node
 latitude: 55.17537
 longitude: -118.84484
-postcode: "T8V 0N7"
+postcode: T8V 0N7
 city: Grande Prairie
-street: "104 Avenue"
-housenumber: 11540
+street: 104 Avenue
+housenumber: "11540"
 phone: ""
 opening_hours: ""
 website: ""

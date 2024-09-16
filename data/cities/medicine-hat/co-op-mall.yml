@@ -1,11 +1,11 @@
 id: 551599021
-type: way
+type: node
 latitude: 50.012
 longitude: -110.66611
-postcode: "T1B 1E3"
+postcode: T1B 1E3
 city: Medicine Hat
-street: "13 Avenue Southeast"
-housenumber: 3030
+street: 13 Avenue Southeast
+housenumber: "3030"
 phone: ""
 opening_hours: ""
 website: ""

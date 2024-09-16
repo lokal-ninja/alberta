@@ -1,11 +1,11 @@
 id: 744919091
-type: way
+type: node
 latitude: 50.72579
 longitude: -113.98312
-postcode: "T0L 1T3"
+postcode: T0L 1T3
 city: Okotoks
-street: "Elizabeth Street"
-housenumber: 125
+street: Elizabeth Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

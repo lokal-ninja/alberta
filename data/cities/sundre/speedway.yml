@@ -1,11 +1,11 @@
 id: 292057928
-type: way
+type: node
 latitude: 51.79695
 longitude: -114.6408
-postcode: "T0M 1X0"
+postcode: T0M 1X0
 city: Sundre
-street: "Main Street"
-housenumber: 207
+street: Main Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

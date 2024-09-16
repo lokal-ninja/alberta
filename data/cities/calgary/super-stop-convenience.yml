@@ -1,11 +1,11 @@
 id: 541185932
-type: way
+type: node
 latitude: 50.88028
 longitude: -113.97819
-postcode: "T3M 0S9"
+postcode: T3M 0S9
 city: Calgary
-street: "Cranston Road SE"
-housenumber: 356
-phone: "+1-403-257-0672"
-opening_hours: "24/7"
-website: "https://petro-canada.ca/"
+street: Cranston Road SE
+housenumber: "356"
+phone: +1-403-257-0672
+opening_hours: 24/7
+website: https://petro-canada.ca/

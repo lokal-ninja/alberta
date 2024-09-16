@@ -1,11 +1,11 @@
 id: 1119230347
-type: way
+type: node
 latitude: 51.03809
 longitude: -114.02593
-postcode: "T2G 0T7"
+postcode: T2G 0T7
 city: Calgary
-street: "9 Avenue SE"
-housenumber: 1556
-phone: "+1 888 431 2032"
+street: 9 Avenue SE
+housenumber: "1556"
+phone: +1 888 431 2032
 opening_hours: ""
-website: "https://www.atlanticautosalescalgary.com/"
+website: https://www.atlanticautosalescalgary.com/

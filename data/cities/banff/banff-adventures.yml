@@ -2,10 +2,10 @@ id: 10942484739
 type: node
 latitude: 51.17735
 longitude: -115.57292
-postcode: "T1L 1A6"
+postcode: T1L 1A6
 city: Banff
-street: "Bear Street"
-housenumber: 211
-phone: "+1-800-644-8888"
+street: Bear Street
+housenumber: "211"
+phone: +1-800-644-8888
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1243869443
-type: way
+type: node
 latitude: 53.51715
 longitude: -110.32713
 postcode: ""
 city: Marwayne
-street: "Centre Street"
-housenumber: 11
-phone: "+1-780-847-3913"
+street: Centre Street
+housenumber: "11"
+phone: +1-780-847-3913
 opening_hours: ""
 website: ""

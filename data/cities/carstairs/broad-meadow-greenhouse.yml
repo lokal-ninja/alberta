@@ -1,11 +1,11 @@
 id: 1278827295
-type: way
+type: node
 latitude: 51.51805
 longitude: -113.84803
 postcode: ""
 city: Carstairs
-street: "Range Road 282"
-housenumber: 29501
+street: Range Road 282
+housenumber: "29501"
 phone: "+14038722123"
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

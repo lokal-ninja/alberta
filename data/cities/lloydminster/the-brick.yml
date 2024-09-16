@@ -1,11 +1,11 @@
 id: 318009930
-type: way
+type: node
 latitude: 53.27701
 longitude: -110.01834
-postcode: "T9V 0B1"
+postcode: T9V 0B1
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5517
-phone: "+1-780-872-7062"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.thebrick.com/"
+street: Ray Nelson Drive
+housenumber: "5517"
+phone: +1-780-872-7062
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.thebrick.com/

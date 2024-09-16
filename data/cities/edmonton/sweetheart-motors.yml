@@ -1,11 +1,11 @@
 id: 322312576
-type: way
+type: node
 latitude: 53.49213
 longitude: -113.49363
 postcode: ""
 city: Edmonton
-street: "Gateway Boulevard NW"
-housenumber: 5404
+street: Gateway Boulevard NW
+housenumber: "5404"
 phone: ""
 opening_hours: ""
 website: ""

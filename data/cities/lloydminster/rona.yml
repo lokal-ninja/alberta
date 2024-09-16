@@ -1,11 +1,11 @@
 id: 261478281
-type: way
+type: node
 latitude: 53.27969
 longitude: -110.06103
-postcode: "T9V 3B1"
+postcode: T9V 3B1
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 7902
+street: Ray Nelson Drive
+housenumber: "7902"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-18:00"
-website: "https://www.rona.ca/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-18:00
+website: https://www.rona.ca/

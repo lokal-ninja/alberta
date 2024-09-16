@@ -1,11 +1,11 @@
 id: 233860424
-type: way
+type: node
 latitude: 52.35983
 longitude: -114.36222
-postcode: "T0M 0P0"
+postcode: T0M 0P0
 city: Eckville
-street: "48 Street"
-housenumber: 5008
+street: 48 Street
+housenumber: "5008"
 phone: ""
 opening_hours: ""
-website: "http://www.gtipetroleum.com/locations.php#eckville"
+website: http://www.gtipetroleum.com/locations.php#eckville

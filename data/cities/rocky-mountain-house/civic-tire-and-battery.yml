@@ -1,11 +1,11 @@
 id: 1061230037
-type: way
+type: node
 latitude: 52.37262
 longitude: -114.90797
-postcode: "T4T 1E1"
+postcode: T4T 1E1
 city: Rocky Mountain House
-street: "44 Street"
-housenumber: 4904
-phone: "+1 403 847 1072"
+street: 44 Street
+housenumber: "4904"
+phone: +1 403 847 1072
 opening_hours: ""
 website: ""

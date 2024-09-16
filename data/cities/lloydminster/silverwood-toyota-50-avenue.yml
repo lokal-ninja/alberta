@@ -1,11 +1,11 @@
 id: 620522946
-type: way
+type: node
 latitude: 53.25704
 longitude: -110.00669
-postcode: "T9V 3G2"
+postcode: T9V 3G2
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 2202
-phone: "+1-877-224-3551"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su closed"
-website: "https://www.silverwoodtoyota.com/"
+street: 50 Avenue
+housenumber: "2202"
+phone: +1-877-224-3551
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su closed
+website: https://www.silverwoodtoyota.com/

@@ -1,11 +1,11 @@
 id: 624567318
-type: way
+type: node
 latitude: 53.27905
 longitude: -110.02588
-postcode: "T9V 0B6"
+postcode: T9V 0B6
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5706
-phone: "+1-780-875-9522"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.citycenterautobody.ca/"
+street: Ray Nelson Drive
+housenumber: "5706"
+phone: +1-780-875-9522
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.citycenterautobody.ca/

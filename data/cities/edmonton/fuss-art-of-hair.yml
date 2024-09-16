@@ -1,11 +1,11 @@
 id: 322923500
-type: way
+type: node
 latitude: 53.51683
 longitude: -113.5017
 postcode: ""
 city: Edmonton
-street: "81 Avenue NW"
-housenumber: 10529
+street: 81 Avenue NW
+housenumber: "10529"
 phone: ""
 opening_hours: ""
-website: "https://www.fusshair.com/"
+website: https://www.fusshair.com/

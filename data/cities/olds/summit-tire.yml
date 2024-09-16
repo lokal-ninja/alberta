@@ -1,11 +1,11 @@
 id: 535795446
-type: way
+type: node
 latitude: 51.79734
 longitude: -114.12953
 postcode: ""
 city: Olds
-street: "Imperial Close"
-housenumber: 1
+street: Imperial Close
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

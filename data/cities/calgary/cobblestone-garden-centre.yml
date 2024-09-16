@@ -1,11 +1,11 @@
 id: 682079333
-type: way
+type: node
 latitude: 51.03853
 longitude: -113.88414
-postcode: "T1X 0L4"
+postcode: T1X 0L4
 city: Calgary
-street: "17 Ave SE  T1X 0L4"
-housenumber: 10300
+street: 17 Ave SE  T1X 0L4
+housenumber: "10300"
 phone: ""
 opening_hours: ""
 website: ""

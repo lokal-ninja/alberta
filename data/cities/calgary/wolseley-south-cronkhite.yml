@@ -1,11 +1,11 @@
 id: 911280807
-type: way
+type: node
 latitude: 51.00521
 longitude: -114.05666
 postcode: ""
 city: Calgary
-street: "3 Street SE"
-housenumber: 5516
+street: 3 Street SE
+housenumber: "5516"
 phone: ""
 opening_hours: ""
 website: ""

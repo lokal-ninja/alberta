@@ -1,11 +1,11 @@
 id: 54638200
-type: way
+type: node
 latitude: 51.10595
 longitude: -114.18765
-postcode: "T3B 4N7"
+postcode: T3B 4N7
 city: Calgary
-street: "Silver Springs Boulevard NW"
-housenumber: 5858
+street: Silver Springs Boulevard NW
+housenumber: "5858"
 phone: "+14032476316"
 opening_hours: ""
-website: "https://silverspringsauto.mechanicnet.com/"
+website: https://silverspringsauto.mechanicnet.com/

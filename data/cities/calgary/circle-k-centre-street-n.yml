@@ -1,11 +1,11 @@
 id: 949881803
-type: way
+type: node
 latitude: 51.12855
 longitude: -114.07097
-postcode: "T3K 1K5"
+postcode: T3K 1K5
 city: Calgary
-street: "Centre Street N"
-housenumber: 8286
+street: Centre Street N
+housenumber: "8286"
 phone: ""
-opening_hours: "Mo-Su 00:00-00:00"
+opening_hours: Mo-Su 00:00-00:00
 website: ""

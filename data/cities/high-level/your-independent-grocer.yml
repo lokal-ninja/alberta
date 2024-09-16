@@ -1,11 +1,11 @@
 id: 55760686
-type: way
+type: node
 latitude: 58.51052
 longitude: -117.14087
-postcode: "T0H 1Z0"
+postcode: T0H 1Z0
 city: High Level
-street: "98 Street"
-housenumber: 10901
+street: 98 Street
+housenumber: "10901"
 phone: ""
-opening_hours: "Mo-Sa 07:00-14:00, 15:00-21:00; Su 07:00-10:00, 11:00-14:00"
+opening_hours: Mo-Sa 07:00-14:00, 15:00-21:00; Su 07:00-10:00, 11:00-14:00
 website: ""

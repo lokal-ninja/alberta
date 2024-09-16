@@ -1,11 +1,11 @@
 id: 1167364225
-type: way
+type: node
 latitude: 51.12733
 longitude: -114.13934
-postcode: "T3A 3S8"
+postcode: T3A 3S8
 city: Calgary
-street: "Edenwold Drive NW"
-housenumber: 35
+street: Edenwold Drive NW
+housenumber: "35"
 phone: "+14032671667"
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/37780"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/37780

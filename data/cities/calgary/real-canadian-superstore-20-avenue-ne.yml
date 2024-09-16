@@ -1,11 +1,11 @@
 id: 19348420
-type: way
+type: node
 latitude: 51.06972
 longitude: -113.98464
-postcode: "T1Y 6R3"
+postcode: T1Y 6R3
 city: Calgary
-street: "20 Avenue NE"
-housenumber: 3575
-phone: "+1 304-280-8222"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1576"
+street: 20 Avenue NE
+housenumber: "3575"
+phone: +1 304-280-8222
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1576

@@ -1,11 +1,11 @@
 id: 541036083
-type: way
+type: node
 latitude: 53.37106
 longitude: -111.52874
-postcode: "T0B 2G0"
+postcode: T0B 2G0
 city: Innisfree
-street: "AB-16"
-housenumber: 
-phone: "+1-780-592-3777"
-opening_hours: "24/7"
+street: AB-16
+housenumber: ""
+phone: +1-780-592-3777
+opening_hours: 24/7
 website: ""

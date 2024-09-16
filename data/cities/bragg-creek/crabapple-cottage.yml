@@ -1,11 +1,11 @@
 id: 1125323333
-type: way
+type: node
 latitude: 50.95243
 longitude: -114.5645
 postcode: ""
 city: Bragg Creek
-street: "Balsam Avenue"
-housenumber: 27
-phone: "+1-403-929-4264"
-opening_hours: "Su-Mo 12:00-17:00; Tu-Sa 11:00-18:00"
-website: "https://www.crabapplecottage.ca/"
+street: Balsam Avenue
+housenumber: "27"
+phone: +1-403-929-4264
+opening_hours: Su-Mo 12:00-17:00; Tu-Sa 11:00-18:00
+website: https://www.crabapplecottage.ca/

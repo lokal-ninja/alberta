@@ -1,11 +1,11 @@
 id: 326411355
-type: way
+type: node
 latitude: 53.57027
 longitude: -113.44548
 postcode: ""
 city: Edmonton
-street: "118 Avenue NW"
-housenumber: 6715
+street: 118 Avenue NW
+housenumber: "6715"
 phone: ""
 opening_hours: ""
 website: ""

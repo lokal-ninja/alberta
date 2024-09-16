@@ -1,11 +1,11 @@
 id: 560926092
-type: way
+type: node
 latitude: 56.14622
 longitude: -117.7365
-postcode: "T0H 0E0"
+postcode: T0H 0E0
 city: Berwyn
-street: "51 Street"
-housenumber: 5026
+street: 51 Street
+housenumber: "5026"
 phone: ""
 opening_hours: ""
 website: ""

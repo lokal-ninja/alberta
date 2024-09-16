@@ -1,11 +1,11 @@
 id: 749271593
-type: way
+type: node
 latitude: 53.52896
 longitude: -114.00693
-postcode: "T7Z 1T2"
+postcode: T7Z 1T2
 city: Stony Plain
-street: "50 Street"
-housenumber: 5015
-phone: "+1 780 968 0040"
-opening_hours: "Mo-We, Fr 09:00-18:00; Th 09:00-19:00; Sa-Su 10:00-17:00"
-website: "https://bluediamondjewellers.com/"
+street: 50 Street
+housenumber: "5015"
+phone: +1 780 968 0040
+opening_hours: Mo-We, Fr 09:00-18:00; Th 09:00-19:00; Sa-Su 10:00-17:00
+website: https://bluediamondjewellers.com/

@@ -1,11 +1,11 @@
 id: 1272450352
-type: way
+type: node
 latitude: 51.42687
 longitude: -114.02871
 postcode: ""
 city: Crossfield
-street: "Railway Street"
-housenumber: 1106
+street: Railway Street
+housenumber: "1106"
 phone: ""
 opening_hours: ""
 website: ""

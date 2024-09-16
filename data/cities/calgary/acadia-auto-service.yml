@@ -1,11 +1,11 @@
 id: 540804435
-type: way
+type: node
 latitude: 51.00439
 longitude: -114.06692
-postcode: "T2H 0E7"
+postcode: T2H 0E7
 city: Calgary
-street: "1A Street SW"
-housenumber: 5544
+street: 1A Street SW
+housenumber: "5544"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30"
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

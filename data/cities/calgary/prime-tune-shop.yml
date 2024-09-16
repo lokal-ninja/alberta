@@ -1,11 +1,11 @@
 id: 539334442
-type: way
+type: node
 latitude: 51.05818
 longitude: -114.13558
-postcode: "T2N 3T8"
+postcode: T2N 3T8
 city: Calgary
-street: "Parkdale Crescent NW"
-housenumber: 7
+street: Parkdale Crescent NW
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

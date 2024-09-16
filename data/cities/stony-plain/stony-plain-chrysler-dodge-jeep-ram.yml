@@ -1,11 +1,11 @@
 id: 618376999
-type: way
+type: node
 latitude: 53.53971
 longitude: -114.0141
-postcode: "T7Z 0A2"
+postcode: T7Z 0A2
 city: Stony Plain
-street: "51 Street"
-housenumber: 4004
-phone: "+1-587-760-1506"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-17:00"
-website: "https://www.stonyplainchrysler.ca/"
+street: 51 Street
+housenumber: "4004"
+phone: +1-587-760-1506
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-17:00
+website: https://www.stonyplainchrysler.ca/

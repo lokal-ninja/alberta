@@ -1,11 +1,11 @@
 id: 781622247
-type: way
+type: node
 latitude: 51.08027
 longitude: -114.19668
-postcode: "T3B 2S6"
+postcode: T3B 2S6
 city: Calgary
-street: "Na'a Plaza SW"
-housenumber: 420
+street: Na'a Plaza SW
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

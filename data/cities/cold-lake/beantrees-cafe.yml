@@ -1,11 +1,11 @@
 id: 1024753174
-type: way
+type: node
 latitude: 54.41386
 longitude: -110.20876
-postcode: "T9M 1Y2"
+postcode: T9M 1Y2
 city: Cold Lake
-street: "50 Avenue"
-housenumber: 5112
+street: 50 Avenue
+housenumber: "5112"
 phone: ""
 opening_hours: ""
-website: "https://beantrees.ca/"
+website: https://beantrees.ca/

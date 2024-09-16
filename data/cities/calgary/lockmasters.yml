@@ -1,11 +1,11 @@
 id: 572767353
-type: way
+type: node
 latitude: 50.88744
 longitude: -114.04642
-postcode: "T2X 3P1"
+postcode: T2X 3P1
 city: Calgary
-street: "Chapalina Way SE"
-housenumber: 22
+street: Chapalina Way SE
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00, Su closed"
+opening_hours: Mo-Sa 08:00-17:00, Su closed
 website: ""

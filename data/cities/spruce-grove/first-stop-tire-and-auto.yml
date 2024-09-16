@@ -1,11 +1,11 @@
 id: 935245750
-type: way
+type: node
 latitude: 53.54166
 longitude: -113.90181
-postcode: "T7X 3A2"
+postcode: T7X 3A2
 city: Spruce Grove
-street: "1st Avenue"
-housenumber: 309
-phone: "+1 780 962 1155"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.firststoptireandauto.ca/"
+street: 1st Avenue
+housenumber: "309"
+phone: +1 780 962 1155
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.firststoptireandauto.ca/

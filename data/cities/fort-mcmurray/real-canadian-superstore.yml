@@ -1,11 +1,11 @@
 id: 271385556
-type: way
+type: node
 latitude: 56.72394
 longitude: -111.37631
 postcode: ""
 city: Fort McMurray
-street: "Haineault Street"
-housenumber: 9
-phone: "+1-780-790-3827"
+street: Haineault Street
+housenumber: "9"
+phone: +1-780-790-3827
 opening_hours: ""
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1548"
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1548

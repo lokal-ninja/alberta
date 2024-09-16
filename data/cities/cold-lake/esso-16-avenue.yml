@@ -1,11 +1,11 @@
 id: 539472726
-type: way
+type: node
 latitude: 54.45626
 longitude: -110.20163
-postcode: "T9M 0L6"
+postcode: T9M 0L6
 city: Cold Lake
-street: "16 Avenue"
-housenumber: 2550
+street: 16 Avenue
+housenumber: "2550"
 phone: ""
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-coldlake-ab-esso-200322659"
+website: https://www.esso.ca/en-ca/find-station/esso-coldlake-ab-esso-200322659

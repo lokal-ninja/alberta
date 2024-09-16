@@ -1,11 +1,11 @@
 id: 284270527
-type: way
+type: node
 latitude: 51.1289
 longitude: -114.20499
 postcode: ""
 city: Calgary
-street: "Crowfoot Crescent NW"
-housenumber: 650
+street: Crowfoot Crescent NW
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

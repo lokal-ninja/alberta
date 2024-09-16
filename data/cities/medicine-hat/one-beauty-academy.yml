@@ -1,11 +1,11 @@
 id: 545390369
-type: way
+type: node
 latitude: 50.04097
 longitude: -110.67551
-postcode: "T1A 0C9"
+postcode: T1A 0C9
 city: Medicine Hat
-street: "2 Street Southeast"
-housenumber: 634
+street: 2 Street Southeast
+housenumber: "634"
 phone: ""
 opening_hours: ""
 website: ""

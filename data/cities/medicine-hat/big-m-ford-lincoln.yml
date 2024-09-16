@@ -1,11 +1,11 @@
 id: 551368786
-type: way
+type: node
 latitude: 50.00666
 longitude: -110.66337
-postcode: "T1B 3Z9"
+postcode: T1B 3Z9
 city: Medicine Hat
-street: "Trans Canada Way Southeast"
-housenumber: 1312
+street: Trans Canada Way Southeast
+housenumber: "1312"
 phone: ""
 opening_hours: ""
 website: ""

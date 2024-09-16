@@ -1,11 +1,11 @@
 id: 1061232061
-type: way
+type: node
 latitude: 52.37777
 longitude: -114.90912
-postcode: "T4T 1B2"
+postcode: T4T 1B2
 city: Rocky Mountain House
-street: "44 Street"
-housenumber: 5202
-phone: "+1 403 845 3155"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://www.modernelectricrocky.com"
+street: 44 Street
+housenumber: "5202"
+phone: +1 403 845 3155
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://www.modernelectricrocky.com

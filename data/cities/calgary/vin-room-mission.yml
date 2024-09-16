@@ -1,11 +1,11 @@
 id: 571110688
-type: way
+type: node
 latitude: 51.0319
 longitude: -114.07134
-postcode: "T2S 1X2"
+postcode: T2S 1X2
 city: Calgary
-street: "4 Street SW"
-housenumber: 2310
+street: 4 Street SW
+housenumber: "2310"
 phone: ""
-opening_hours: "Su-We 15:00-22:00; Th-Sa 12:00-23:00"
-website: "https://www.vinroom.com/"
+opening_hours: Su-We 15:00-22:00; Th-Sa 12:00-23:00
+website: https://www.vinroom.com/

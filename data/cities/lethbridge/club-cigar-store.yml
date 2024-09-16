@@ -1,11 +1,11 @@
 id: 397123628
-type: way
+type: node
 latitude: 49.69551
 longitude: -112.83989
 postcode: ""
 city: Lethbridge
-street: "5 Street S"
-housenumber: 301
+street: 5 Street S
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

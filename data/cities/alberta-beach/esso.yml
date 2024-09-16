@@ -1,11 +1,11 @@
 id: 543382217
-type: way
+type: node
 latitude: 53.67715
 longitude: -114.35133
-postcode: "T0E 0A0"
+postcode: T0E 0A0
 city: Alberta Beach
-street: "47 Street"
-housenumber: 4716
-phone: "+1-780-924-3191"
+street: 47 Street
+housenumber: "4716"
+phone: +1-780-924-3191
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-albertabeach-ab-esso-200303084"
+website: https://www.esso.ca/en-ca/find-station/esso-albertabeach-ab-esso-200303084

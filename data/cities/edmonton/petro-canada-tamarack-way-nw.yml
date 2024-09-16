@@ -1,11 +1,11 @@
 id: 476443021
-type: way
+type: node
 latitude: 53.47972
 longitude: -113.36825
-postcode: "T6T 0N3"
+postcode: T6T 0N3
 city: Edmonton
-street: "Tamarack Way NW"
-housenumber: 895
+street: Tamarack Way NW
+housenumber: "895"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

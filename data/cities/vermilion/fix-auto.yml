@@ -1,11 +1,11 @@
 id: 1234115565
-type: way
+type: node
 latitude: 53.3467
 longitude: -110.83945
 postcode: ""
 city: Vermilion
-street: "45 Street"
-housenumber: 4512
-phone: "+1-780-853-6426"
+street: 45 Street
+housenumber: "4512"
+phone: +1-780-853-6426
 opening_hours: ""
 website: ""

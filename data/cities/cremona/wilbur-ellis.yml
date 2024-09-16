@@ -1,11 +1,11 @@
 id: 1247794898
-type: way
+type: node
 latitude: 51.53232
 longitude: -114.38489
 postcode: ""
 city: Cremona
-street: "Highway 580"
-housenumber: 3427
+street: Highway 580
+housenumber: "3427"
 phone: ""
 opening_hours: ""
 website: ""

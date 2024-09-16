@@ -1,11 +1,11 @@
 id: 678291056
-type: way
+type: node
 latitude: 51.15938
 longitude: -114.47134
-postcode: "T4C 0V9"
+postcode: T4C 0V9
 city: Cochrane
-street: "Fireside Gate"
-housenumber: 10
-phone: "+1-403-851-9259"
-opening_hours: "24/7"
-website: "https://find.shell.com/ca/fuel/12172311-10-fireside-gate"
+street: Fireside Gate
+housenumber: "10"
+phone: +1-403-851-9259
+opening_hours: 24/7
+website: https://find.shell.com/ca/fuel/12172311-10-fireside-gate

@@ -1,11 +1,11 @@
 id: 1233439602
-type: way
+type: node
 latitude: 53.35321
 longitude: -110.85136
 postcode: ""
 city: Vermilion
-street: "49 Avenue"
-housenumber: 4934
-phone: "+1-780-853-5153"
+street: 49 Avenue
+housenumber: "4934"
+phone: +1-780-853-5153
 opening_hours: ""
 website: ""

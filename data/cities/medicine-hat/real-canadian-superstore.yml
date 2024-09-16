@@ -1,11 +1,11 @@
 id: 331009414
-type: way
+type: node
 latitude: 50.00436
 longitude: -110.65334
-postcode: "T1B 4C6"
+postcode: T1B 4C6
 city: Medicine Hat
-street: "Trans Canada Way Southeast"
-housenumber: 1792
-phone: "+1 403-528-5727"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1550"
+street: Trans Canada Way Southeast
+housenumber: "1792"
+phone: +1 403-528-5727
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1550

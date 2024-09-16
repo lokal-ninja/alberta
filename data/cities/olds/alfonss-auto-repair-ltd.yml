@@ -1,11 +1,11 @@
 id: 534676549
-type: way
+type: node
 latitude: 51.79286
 longitude: -114.10584
-postcode: "T4H 1H3"
+postcode: T4H 1H3
 city: Olds
-street: "49 Street"
-housenumber: 5013
+street: 49 Street
+housenumber: "5013"
 phone: ""
 opening_hours: ""
 website: ""

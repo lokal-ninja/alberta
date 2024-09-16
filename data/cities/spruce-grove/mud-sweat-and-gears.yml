@@ -1,11 +1,11 @@
 id: 442806178
-type: way
+type: node
 latitude: 53.54087
 longitude: -113.90832
 postcode: ""
 city: Spruce Grove
-street: "1st Avenue East"
-housenumber: 100
+street: 1st Avenue East
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

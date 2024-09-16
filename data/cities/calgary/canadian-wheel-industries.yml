@@ -1,11 +1,11 @@
 id: 541634451
-type: way
+type: node
 latitude: 51.00052
 longitude: -113.97137
 postcode: ""
 city: Calgary
-street: "58 Avenue SE"
-housenumber: 4451
+street: 58 Avenue SE
+housenumber: "4451"
 phone: ""
 opening_hours: ""
 website: ""

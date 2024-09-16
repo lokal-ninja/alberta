@@ -1,11 +1,11 @@
 id: 1060090830
-type: way
+type: node
 latitude: 53.56551
 longitude: -113.27433
 postcode: ""
 city: Sherwood Park
-street: "Emerald Drive"
-housenumber: 8005
-phone: "+1 780-416-4869"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.italiancentre.ca"
+street: Emerald Drive
+housenumber: "8005"
+phone: +1 780-416-4869
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.italiancentre.ca

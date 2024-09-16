@@ -1,11 +1,11 @@
 id: 326442327
-type: way
+type: node
 latitude: 53.58594
 longitude: -113.44155
 postcode: ""
 city: Edmonton
-street: "Fort Road NW"
-housenumber: 12754
+street: Fort Road NW
+housenumber: "12754"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1236738302
-type: way
+type: node
 latitude: 53.55686
 longitude: -114.73721
 postcode: ""
 city: Seba Beach
-street: "4 Street South"
-housenumber: 124
+street: 4 Street South
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

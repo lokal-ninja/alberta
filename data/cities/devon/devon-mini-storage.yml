@@ -1,11 +1,11 @@
 id: 700518064
-type: way
+type: node
 latitude: 53.34343
 longitude: -113.73172
-postcode: "T9G 1Z5"
+postcode: T9G 1Z5
 city: Devon
-street: "Exploration Drive"
-housenumber: 3
+street: Exploration Drive
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

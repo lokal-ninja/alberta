@@ -1,11 +1,11 @@
 id: 292936027
-type: way
+type: node
 latitude: 51.04577
 longitude: -114.07511
-postcode: "T2P 0W9"
+postcode: T2P 0W9
 city: Calgary
-street: "8 Avenue SW"
-housenumber: 621
-phone: "+1-403-297-1111"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.rileys.com/"
+street: 8 Avenue SW
+housenumber: "621"
+phone: +1-403-297-1111
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.rileys.com/

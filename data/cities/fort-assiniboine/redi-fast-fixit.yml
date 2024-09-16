@@ -1,11 +1,11 @@
 id: 540471375
-type: way
+type: node
 latitude: 54.33415
 longitude: -114.7745
-postcode: "T0G 1A0"
+postcode: T0G 1A0
 city: Fort Assiniboine
-street: "State Avenue"
-housenumber: 33
-phone: "+1-780-584-3767"
+street: State Avenue
+housenumber: "33"
+phone: +1-780-584-3767
 opening_hours: ""
 website: ""

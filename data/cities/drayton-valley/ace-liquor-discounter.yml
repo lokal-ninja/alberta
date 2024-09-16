@@ -1,11 +1,11 @@
 id: 675290081
-type: way
+type: node
 latitude: 53.19484
 longitude: -114.97772
-postcode: "T7A 0C5"
+postcode: T7A 0C5
 city: Drayton Valley
-street: "50 Street"
-housenumber: 2128
-phone: "+1-780-514-3719"
-opening_hours: "Mo-Fr 10:00-22:00; Sa-Su 10:00-22:15"
-website: "https://aceliquor.ca/"
+street: 50 Street
+housenumber: "2128"
+phone: +1-780-514-3719
+opening_hours: Mo-Fr 10:00-22:00; Sa-Su 10:00-22:15
+website: https://aceliquor.ca/

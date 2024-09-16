@@ -1,11 +1,11 @@
 id: 298734512
-type: way
+type: node
 latitude: 53.39451
 longitude: -117.60274
-postcode: "T7V 1N1"
+postcode: T7V 1N1
 city: Hinton
-street: "Gregg Avenue"
-housenumber: 511
-phone: "+1 780 865 2881"
+street: Gregg Avenue
+housenumber: "511"
+phone: +1 780 865 2881
 opening_hours: ""
 website: ""

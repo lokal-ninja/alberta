@@ -1,11 +1,11 @@
 id: 541219727
-type: way
+type: node
 latitude: 50.88036
 longitude: -113.97632
 postcode: ""
 city: Calgary
-street: "Cranston Road SE"
-housenumber: 356
+street: Cranston Road SE
+housenumber: "356"
 phone: ""
 opening_hours: ""
 website: ""

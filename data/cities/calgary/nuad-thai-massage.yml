@@ -1,11 +1,11 @@
 id: 506270392
-type: way
+type: node
 latitude: 51.03919
 longitude: -114.06577
-postcode: "T2R 0V8"
+postcode: T2R 0V8
 city: Calgary
-street: "1 Street SW"
-housenumber: 1412
-phone: "+1 403 453 1808"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://nuadthaimassage.ca/"
+street: 1 Street SW
+housenumber: "1412"
+phone: +1 403 453 1808
+opening_hours: Mo-Su 09:00-19:00
+website: https://nuadthaimassage.ca/

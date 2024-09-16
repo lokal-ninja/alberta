@@ -1,11 +1,11 @@
 id: 177854524
-type: way
+type: node
 latitude: 50.98688
 longitude: -114.04305
-postcode: "T2H 0B5"
+postcode: T2H 0B5
 city: Calgary
-street: "Heritage Meadows Way SE"
-housenumber: 20
-phone: "+1 403-692-6220"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1539"
+street: Heritage Meadows Way SE
+housenumber: "20"
+phone: +1 403-692-6220
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1539

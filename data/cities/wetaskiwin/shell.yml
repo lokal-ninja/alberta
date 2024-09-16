@@ -1,11 +1,11 @@
 id: 544537932
-type: way
+type: node
 latitude: 52.96483
 longitude: -113.38975
-postcode: "T9A 1V4"
+postcode: T9A 1V4
 city: Wetaskiwin
-street: "56 Street"
-housenumber: 4411
-phone: "+1-780-352-8700"
+street: 56 Street
+housenumber: "4411"
+phone: +1-780-352-8700
 opening_hours: ""
 website: ""

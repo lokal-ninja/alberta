@@ -2,10 +2,11 @@ id: 7108868733
 type: node
 latitude: 53.43153
 longitude: -113.47149
-postcode: "T6X 0A9"
+postcode: T6X 0A9
 city: Edmonton
-street: "Ellwood Drive SW"
-housenumber: 2304
-phone: "+1-780-469-7867"
-opening_hours: "Mo-Fr 09:00-18:00, Sa-Su 09:00-17:00 Office hours; Mo-Su 07:00-21:00 Storage access hours"
-website: "https://www.ustoreit.ca"
+street: Ellwood Drive SW
+housenumber: "2304"
+phone: +1-780-469-7867
+opening_hours: Mo-Fr 09:00-18:00, Sa-Su 09:00-17:00 "Office hours"; Mo-Su 07:00-21:00
+    "Storage access hours"
+website: https://www.ustoreit.ca

@@ -2,10 +2,11 @@ id: 2950189542
 type: node
 latitude: 51.12887
 longitude: -114.20175
-postcode: "T3G 4J8"
+postcode: T3G 4J8
 city: Calgary
-street: "Crowfoot Terrace NW"
-housenumber: 90
-phone: "+1-403-247-9685"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00; PH Mo 10:00-17:00; PH Tu-Su 10:00-18:00"
-website: "https://www.mooresclothing.com/"
+street: Crowfoot Terrace NW
+housenumber: "90"
+phone: +1-403-247-9685
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su 11:00-17:00; PH Mo 10:00-17:00;
+    PH Tu-Su 10:00-18:00
+website: https://www.mooresclothing.com/

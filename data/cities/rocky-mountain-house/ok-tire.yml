@@ -1,11 +1,11 @@
 id: 1061230531
-type: way
+type: node
 latitude: 52.36944
 longitude: -114.90557
-postcode: "T4T 1A8"
+postcode: T4T 1A8
 city: Rocky Mountain House
-street: "44 Street"
-housenumber: 4535
-phone: "+1 403 844 8473"
+street: 44 Street
+housenumber: "4535"
+phone: +1 403 844 8473
 opening_hours: ""
 website: ""

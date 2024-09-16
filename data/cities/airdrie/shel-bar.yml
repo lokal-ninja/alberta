@@ -1,11 +1,11 @@
 id: 827259234
-type: way
+type: node
 latitude: 51.26141
 longitude: -113.99764
-postcode: "T4A 0C9"
+postcode: T4A 0C9
 city: Airdrie
-street: "Kingsview Way SE"
-housenumber: 541
-phone: "+1-403-275-7762"
+street: Kingsview Way SE
+housenumber: "541"
+phone: +1-403-275-7762
 opening_hours: ""
-website: "https://www.shel-bar.com/"
+website: https://www.shel-bar.com/

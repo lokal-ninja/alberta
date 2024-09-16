@@ -1,11 +1,11 @@
 id: 627296933
-type: way
+type: node
 latitude: 53.28215
 longitude: -110.00332
-postcode: "S9V 0T5"
+postcode: S9V 0T5
 city: Lloydminster
-street: "49 Avenue"
-housenumber: 4809
-phone: "+1-306-825-4353"
-opening_hours: "by appointment"
+street: 49 Avenue
+housenumber: "4809"
+phone: +1-306-825-4353
+opening_hours: '"by appointment"'
 website: ""

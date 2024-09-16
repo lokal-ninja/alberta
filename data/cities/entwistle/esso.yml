@@ -1,11 +1,11 @@
 id: 541764238
-type: way
+type: node
 latitude: 53.58892
 longitude: -114.9902
-postcode: "T0E 0S0"
+postcode: T0E 0S0
 city: Entwistle
-street: "47 Avenue"
-housenumber: 4831
-phone: "+1-780-727-2974"
+street: 47 Avenue
+housenumber: "4831"
+phone: +1-780-727-2974
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-entwistle-ab-esso-200303471"
+website: https://www.esso.ca/en-ca/find-station/esso-entwistle-ab-esso-200303471

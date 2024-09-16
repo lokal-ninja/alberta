@@ -1,11 +1,11 @@
 id: 544359818
-type: way
+type: node
 latitude: 53.02465
 longitude: -112.83148
-postcode: "T4V 1Z4"
+postcode: T4V 1Z4
 city: Camrose
-street: "53 Street"
-housenumber: 5102
-phone: "+1-780-672-2050"
+street: 53 Street
+housenumber: "5102"
+phone: +1-780-672-2050
 opening_hours: ""
 website: ""

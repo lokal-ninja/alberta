@@ -1,11 +1,11 @@
 id: 631156484
-type: way
+type: node
 latitude: 53.28476
 longitude: -110.01194
-postcode: "T9V 0P4"
+postcode: T9V 0P4
 city: Lloydminster
-street: "51 Street"
-housenumber: 5212
-phone: "+1-587-605-1311"
-opening_hours: "Mo-Fr 08:00-17:30; Sa-Su closed"
-website: "https://todds-automotive-services.business.site/"
+street: 51 Street
+housenumber: "5212"
+phone: +1-587-605-1311
+opening_hours: Mo-Fr 08:00-17:30; Sa-Su closed
+website: https://todds-automotive-services.business.site/

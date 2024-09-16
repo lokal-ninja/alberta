@@ -1,11 +1,11 @@
 id: 540912416
-type: way
+type: node
 latitude: 50.99065
 longitude: -113.95521
-postcode: "T2C 4X5"
+postcode: T2C 4X5
 city: Calgary
-street: "72 Avenue SE"
-housenumber: 5350
-phone: "+1 403-236-9712"
-opening_hours: "Mo-Fr 07:30-21:00"
-website: "https://www.fortgarryindustries.com/"
+street: 72 Avenue SE
+housenumber: "5350"
+phone: +1 403-236-9712
+opening_hours: Mo-Fr 07:30-21:00
+website: https://www.fortgarryindustries.com/

@@ -1,11 +1,11 @@
 id: 251113057
-type: way
+type: node
 latitude: 50.00664
 longitude: -110.6498
-postcode: "T1B 4E1"
+postcode: T1B 4E1
 city: Medicine Hat
-street: "Carry Drive Southeast"
-housenumber: 64
+street: Carry Drive Southeast
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

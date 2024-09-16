@@ -1,11 +1,11 @@
 id: 546504083
-type: way
+type: node
 latitude: 50.0412
 longitude: -110.67263
-postcode: "T1A 2Y9"
+postcode: T1A 2Y9
 city: Medicine Hat
-street: "North Railway Street SE"
-housenumber: 231
+street: North Railway Street SE
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

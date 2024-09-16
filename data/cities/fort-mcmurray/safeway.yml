@@ -1,11 +1,11 @@
 id: 271385530
-type: way
+type: node
 latitude: 56.72329
 longitude: -111.37472
 postcode: ""
 city: Fort McMurray
-street: "Franklin Avenue"
-housenumber: 9601
-phone: "+1-780-790-1988"
+street: Franklin Avenue
+housenumber: "9601"
+phone: +1-780-790-1988
 opening_hours: ""
 website: ""

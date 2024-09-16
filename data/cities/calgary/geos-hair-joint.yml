@@ -2,10 +2,10 @@ id: 5217303405
 type: node
 latitude: 51.05695
 longitude: -114.08475
-postcode: "T2N 0N2"
+postcode: T2N 0N2
 city: Calgary
-street: "4 Avenue NW"
-housenumber: 1002
+street: 4 Avenue NW
+housenumber: "1002"
 phone: ""
-opening_hours: "Tu-Su 10:00-19:00, Mo closed"
+opening_hours: Tu-Su 10:00-19:00, Mo closed
 website: ""

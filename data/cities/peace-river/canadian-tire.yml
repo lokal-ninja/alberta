@@ -1,11 +1,11 @@
 id: 286006159
-type: way
+type: node
 latitude: 56.23213
 longitude: -117.3391
-postcode: "T8S 1Y1"
+postcode: T8S 1Y1
 city: Peace River
-street: "100 Avenue"
-housenumber: 7713
-phone: "+1-780-624-9429"
+street: 100 Avenue
+housenumber: "7713"
+phone: +1-780-624-9429
 opening_hours: ""
-website: "https://www.canadiantire.ca/en/store-locator/ab/peace-river-ab.store.html"
+website: https://www.canadiantire.ca/en/store-locator/ab/peace-river-ab.store.html

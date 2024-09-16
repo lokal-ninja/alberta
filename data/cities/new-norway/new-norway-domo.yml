@@ -1,11 +1,11 @@
 id: 542947225
-type: way
+type: node
 latitude: 52.86846
 longitude: -112.95457
 postcode: ""
 city: New Norway
-street: "Main Street"
-housenumber: 326
-phone: "+1-780-855-3777"
+street: Main Street
+housenumber: "326"
+phone: +1-780-855-3777
 opening_hours: ""
 website: ""

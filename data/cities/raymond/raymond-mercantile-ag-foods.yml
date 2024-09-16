@@ -1,11 +1,11 @@
 id: 515377986
-type: way
+type: node
 latitude: 49.46235
 longitude: -112.66291
-postcode: "T0K 2S0"
+postcode: T0K 2S0
 city: Raymond
-street: "Broadway Street N"
-housenumber: 42
+street: Broadway Street N
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00, We-Fr 09:00-21:00, Sa 09:00-18:00"
+opening_hours: Mo-We 09:00-18:00, We-Fr 09:00-21:00, Sa 09:00-18:00
 website: ""

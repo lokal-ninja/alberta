@@ -1,11 +1,11 @@
 id: 409631462
-type: way
+type: node
 latitude: 50.94973
 longitude: -113.97767
-postcode: "T2Z 0H3"
+postcode: T2Z 0H3
 city: Calgary
-street: "114 Avenue SE"
-housenumber: 4143
-phone: "+1-403-723-9904"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 08:00-18:00, Su 09:00-17:00"
-website: "https://www.princessauto.com/en/store?storeId=31"
+street: 114 Avenue SE
+housenumber: "4143"
+phone: +1-403-723-9904
+opening_hours: Mo-Fr 09:00-21:00, Sa 08:00-18:00, Su 09:00-17:00
+website: https://www.princessauto.com/en/store?storeId=31

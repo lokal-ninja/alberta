@@ -1,11 +1,11 @@
 id: 669959514
-type: way
+type: node
 latitude: 49.66275
 longitude: -112.79543
-postcode: "T1K 7B1"
+postcode: T1K 7B1
 city: Lethbridge
-street: "32 Street S"
-housenumber: 3145
-phone: "+1-403-380-6765"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-16:00"
-website: "https://www.flooringlethbridge.com"
+street: 32 Street S
+housenumber: "3145"
+phone: +1-403-380-6765
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-16:00
+website: https://www.flooringlethbridge.com

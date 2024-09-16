@@ -1,11 +1,11 @@
 id: 79296531
-type: way
+type: node
 latitude: 51.17906
 longitude: -115.57146
-postcode: "T1L 1C1"
+postcode: T1L 1C1
 city: Banff
-street: "Banff Avenue"
-housenumber: 317
+street: Banff Avenue
+housenumber: "317"
 phone: ""
 opening_hours: ""
-website: "https://cascadeshops.com"
+website: https://cascadeshops.com

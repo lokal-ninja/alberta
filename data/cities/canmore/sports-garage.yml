@@ -2,10 +2,10 @@ id: 11748373022
 type: node
 latitude: 51.09787
 longitude: -115.36103
-postcode: "T1W 1Y1"
+postcode: T1W 1Y1
 city: Canmore
-street: "Industrial Place"
-housenumber: 1
-phone: "+1-403-679-2630"
+street: Industrial Place
+housenumber: "1"
+phone: +1-403-679-2630
 opening_hours: ""
-website: "https://sportsgarage.ca/"
+website: https://sportsgarage.ca/

@@ -1,11 +1,11 @@
 id: 628919173
-type: way
+type: node
 latitude: 53.27668
 longitude: -110.03342
-postcode: "T9V 2S6"
+postcode: T9V 2S6
 city: Lloydminster
-street: "43 Street"
-housenumber: 5925
-phone: "+1-780-875-9842"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su closed"
-website: "https://www.kaltire.com/"
+street: 43 Street
+housenumber: "5925"
+phone: +1-780-875-9842
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su closed
+website: https://www.kaltire.com/

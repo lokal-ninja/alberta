@@ -4,8 +4,8 @@ latitude: 51.03967
 longitude: -114.02994
 postcode: ""
 city: Calgary
-street: "9 Avenue SE"
-housenumber: 1426
-phone: "+1 403 265 6666"
-opening_hours: "Mo-Sa 09:30-17:00; Su off"
-website: "https://prolineshooters.com/"
+street: 9 Avenue SE
+housenumber: "1426"
+phone: +1 403 265 6666
+opening_hours: Mo-Sa 09:30-17:00; Su off
+website: https://prolineshooters.com/

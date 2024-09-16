@@ -1,11 +1,11 @@
 id: 260721603
-type: way
+type: node
 latitude: 51.56368
 longitude: -114.09745
-postcode: "T0M0N0"
+postcode: T0M0N0
 city: Carstairs
-street: "10 Avenue"
-housenumber: 530
+street: 10 Avenue
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

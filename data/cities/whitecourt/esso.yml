@@ -1,11 +1,11 @@
 id: 541383401
-type: way
+type: node
 latitude: 54.14222
 longitude: -115.71304
-postcode: "T7S 1S1"
+postcode: T7S 1S1
 city: Whitecourt
-street: "Caxton Street West"
-housenumber: 5128
-phone: "+1-780-934-2525"
+street: Caxton Street West
+housenumber: "5128"
+phone: +1-780-934-2525
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-whitecourt-ab-esso-200303651"
+website: https://www.esso.ca/en-ca/find-station/esso-whitecourt-ab-esso-200303651

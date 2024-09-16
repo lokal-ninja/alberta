@@ -1,11 +1,11 @@
 id: 540070289
-type: way
+type: node
 latitude: 54.76869
 longitude: -111.9826
-postcode: "T0A 2C0"
+postcode: T0A 2C0
 city: Lac la Biche
-street: "101 Avenue"
-housenumber: 10302
-phone: "+1-780-623-2806"
+street: 101 Avenue
+housenumber: "10302"
+phone: +1-780-623-2806
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-laclabiche-ab-esso-200303675"
+website: https://www.esso.ca/en-ca/find-station/esso-laclabiche-ab-esso-200303675

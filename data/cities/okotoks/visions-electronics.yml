@@ -1,11 +1,11 @@
 id: 743649275
-type: way
+type: node
 latitude: 50.70514
 longitude: -113.97823
-postcode: "T1S 0B2"
+postcode: T1S 0B2
 city: Okotoks
-street: "Southridge Drive"
-housenumber: 200
+street: Southridge Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

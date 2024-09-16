@@ -1,11 +1,11 @@
 id: 969938376
-type: way
+type: node
 latitude: 52.37724
 longitude: -114.91831
 postcode: ""
 city: Rocky Mountain House
-street: "49 Street"
-housenumber: 5132
-phone: "+1 403 845 3727"
+street: 49 Street
+housenumber: "5132"
+phone: +1 403 845 3727
 opening_hours: ""
-website: "http://valuedrugmart.com/"
+website: http://valuedrugmart.com/

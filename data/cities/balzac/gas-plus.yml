@@ -1,11 +1,11 @@
 id: 117445407
-type: way
+type: node
 latitude: 51.21272
 longitude: -114.00822
-postcode: "T0M 0E0"
+postcode: T0M 0E0
 city: Balzac
-street: "Main Street"
-housenumber: 100
-phone: "+1-403-226-0077"
+street: Main Street
+housenumber: "100"
+phone: +1-403-226-0077
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 85297300
-type: way
+type: node
 latitude: 51.07039
 longitude: -113.9875
-postcode: "T1Y 7A8"
+postcode: T1Y 7A8
 city: Calgary
-street: "20 Avenue NE"
-housenumber: 3351
+street: 20 Avenue NE
+housenumber: "3351"
 phone: ""
 opening_hours: ""
 website: ""

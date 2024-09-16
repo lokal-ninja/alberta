@@ -1,11 +1,11 @@
 id: 325059389
-type: way
+type: node
 latitude: 53.54157
 longitude: -113.44435
 postcode: ""
 city: Edmonton
-street: "76 Street NW"
-housenumber: 10111
+street: 76 Street NW
+housenumber: "10111"
 phone: ""
 opening_hours: ""
 website: ""

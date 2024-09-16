@@ -1,11 +1,11 @@
 id: 666359524
-type: way
+type: node
 latitude: 51.30443
 longitude: -114.01088
-postcode: "T4B 0J6"
+postcode: T4B 0J6
 city: Airdrie
-street: "Gateway Drive NE"
-housenumber: 44
+street: Gateway Drive NE
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

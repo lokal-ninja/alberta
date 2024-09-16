@@ -1,11 +1,11 @@
 id: 540070284
-type: way
+type: node
 latitude: 54.76703
 longitude: -111.98445
-postcode: "T0A 2C0"
+postcode: T0A 2C0
 city: Lac la Biche
-street: "Alberta Avenue"
-housenumber: 10323
-phone: "+1-780-623-2974"
+street: Alberta Avenue
+housenumber: "10323"
+phone: +1-780-623-2974
 opening_hours: ""
 website: ""

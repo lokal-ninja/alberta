@@ -1,11 +1,11 @@
 id: 541441419
-type: way
+type: node
 latitude: 51.05812
 longitude: -114.13647
-postcode: "T2N 0M2"
+postcode: T2N 0M2
 city: Calgary
-street: "3 Avenue NW"
-housenumber: 3404
+street: 3 Avenue NW
+housenumber: "3404"
 phone: ""
 opening_hours: ""
 website: ""

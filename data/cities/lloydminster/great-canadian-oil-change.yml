@@ -1,11 +1,11 @@
 id: 617500010
-type: way
+type: node
 latitude: 53.26726
 longitude: -110.00631
 postcode: ""
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 3120
-phone: "+1-780-875-0040"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su closed"
-website: "https://www.gcoc.ca/"
+street: 50 Avenue
+housenumber: "3120"
+phone: +1-780-875-0040
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su closed
+website: https://www.gcoc.ca/

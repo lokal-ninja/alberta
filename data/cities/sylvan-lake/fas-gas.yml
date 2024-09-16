@@ -1,11 +1,11 @@
 id: 543898936
-type: way
+type: node
 latitude: 52.30033
 longitude: -114.09653
-postcode: "T4S 1J9"
+postcode: T4S 1J9
 city: Sylvan Lake
-street: "50 Street"
-housenumber: 4405
-phone: "+1-403-887-4555"
+street: 50 Street
+housenumber: "4405"
+phone: +1-403-887-4555
 opening_hours: ""
 website: ""

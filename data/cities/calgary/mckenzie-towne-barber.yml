@@ -1,11 +1,11 @@
 id: 569425326
-type: way
+type: node
 latitude: 50.91534
 longitude: -113.96037
-postcode: "T2Z 3T8"
+postcode: T2Z 3T8
 city: Calgary
-street: "High Street SE"
-housenumber: 44
+street: High Street SE
+housenumber: "44"
 phone: ""
-opening_hours: "10:00-19:00"
+opening_hours: 10:00-19:00
 website: ""

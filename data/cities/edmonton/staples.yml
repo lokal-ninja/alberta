@@ -1,11 +1,11 @@
 id: 120628706
-type: way
+type: node
 latitude: 53.59321
 longitude: -113.41808
-postcode: "T5A 5B5"
+postcode: T5A 5B5
 city: Edmonton
-street: "50 Street NW"
-housenumber: 13118
+street: 50 Street NW
+housenumber: "13118"
 phone: ""
 opening_hours: ""
-website: "https://stores.staples.ca/ab/edmonton/office-supplies-ca-60.html"
+website: https://stores.staples.ca/ab/edmonton/office-supplies-ca-60.html

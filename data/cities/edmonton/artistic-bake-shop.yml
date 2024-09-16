@@ -1,11 +1,11 @@
 id: 1268291476
-type: way
+type: node
 latitude: 53.50496
 longitude: -113.49821
-postcode: "T6H 2L6"
+postcode: T6H 2L6
 city: Edmonton
-street: "104 Street NW"
-housenumber: 6820
+street: 104 Street NW
+housenumber: "6820"
 phone: "+17804348686"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 07:30-15:00"
-website: "https://www.artisticbakeshop.com/"
+opening_hours: Tu-Fr 08:30-17:30; Sa 07:30-15:00
+website: https://www.artisticbakeshop.com/

@@ -1,11 +1,11 @@
 id: 544327145
-type: way
+type: node
 latitude: 53.09031
 longitude: -113.46994
-postcode: "T0C 1Z0"
+postcode: T0C 1Z0
 city: Millet
-street: "45 Avenue"
-housenumber: 5003
-phone: "+1-780-387-5445"
+street: 45 Avenue
+housenumber: "5003"
+phone: +1-780-387-5445
 opening_hours: ""
 website: ""

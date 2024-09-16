@@ -1,11 +1,11 @@
 id: 710245082
-type: way
+type: node
 latitude: 51.03409
 longitude: -114.07171
-postcode: "T2S 1W8"
+postcode: T2S 1W8
 city: Calgary
-street: "4 Street SW"
-housenumber: 2101
-phone: "+1 403 228 6335"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://marlowfloralworks.com/"
+street: 4 Street SW
+housenumber: "2101"
+phone: +1 403 228 6335
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://marlowfloralworks.com/

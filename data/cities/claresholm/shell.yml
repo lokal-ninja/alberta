@@ -1,11 +1,11 @@
 id: 542589534
-type: way
+type: node
 latitude: 50.02011
 longitude: -113.57865
-postcode: "T0L 0T0"
+postcode: T0L 0T0
 city: Claresholm
-street: "1 Street"
-housenumber: 4312
-phone: "+1-403-625-4179"
+street: 1 Street
+housenumber: "4312"
+phone: +1-403-625-4179
 opening_hours: ""
 website: ""

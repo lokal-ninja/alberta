@@ -1,11 +1,11 @@
 id: 1024788822
-type: way
+type: node
 latitude: 50.94606
 longitude: -114.57558
-postcode: "T0L 0K0"
+postcode: T0L 0K0
 city: Bragg Creek
-street: "White Avenue"
-housenumber: 117
-phone: "+1-403-949-3737"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.braggcreek-tradingpost.ca/"
+street: White Avenue
+housenumber: "117"
+phone: +1-403-949-3737
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.braggcreek-tradingpost.ca/

@@ -1,11 +1,11 @@
 id: 680609238
-type: way
+type: node
 latitude: 51.26674
 longitude: -113.99972
 postcode: ""
 city: Airdrie
-street: "Kingsview Road SE"
-housenumber: 45
+street: Kingsview Road SE
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 569493812
-type: way
+type: node
 latitude: 51.09217
 longitude: -114.04973
-postcode: "T2E 3Z6"
+postcode: T2E 3Z6
 city: Calgary
-street: "6 Street NE"
-housenumber: 4429
+street: 6 Street NE
+housenumber: "4429"
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

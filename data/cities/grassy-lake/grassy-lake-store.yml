@@ -1,11 +1,11 @@
 id: 542811014
-type: way
+type: node
 latitude: 49.82525
 longitude: -111.69888
-postcode: "T0K 0Z0"
+postcode: T0K 0Z0
 city: Grassy Lake
-street: "1 Street"
-housenumber: 604
-phone: "+1-403-655-2227"
+street: 1 Street
+housenumber: "604"
+phone: +1-403-655-2227
 opening_hours: ""
 website: ""

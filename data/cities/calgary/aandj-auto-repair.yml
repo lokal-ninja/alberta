@@ -1,11 +1,11 @@
 id: 569493823
-type: way
+type: node
 latitude: 51.09045
 longitude: -114.05818
-postcode: "T2E 2N3"
+postcode: T2E 2N3
 city: Calgary
-street: "41 Avenue NE"
-housenumber: 230
+street: 41 Avenue NE
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

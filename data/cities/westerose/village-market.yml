@@ -1,11 +1,11 @@
 id: 640598670
-type: way
+type: node
 latitude: 52.96073
 longitude: -114.02829
-postcode: "T0C 2V0"
+postcode: T0C 2V0
 city: Westerose
-street: "Village Drive"
-housenumber: 7
+street: Village Drive
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

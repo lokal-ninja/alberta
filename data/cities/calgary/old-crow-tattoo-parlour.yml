@@ -1,11 +1,11 @@
 id: 676385164
-type: way
+type: node
 latitude: 51.05348
 longitude: -114.04476
 postcode: ""
 city: Calgary
-street: "7A Street NE"
-housenumber: 203
+street: 7A Street NE
+housenumber: "203"
 phone: ""
-opening_hours: "Tu-Su 12:00-18:00"
+opening_hours: Tu-Su 12:00-18:00
 website: ""

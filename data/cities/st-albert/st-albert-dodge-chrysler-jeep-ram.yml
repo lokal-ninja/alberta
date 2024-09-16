@@ -1,11 +1,11 @@
 id: 159278685
-type: way
+type: node
 latitude: 53.62424
 longitude: -113.61565
-postcode: "T8N 0P7"
+postcode: T8N 0P7
 city: St. Albert
-street: "St Albert Trail"
-housenumber: 184
-phone: "+1-780-458-8660"
+street: St Albert Trail
+housenumber: "184"
+phone: +1-780-458-8660
 opening_hours: ""
-website: "https://www.stalbertdodge.com/"
+website: https://www.stalbertdodge.com/

@@ -1,11 +1,11 @@
 id: 476473783
-type: way
+type: node
 latitude: 53.47551
 longitude: -113.36648
-postcode: "T6T 0C1"
+postcode: T6T 0C1
 city: Edmonton
-street: "17 Street NW"
-housenumber: 3717
-phone: "+1-587-772-7002"
-opening_hours: "Mo-Sa 09:30-21:00; Su 10:00-19:00"
-website: "https://locationsca.michaels.com/ab/edmonton/4944/"
+street: 17 Street NW
+housenumber: "3717"
+phone: +1-587-772-7002
+opening_hours: Mo-Sa 09:30-21:00; Su 10:00-19:00
+website: https://locationsca.michaels.com/ab/edmonton/4944/

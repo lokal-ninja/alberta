@@ -1,11 +1,11 @@
 id: 504495132
-type: way
+type: node
 latitude: 51.03819
 longitude: -114.07577
-postcode: "T2S 0B4"
+postcode: T2S 0B4
 city: Calgary
-street: "17 Avenue SW"
-housenumber: 624
+street: 17 Avenue SW
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

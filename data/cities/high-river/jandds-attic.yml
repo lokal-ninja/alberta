@@ -1,11 +1,11 @@
 id: 1020094458
-type: way
+type: node
 latitude: 50.57354
 longitude: -113.83937
-postcode: "T1V 2A9"
+postcode: T1V 2A9
 city: High River
-street: "18 Street SE"
-housenumber: 1004
+street: 18 Street SE
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

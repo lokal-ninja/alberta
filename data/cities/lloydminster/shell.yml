@@ -1,11 +1,11 @@
 id: 544395275
-type: way
+type: node
 latitude: 53.27769
 longitude: -110.0247
-postcode: "T9V 0B4"
+postcode: T9V 0B4
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5635
-phone: "+1-780-875-7436"
-opening_hours: "Mo-Su 05:00-23:00"
+street: Ray Nelson Drive
+housenumber: "5635"
+phone: +1-780-875-7436
+opening_hours: Mo-Su 05:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 26819097
-type: way
+type: node
 latitude: 51.01981
 longitude: -114.17532
 postcode: ""
 city: Calgary
-street: "Signal Hill Centre SW"
-housenumber: 5858
-phone: "+1-403-686-8036"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1577"
+street: Signal Hill Centre SW
+housenumber: "5858"
+phone: +1-403-686-8036
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1577

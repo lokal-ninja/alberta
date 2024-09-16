@@ -1,11 +1,11 @@
 id: 746304246
-type: way
+type: node
 latitude: 51.30607
 longitude: -114.00627
 postcode: ""
 city: Airdrie
-street: "Gateway Drive NE"
-housenumber: 124
+street: Gateway Drive NE
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

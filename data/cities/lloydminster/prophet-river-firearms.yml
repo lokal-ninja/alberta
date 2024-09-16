@@ -1,11 +1,11 @@
 id: 623950839
-type: way
+type: node
 latitude: 53.28403
 longitude: -110.00617
-postcode: "T9V 0W7"
+postcode: T9V 0W7
 city: Lloydminster
-street: "50 Avenue"
-housenumber: 5012
-phone: "+1-780-875-0575"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-16:00; Su closed"
-website: "https://store.prophetriver.com/pages/Contact-Us.html"
+street: 50 Avenue
+housenumber: "5012"
+phone: +1-780-875-0575
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-16:00; Su closed
+website: https://store.prophetriver.com/pages/Contact-Us.html

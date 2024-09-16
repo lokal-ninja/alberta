@@ -1,11 +1,11 @@
 id: 628920845
-type: way
+type: node
 latitude: 53.27655
 longitude: -110.04183
-postcode: "T9V 3E8"
+postcode: T9V 3E8
 city: Lloydminster
-street: "43 Street"
-housenumber: 6601
-phone: "+1-780-871-2889"
-opening_hours: "Mo-Fr 08:30-17:00; Sa-Su closed"
-website: "http://www.medichair.com/"
+street: 43 Street
+housenumber: "6601"
+phone: +1-780-871-2889
+opening_hours: Mo-Fr 08:30-17:00; Sa-Su closed
+website: http://www.medichair.com/

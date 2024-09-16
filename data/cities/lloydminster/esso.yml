@@ -1,11 +1,11 @@
 id: 544395292
-type: way
+type: node
 latitude: 53.27725
 longitude: -110.02777
-postcode: "T9V 0B3"
+postcode: T9V 0B3
 city: Lloydminster
-street: "Ray Nelson Drive"
-housenumber: 5721
+street: Ray Nelson Drive
+housenumber: "5721"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.esso.ca/en-ca/find-station/lloydminster-ab-lloydminsterhusky4794-200323547"
+opening_hours: 24/7
+website: https://www.esso.ca/en-ca/find-station/lloydminster-ab-lloydminsterhusky4794-200323547

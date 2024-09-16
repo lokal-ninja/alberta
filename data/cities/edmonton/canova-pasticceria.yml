@@ -1,11 +1,11 @@
 id: 1039003760
-type: way
+type: node
 latitude: 53.5841
 longitude: -113.53717
-postcode: "T5L 0T6"
+postcode: T5L 0T6
 city: Edmonton
-street: "125 Street NW"
-housenumber: 12667
+street: 125 Street NW
+housenumber: "12667"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 540471762
-type: way
+type: node
 latitude: 54.35556
 longitude: -113.85004
-postcode: "T0G 1H0"
+postcode: T0G 1H0
 city: Dapp
-street: "AB-44"
-housenumber: 62131
-phone: "+1-780-954-3852"
+street: AB-44
+housenumber: "62131"
+phone: +1-780-954-3852
 opening_hours: ""
 website: ""

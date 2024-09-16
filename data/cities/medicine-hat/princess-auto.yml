@@ -1,11 +1,11 @@
 id: 552324263
-type: way
+type: node
 latitude: 50.06339
 longitude: -110.73918
-postcode: "T1C 0C8"
+postcode: T1C 0C8
 city: Medicine Hat
-street: "Box Springs Boulevard Northwest"
-housenumber: 2251
+street: Box Springs Boulevard Northwest
+housenumber: "2251"
 phone: ""
 opening_hours: ""
 website: ""

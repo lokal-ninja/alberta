@@ -1,11 +1,11 @@
 id: 1160978726
-type: way
+type: node
 latitude: 53.66847
 longitude: -113.63139
-postcode: "T8N 4K6"
+postcode: T8N 4K6
 city: St. Albert
-street: "St. Albert Trail"
-housenumber: 925
+street: St. Albert Trail
+housenumber: "925"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""
