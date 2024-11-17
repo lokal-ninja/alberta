@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /st-albert/dollarama/
-shop: general
+shop: variety store
 ---
