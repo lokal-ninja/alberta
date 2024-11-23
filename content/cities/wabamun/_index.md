@@ -1,6 +1,6 @@
 ---
 title: Wabamun
 url: /wabamun/
-latitude: 53.58
-longitude: -114.541
+latitude: 53.579
+longitude: -114.542
 ---
