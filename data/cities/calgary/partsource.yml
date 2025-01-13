@@ -7,5 +7,5 @@ city: Calgary
 street: 17 Avenue SW
 housenumber: "3708"
 phone: +1-403-240-4315
-opening_hours: Mo-Fr 08:00-20:00,Sa 0800-17:00,Su 0900:17:00
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-17:00
 website: https://partsource.ca/pages/calgary-store-3708-17th-avenue-south-west
