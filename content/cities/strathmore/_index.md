@@ -1,6 +1,6 @@
 ---
 title: Strathmore
 url: /strathmore/
-latitude: 51.039
-longitude: -113.375
+latitude: 51.04
+longitude: -113.378
 ---
