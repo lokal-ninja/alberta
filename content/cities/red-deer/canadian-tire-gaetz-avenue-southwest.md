@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /red-deer/canadian-tire-50-avenue/
+url: /red-deer/canadian-tire-gaetz-avenue-southwest/
 shop: department store
 ---
