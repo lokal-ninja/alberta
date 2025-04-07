@@ -3,9 +3,9 @@ type: node
 latitude: 51.08922
 longitude: -114.05288
 postcode: T2E 2M7
-city: calgary
+city: Calgary
 street: 40 Avenue NE
-housenumber: 430b
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: "430"
+phone: +1 403 457 2453
+opening_hours: Tu-Sa 11:00-18:00
+website: https://www.bikebike.ca/
