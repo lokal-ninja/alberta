@@ -7,5 +7,5 @@ city: Calgary
 street: 11 Avenue SW
 housenumber: "1005"
 phone: +1 825 540 4718
-opening_hours: ""
+opening_hours: Mo,Tu,Sa 09:00-18:00; We-Fr 09:00-20:00; Su,PH 10:00-17:00
 website: https://www.winsyyc.ca/

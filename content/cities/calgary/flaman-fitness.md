@@ -1,5 +1,5 @@
 ---
 title: "Flaman Fitness"
 url: /calgary/flaman-fitness/
-shop: shop
+shop: fitness equipment
 ---
