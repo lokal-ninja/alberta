@@ -1,12 +1,11 @@
 id: 6348022497
 type: node
-latitude: 50.96239
-longitude: -114.08679
+latitude: 50.96229
+longitude: -114.08661
 postcode: T2W 1E8
 city: Calgary
 street: Elbow Drive SW
 housenumber: "10233"
 phone: ""
-opening_hours: Mo 12:30-20:00; Tu-We 11:00-20:00; Th-Fr 11:00-21:00; Sa 10:30-18:30;
-    Su 11:00-17:00
+opening_hours: Mo-We 12:00-18:00; Th,Fr 12:00-19:30; Sa,Su 11:30-16:30
 website: ""
