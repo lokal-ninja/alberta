@@ -1,6 +1,6 @@
 ---
 title: Westlock
 url: /westlock/
-latitude: 54.153
-longitude: -113.85
+latitude: 54.164
+longitude: -113.848
 ---
