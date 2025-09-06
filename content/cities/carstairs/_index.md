@@ -1,6 +1,6 @@
 ---
 title: Carstairs
 url: /carstairs/
-latitude: 51.566
-longitude: -114.102
+latitude: 51.564
+longitude: -114.099
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brooks
 url: /brooks/
-latitude: 50.574
-longitude: -111.898
+latitude: 50.566
+longitude: -111.881
 ---

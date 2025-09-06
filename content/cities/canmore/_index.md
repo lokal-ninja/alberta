@@ -1,6 +1,6 @@
 ---
 title: Canmore
 url: /canmore/
-latitude: 51.089
-longitude: -115.358
+latitude: 51.092
+longitude: -115.357
 ---
