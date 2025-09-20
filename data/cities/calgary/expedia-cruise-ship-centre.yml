@@ -1,11 +1,11 @@
 id: 2732570493
 type: node
-latitude: 51.10612
-longitude: -114.16316
+latitude: 51.10614
+longitude: -114.1632
 postcode: T3A 5R8
 city: Calgary
 street: Dalhousie Drive NW
-housenumber: 727 5005
+housenumber: "5005"
 phone: ""
 opening_hours: Mo-Fr 09:30-17:00; Sa 10:00-16:00; Su closed; PH closed
 website: ""
