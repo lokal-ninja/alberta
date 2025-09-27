@@ -1,5 +1,5 @@
 ---
 title: "Save-On-Foods"
-url: /airdrie/save-on-foods-market-street-se/
+url: /edmonton/save-on-foods-199-street-nw/
 shop: supermarket
 ---

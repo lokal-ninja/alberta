@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /edmonton/bell-ave-nw-at-66-st/
+url: /edmonton/bell-ave-at-groat-rd-nw/
 shop: mobile phone
 ---
