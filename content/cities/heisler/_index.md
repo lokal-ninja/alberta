@@ -1,6 +1,6 @@
 ---
 title: Heisler
 url: /heisler/
-latitude: 52.669
-longitude: -112.224
+latitude: 52.67
+longitude: -112.221
 ---
