@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
-url: /calgary/no-frills-85-street-sw/
+url: /olds/no-frills/
 shop: supermarket
 ---
