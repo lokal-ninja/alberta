@@ -1,6 +1,6 @@
 ---
 title: Vegreville
 url: /vegreville/
-latitude: 53.499
-longitude: -112.064
+latitude: 53.501
+longitude: -112.069
 ---
