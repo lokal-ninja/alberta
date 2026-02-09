@@ -7,5 +7,5 @@ city: Edmonton
 street: 104 Street
 housenumber: "10150"
 phone: ""
-opening_hours: Mo-Tu Off; We-Fri 12:00-18:00; Sa 11:00-17:00; Su 12:00-17:00
+opening_hours: We-Fr 12:00-18:00; Sa 11:00-17:00; Su 12:00-17:00; Mo-Tu Off
 website: ""

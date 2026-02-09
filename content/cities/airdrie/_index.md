@@ -1,6 +1,6 @@
 ---
 title: Airdrie
 url: /airdrie/
-latitude: 51.292
-longitude: -114.015
+latitude: 51.293
+longitude: -114.012
 ---

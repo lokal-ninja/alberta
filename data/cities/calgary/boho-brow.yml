@@ -7,5 +7,5 @@ city: Calgary
 street: Greenbriar Drive NW
 housenumber: "45"
 phone: ""
-opening_hours: Monday/Friday/Sunday 10:00-15:00, Wednesday 12:00-18:30,
+opening_hours: Mo,Fr,Su 10:00-15:00, We 12:00-18:30
 website: ""
