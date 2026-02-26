@@ -1,6 +1,6 @@
 ---
 title: Eckville
 url: /eckville/
-latitude: 52.359
-longitude: -114.365
+latitude: 52.36
+longitude: -114.368
 ---
