@@ -1,6 +1,6 @@
 ---
 title: Red Deer
 url: /red-deer/
-latitude: 52.262
-longitude: -113.819
+latitude: 52.243
+longitude: -113.811
 ---
