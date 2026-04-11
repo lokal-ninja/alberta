@@ -2,5 +2,5 @@
 title: Gibbons
 url: /gibbons/
 latitude: 53.828
-longitude: -113.324
+longitude: -113.323
 ---
