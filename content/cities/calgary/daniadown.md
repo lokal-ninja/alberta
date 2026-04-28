@@ -1,5 +1,5 @@
 ---
 title: "Daniadown"
 url: /calgary/daniadown/
-shop: fabric
+shop: bed
 ---

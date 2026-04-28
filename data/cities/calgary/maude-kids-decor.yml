@@ -1,11 +1,12 @@
 id: 12616477566
 type: node
-latitude: 51.03662
-longitude: -114.07129
+latitude: 51.03665
+longitude: -114.07135
 postcode: T2S 0C9
 city: Calgary
 street: 4 Street SW
 housenumber: "1812"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Fr 11:00-18:00; Th 11:00-19:00; Sa 10:00-17:00; Su 10:00-16:00;
+    Mo off
 website: https://maudekids.com/
