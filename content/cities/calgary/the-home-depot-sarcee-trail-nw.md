@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /calgary/the-home-depot-nose-hill-drive-nw/
+url: /calgary/the-home-depot-sarcee-trail-nw/
 shop: doityourself
 ---
