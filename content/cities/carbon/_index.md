@@ -2,5 +2,5 @@
 title: Carbon
 url: /carbon/
 latitude: 51.487
-longitude: -113.152
+longitude: -113.154
 ---
