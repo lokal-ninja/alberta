@@ -1,6 +1,6 @@
 ---
 title: Tsuut'ina
 url: /tsuutina/
-latitude: 51
-longitude: -114.162
+latitude: 50.999
+longitude: -114.163
 ---
