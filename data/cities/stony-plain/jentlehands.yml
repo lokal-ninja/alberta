@@ -7,5 +7,5 @@ city: Stony Plain
 street: 47 Street
 housenumber: "5110"
 phone: ""
-opening_hours: By Appointment
+opening_hours: '"by appointment"'
 website: https://www.jentlehands.ca/?utm_source=openstreetmap

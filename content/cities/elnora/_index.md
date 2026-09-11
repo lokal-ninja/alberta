@@ -1,6 +1,6 @@
 ---
 title: Elnora
 url: /elnora/
-latitude: 51.993
-longitude: -113.199
+latitude: 52.02
+longitude: -113.148
 ---
