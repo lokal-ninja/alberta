@@ -1,6 +1,6 @@
 ---
 title: Sundre
 url: /sundre/
-latitude: 51.804
-longitude: -114.64
+latitude: 51.796
+longitude: -114.639
 ---

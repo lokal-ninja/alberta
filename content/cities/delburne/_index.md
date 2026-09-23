@@ -1,6 +1,6 @@
 ---
 title: Delburne
 url: /delburne/
-latitude: 52.196
-longitude: -113.225
+latitude: 52.197
+longitude: -113.238
 ---
