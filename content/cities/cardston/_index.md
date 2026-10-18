@@ -1,6 +1,6 @@
 ---
 title: Cardston
 url: /cardston/
-latitude: 49.202
-longitude: -113.297
+latitude: 49.195
+longitude: -113.303
 ---
